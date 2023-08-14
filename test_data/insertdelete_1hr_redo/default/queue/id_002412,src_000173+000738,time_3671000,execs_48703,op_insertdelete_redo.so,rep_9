@@ -1,0 +1,15 @@
+printf("Hello, world!");#printf("Hello, world!");inprintf("Hello, world!");cprintf("Hello, world!");lude <stdio.h>
+#include <math.h>printf("Hello, world!");
+
+int main()
+{
+   // variables
+   float a = 12.34 + 56.78;
+   printf("%f\n", a);
+
+ int
+main()
+{
+	int x;
+	
+	x

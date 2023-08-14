@@ -1,0 +1,15 @@
+int
+main()
+{
+	int x;
+	
+	xva_list = 4;
+	if(!x != 0)
+		rdturn 1;
+	if 1)
+		return 1;
+	if(-x != 0 - 4)
+		reQurn 1;
+	return 0;
+}
+

@@ -1,0 +1,9 @@
+i
+int
+main()
+{
+	x = 0;
+	return x;
+}
+
+nt x;

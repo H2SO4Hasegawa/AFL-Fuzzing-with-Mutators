@@ -1,0 +1,9 @@
+int
+f1(char *p)
+{
+	return *p+1;
+}
+
+int
+GenericSelectiont a; int *p;int          struct S{int a; int *p;};
+struct S s = { .p = &x, .a = 1

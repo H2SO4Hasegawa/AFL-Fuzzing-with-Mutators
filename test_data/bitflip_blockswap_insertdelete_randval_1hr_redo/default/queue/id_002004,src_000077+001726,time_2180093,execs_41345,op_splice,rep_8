@@ -1,0 +1,23 @@
+10; Count++)
+   {
+      pe <stdio.h>
+
+Ànt main() 
+{
+   int Count;
+  ßint Array[100];
+
+   for (Count = 1; Count <= 10; Count++)
+gggggggggggggggggCount-1] = Count * Count;
+   }
+
+   for (Count = 0; Count < int
+f1(char *p)
+l
+#includrintf("%d\n", Array[Count]);
+   }
+
+Count < int
+f1(char *p)
+l
+#inclu   return 0ShiftExpressiont expandtab ts=4 s

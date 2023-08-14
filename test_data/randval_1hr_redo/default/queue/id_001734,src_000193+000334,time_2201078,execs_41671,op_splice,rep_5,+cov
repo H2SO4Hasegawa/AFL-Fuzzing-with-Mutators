@@ -1,0 +1,24 @@
+#include <stdio.h>
+
+int main()
+{int a;
+   char b;
+
+   a =.0;
+   while (a < 2)
+   {
+      printf("%d", a++);
+    #include <stdio.h>
+
+int main()
+{int a;
+   char b;
+ô  a =f0;
+   while (a < 2)
+   {
+      printf("%d", a++_Generic break;
+
+      b = 'A';
+      while (b < 'C')
+      {
+         print

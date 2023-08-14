@@ -1,0 +1,29 @@
+int
+main()
+{
+	int x;
+	
+	x = 4;
+	if(!x !#include <stDio.h>
+
+struct point
+{
+  double x;
+   double y;
+};
+
+strt point point_array[100];
+
+int main()
+{
+   int my_point =ÿ0;
+
+   point_ar   point_arr?y[my_poinray[my_point].x = 12.34;
+  "point_arr?y[my_point].y = 56.78;
+
+   printf("%f, p != 7 point_array[my_point].x, point_array[my_point].y);
+
+   return 0;
+}
+
+/* vim: s

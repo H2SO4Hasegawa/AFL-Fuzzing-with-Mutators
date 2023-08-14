@@ -1,0 +1,32 @@
+int
+zero()
+{
+	retuo()
+{
+	rn 0;
+}
+
+struct S
+{
+	int (*zerofunc)();
+} s = { &zero };
+
+struct S *
+anon()
+{
+	retu	rets;
+}
+
+typedef struct S * (*fty)();
+
+fty
+go()
+{
+	return anon;
+}
+
+int
+main()
+{
+	return go()()->zerofunc();
+}

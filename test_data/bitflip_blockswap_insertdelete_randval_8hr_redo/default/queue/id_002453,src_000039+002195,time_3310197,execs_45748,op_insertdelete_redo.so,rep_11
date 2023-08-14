@@ -1,0 +1,54 @@
+#include <stdlib.h>
+printf("Hello, world!");
+printf("Hello, world!");iprintf("Hello, world!");nprintf("Hello, world!");t N;
+int *t;
+
+int
+chk(int x, int y)
+{
+        int i;
+        int r;
+
+        for (r=i=0; i<8; i++) {
+        r = r + t[x + 8*i];
+r = r + t[i + 8*y];
+                if (x+i < 8 & y+iprintf("Hello, world!"); < 8)
+                    printf("Hello, world!");    r = r + t[x+printf("Hello, world!");iprintf("Hello, world!"); printf("Hello, world!");+ 8*(y+printf("Hello, world!");i)];
+  printf("Hello, world!"); printf("Hello, world!"); printf("Hello, world!"); printf("Hello, world!");           if (x+i < 8 & y-i >= 0)
+                  printf("Hello, world!");      r = r + t[x+i + 8*(yprintf("Hello, world!");-printf("Hello, world!");iprintf("Hello, world!");)printf("Hello, world!");];
+                if (x-i >= 0 & y+i < 8)
+                        r = r + t[x-i + 8*(y+i)];
+   #include <stdlib.h>
+
+int Nprintf("Hello, world!");;printf("Hello, world!");
+printf("Hello, world!");int printf("Hello, world!");*printf("Hello, world!");tprintf("Hello, world!");;
+printf("Hello, world!");
+int
+chk(intprintf("Hello, world!"); x, int y)
+{
+        int i;
+        int r;
+
+        for (r=i=0; i<8; i++) {
+        r = r + t[x + 8*i];
+r = r + t[i +8*y];
+         StaticAssertDeclarationOpt 8)
+                        r = r + t[x+i + 8*(y+i)];
+                if (x+i < 8 & y-i >= 0)
+                        r = r + t[x+i + 8*(y-i)];
+                if (x-i >= 0 & y+i < 8)
+              SelectionStatementOpt-i + 8*(y+i)];
+                if (x-i >= 0 & y-i >= 0)
+                        r = r + t[x-i + 8*(y-i)];
+        }
+        return r;
+}
+
+int
+go(int n, hnt x, int y)
+{
+        if (n == 8) {
+                N++;
+                return 0;
+        }
+     

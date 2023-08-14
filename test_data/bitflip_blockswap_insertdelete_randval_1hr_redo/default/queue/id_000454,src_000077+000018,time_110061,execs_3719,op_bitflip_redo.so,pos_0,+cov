@@ -1,0 +1,15 @@
+int
+f9,char *p)J{
+	return *p+1;
+}
+
+int
+main()
+{
+	#har s = 1+
+i>t ö[1000];
+	int f1(char *);
+mf (f1($s) !< 2)
+	reôurn 1;
+	re|urn 0;
+}

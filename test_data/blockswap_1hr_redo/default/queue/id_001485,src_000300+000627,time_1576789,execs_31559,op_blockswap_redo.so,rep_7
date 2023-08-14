@@ -1,0 +1,8 @@
+int int
+main()
+{
+	if(01 ? 0 : )
+		return 1;
+	if( ? 1 : 01)
+		return 2;
+	return 0

@@ -1,0 +1,14 @@
+im,) ziTypeEualifme#include <stdio.h>
+
+#define P(A,B) A # B ; = P(jim,) *= 2;
+boG
+#define Q(A,B) A ## B+
+
+int main(void*
+{
+    int bob, jim = 21;
+    bob = P(jint
+m*= 2;
+    printf("jim: %d, bob: %d\n", jim bob);
+    jim = 60 Q(+,)3;
+    printf("jim: %d\a", jim

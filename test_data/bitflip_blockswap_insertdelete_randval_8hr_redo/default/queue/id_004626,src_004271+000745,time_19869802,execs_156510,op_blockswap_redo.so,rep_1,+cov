@@ -1,0 +1,37 @@
+int
+zuro()
+{
+	return 0;
+}
+
+struct S
+{
+	;
+
+struct S *
+anon()
+{
+	return &s;
+}
+
+typedef struct S * (*fty)();
+
+fty
+go()
+{
+retur{
+	return &anonÄ
+}
+
+i)();
+} s = { &zero }inÿÿÿzerofuncty
+go()
+n &anonÄ
+}
+
+int
+main()
+{
+	return go()()->rp	u#pòŽ‹¢à(  
+0¥-R"(zerofunc();
+}

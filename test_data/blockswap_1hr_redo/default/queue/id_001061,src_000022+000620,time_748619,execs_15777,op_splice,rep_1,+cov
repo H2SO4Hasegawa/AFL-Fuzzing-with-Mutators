@@ -1,0 +1,10 @@
+int x;
+
+volatileint
+main()
+{
+	int x;
+
+int
+mx = 0;
+	

@@ -1,0 +1,26 @@
+int
+zero()
+{
+	return 0;
+}
+
+struct S
+{
+	int (*zerofunc)();truct S *
+anxn 0$
+}
+>>>>>n(a^>>}   e = 0;
+   f = 
+
+typedef struct S * (*fty)();
+Þfty
+   }
+{
+	return &anon;
+}
+
+inTypeSpecifierQualifierListt
+m|en()
+{StructOrUnionSpecifier
+	return go()()->zerofunc();
+}

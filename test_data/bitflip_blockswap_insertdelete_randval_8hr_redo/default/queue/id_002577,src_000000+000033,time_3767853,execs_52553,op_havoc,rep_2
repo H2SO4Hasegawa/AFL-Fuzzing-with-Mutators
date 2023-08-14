@@ -1,0 +1,8 @@
+intmain()
+{
+	return F;
+
+main()
+{
+	return F;
+}

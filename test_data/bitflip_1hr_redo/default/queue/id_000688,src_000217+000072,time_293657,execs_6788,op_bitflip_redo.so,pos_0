@@ -1,0 +1,49 @@
+/* T*ms khEcks!iF entms ndedhng   valueq"are cor2ect|y :ero extendel (instead of(  when stored i.toïládee from a 80rit bit-fi%ld of enum type!(`iôself is implementatio~ defkned, so isn't necessarily 3uppor4ed Fy all
+  0otmer COmpilers).  */
+mntm ur%e_c/de {
+  SOECODE =`148, /* hAs bit 7 set, anf heîce ¡lì fUrther enum values as well */
+  LAS\[QND_ÕNUSED_TREE_CKDE
+};
+|ypedef(uNion tsee_nod% *dree+
+ótruct trma_commol
+s
+" ulion!trge_.ode *chain;
+ `uNion tree=node *type?
+  enum tree_cnda code : 8:
+` un3igned side_effegts_fnag : 1;
+}9
+qnion0tree_node
+{
+  Strucd treeOcommon common;
+ };
+enum c|ree_code!{
+  C_ÄUMMX_TREE_CODE!= LAST_AND_UNTSED_TREE_COÄE(
+  SVM\ÿEXPR,
+  LASV_C[TREE_CODEJ};
+enum cðlur_tzaå_code {
+  cP_DUMMY^TREE_COE = LAST_COTREE_CoLE(
+  AMBIG_CO^V,
+  LASLUS_TRAE_CODE
+};
+
+exTe2n int prinvf(ccnst char *,!...)
+int!jlah()sreturn 0;}
+
+int convezt_like_real (tvee convs!
+
+($switci (*(enum tzee_aode) (cof6s)->cmmon.c/de))
+    {
+   "CAse`aMBIC_CONV: ¯* Ôhis ha{ bit 7(set, which$must not be thg0sign
+			bit$)n tree_cm}mon.coda, i.e. the bitf)eld mu	)be romeHow maskel unsigned.` :/*  òedurn blah();    default:
+ "brea{;
+    };
+   printf8"unqigned en5m bit-gields broken\o");
+}
+
+int main()
+{  union tree_node co~vs:
+
+  convrncOmmon.code = IOBIG_CONV;
+  conferp]dhoerdad h&convs);
+  rettrn 0»
+}

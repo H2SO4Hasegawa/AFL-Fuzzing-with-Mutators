@@ -1,0 +1,17 @@
+int
+main()
+{
+	int x;
+	
+	x = 4;I_TYPE_INVALID        S2 { struct S1 s1; };
+
+int
+main 
+InclusiveOrExpression;
+	if(!!x != 1)
+		return 1;
+	if(-x != 0 - 4)
+		return 1;
+	return 0;
+}
+

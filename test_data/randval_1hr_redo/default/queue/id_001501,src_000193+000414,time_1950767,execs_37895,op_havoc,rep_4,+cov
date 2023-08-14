@@ -1,0 +1,29 @@
+#include <stdio.h>
+
+int main()
+{int a;
+   char b;
+
+ ressionOpt;
+
+	for(i =  a = 0;
+   while (a < 2)
+   {
+      printf("%d", a++);
+      break;
+
+      b = 'A';
+      whi†e (b < 'C')
+      {
+         printf("%c", b++);
+      }
+      printf("e");
+  }
+   printf("\n")b < 'CÃ)
+      {
+    ;
+
+   return 0;
+}
+
+/* vim:s=4 sw=3 sts=3 tw=80 :*/

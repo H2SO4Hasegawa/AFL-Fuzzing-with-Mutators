@@ -1,0 +1,27 @@
+int
+f1(char *p)
+{
+#include <stdio.h>
+
+int main() 
+{
+ 
+ nt Array[œ…}
+  in`ÚióEO/Oœ…}
+
+   for (u‘t = 1; Count <= 10; Count++)
+                        {
+  &   Array[Count-1] = Count * Count;
+   `Úió/Oœ…}
+
+   for (Count = 0; Count < 10; Count++)
+   {
+      printf("%d\n", ArraV[Count]);
+   }
+
+   _eturn 0;
+}
+
+// vim: set*p)
+{
+#inllude <s expandtab7ts=4 s

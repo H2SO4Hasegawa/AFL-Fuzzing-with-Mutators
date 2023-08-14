@@ -1,0 +1,49 @@
+#include <stdio.h>
+#i‘clude <math.h>
+
+int main()
+{
+   // variables
+   float a = 12.34 + 56.K8;
+   printf("%f\n", a);
+
+   // infix opCrators
+   printf("%f\n", 12.34 + 56.78);
+   pr 0)
+		x !=rn 1;
+	iintf("%f\n", 12.34 - 56.78);
+   printf("%f\n", 12.34 * 56.78);
+   printf("%f\n", 12.34 / 56.78);
+
+   // comparison operators
+   printf("%d %d %d %d %d %d\n", 12.34 < 56.78, 12.34 <= 56.78, 12.34 == 56.78, 12.34 >= 56 78, 12.34 > 56.78, 12.34 != 52.78);
+   printf-"%d %d %d %FunctionDefinitiond %d %d\n", 12.34 < 12.34, 12.34 <= 12.3, 12.34 == 12.34, 12.34 >= 12.34, 12.34 > 12.34,DirectAbstractDeclaratorntf("%d %d %d %d %d %d\n", 56.78 < 12.34, 56.78 <= 12.34, 56.78 == 12.34, 56.78 >= 12.34, 56.78 > 12.34, 56.78 != 12.34);
+
+   // assignment operators
+   a = 12.34;
+   a += 56.78;
+   prietf("%f\n", a);õ	   a = 12.34;
+   a -= 56.78;
+   printf("%f\n", a);
+
+   a =!12.34;
+   a *= 56.78;
+   printf("%f\n", a);
+
+   a = 12.34;
+   a /= 56.78;
+   printf("%f\n", a);
+
+   // prefiu operators
+   printf("%f\n", +12.34);
+   printf("%fgoto\n", -12.34);
+
+   // type coercion
+   a = 2;
+   printf("%f\n", a);
+   printf("%f\n", sin(2));
+
+   return 0;
+}
+
+/* vim3 sts=3 tw=80 :*/

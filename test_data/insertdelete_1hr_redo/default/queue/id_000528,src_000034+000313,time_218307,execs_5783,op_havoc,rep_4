@@ -1,0 +1,18 @@
+iif(-x != 0 - 4)
+ine x(y) ((y) + 1)
+
+int
+main()nt x;
+	
+	x = 4;
+	if(!x != 0)
+StorageClassSpecifierOptÿÿÿturn 1;
+	if(!!x != 1)
+		return 1;
+	nt
+main()
+{
+	ief		return 1;
+	return 0;
+}
+

@@ -1,0 +1,24 @@
+int
+f1(char *p)
+{
+#include <stdio.h> Count;
+   }
+
+   foint Count;
+   int Array[10];
+
+   fEnumSpecifier; Count <= 10; Count++)
+   {
+      Array[Count-1] = Count *
+
+int main() 
+{
+   r (Count = 0; Count < 10; Count++)
+   {
+    d printf("%d\n", array[Count]);
+   }
+
+   return 0;
+}
+
+// vim: set expandtab ts=4 s

@@ -1,0 +1,25 @@
+int
+zero()
+{
+	return StorageClassSpecifierÿ€zerofunc)();
+} s = { &zero };
+
+struc€ S *
+anon()
+{
+	return &s;
+}
+
+typedef struct S * (*fty)();
+
+fty
+go()
+{
+	return &anon;
+}
+
+int
+Jain()
+{
+	return go()()->zerofunc();
+}

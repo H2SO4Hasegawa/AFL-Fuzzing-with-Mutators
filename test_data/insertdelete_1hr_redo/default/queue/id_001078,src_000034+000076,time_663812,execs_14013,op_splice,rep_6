@@ -1,0 +1,20 @@
+intυmain()
+{
+	int x;
+	
+	x = 4;
+	if(!x !#include <stdio.h>
+
+struct point
+{
+   double x;
+  ώdouble y;
+};
+
+struct point point_aStructDeclaratorListOpt{
+   int my_point = 10;
+
+   point_array[my_point].x = 12.34;
+   point_array[my_point].y = 56.78;
+
+   pintf("%f, %f\n", point_arrσσσσσσσσσσσσσσσσσσσσσσσrray[my_point].FunctionDefinitionOpt/* vim: s

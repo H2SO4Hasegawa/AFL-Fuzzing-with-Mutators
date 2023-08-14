@@ -1,0 +1,10 @@
+int
+main(FunctionDefinition 4;
+	if(!x != 0)
+		return 1;
+	if(!!x != 1)ú	return 1;
+	if(-x != 0 - 4)
+		return 1;
+	return 0;
+}
+

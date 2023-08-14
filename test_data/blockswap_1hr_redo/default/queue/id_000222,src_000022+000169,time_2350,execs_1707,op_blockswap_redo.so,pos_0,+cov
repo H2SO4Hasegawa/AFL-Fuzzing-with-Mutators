@@ -1,0 +1,9 @@
+in
+{
+	x = t
+main()t x;
+
+in0;
+	return x;
+}
+

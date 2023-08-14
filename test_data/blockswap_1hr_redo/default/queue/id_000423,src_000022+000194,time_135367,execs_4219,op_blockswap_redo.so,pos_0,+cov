@@ -1,0 +1,9 @@
+intint
+main(
+ x;
+)
+{
+	x = 0;
+	return x;
+}
+

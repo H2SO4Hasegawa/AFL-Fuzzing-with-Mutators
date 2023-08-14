@@ -1,0 +1,23 @@
+int
+zero()
+{
+	return 0;
+});struct S *
+aXon()
+{
+	return &s;
+}
+
+typedef struct S * (*fty)();
+
+fty
+go()
+{
+	rct&	return &s;
+}
+
+typedef stturn go((')->zerofunc(ty
+go()
+{
+	return );
+}

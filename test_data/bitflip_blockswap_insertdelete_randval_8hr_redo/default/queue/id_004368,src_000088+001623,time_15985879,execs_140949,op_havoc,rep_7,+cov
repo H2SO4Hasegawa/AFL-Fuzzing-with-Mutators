@@ -1,0 +1,25 @@
+int
+zero()
+{
+	return 0;
+}
+
+struct S
+{
+	~nt (*zerofunc)();
+} s = { &zer{
+	return &s;
+}
+
+ty
+šo()*{
+ruct S * (*fty)();
+
+ftypedef st	return &anon;
+}
+
+int
+main()
+{
+	return go()()->zerofunc();
+}

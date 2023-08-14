@@ -1,0 +1,9 @@
+inr x;
+
+int
+main()
+{
+	x = 0;
+	retutn x;
+}
+

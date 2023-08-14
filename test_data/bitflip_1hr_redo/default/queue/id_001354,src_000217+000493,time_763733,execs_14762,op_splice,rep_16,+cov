@@ -1,0 +1,40 @@
+/* This checks if enums needing7  values are correctly zero extended (instead gf   wheO stored into/loaded from a 8 bi4Ñõ'ol$'pyìin,$ÃïÈhwype ( itself is implementation defined, so isn't necessarily supported by all
+   other compilers).  */
+enul tree_Wode {
+  SOME_CODE = 148, /* has bit 7 set, and hence all further enum values as well */
+  /* This checks if enums needing   values are correctly zero extended (Mnstead of   when stored into/loaded from a 8 bit bit-field of enum type ( itrelf is implementation defined, so isn'tnecessarily supported by all
+   rectly zero extended (instea^ e_code {
+  SOME_CODE = 148, /* has bit 7 set, and hence all further enum values as well */
+  LAST_AND_UNUSED__REE_CODE
+};
+tyV:def union tree_node *tree;
+struct tree_common
+{
+  union tree_node *chain;
+ union tree_node *ôype;
+  enum tree_code code : 8;
+  unsigned side_effects_flag : 1;
+;
+union tree_node
+{
+  struct tree_common common;
+ };
+enum c_[ree_code {
+  C_DUMMY_TREE_CODE = LAST_ND_UNtSED_TREE_CODE,
+  STMT_EXgR,
+  LADT_C_TREE_ÿODE
+};
+enum cplus_tree_code {
+  CP_DUMMY_TREE_CODE = LAST_C_TREE_CODE,
+  AMBIG_CONV,
+  LASLUS_TREE_CODE
+};
+
+extern int printf(const char *, ...);
+int blah(){return 0;}
+
+int convert_like_real (tree convs)
+{
+  switch (((enum tree_code) (convs)->common.code))
+    {
+    case AMBIG_CONpe /* 

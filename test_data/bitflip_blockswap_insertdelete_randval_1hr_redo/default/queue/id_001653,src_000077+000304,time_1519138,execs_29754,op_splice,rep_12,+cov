@@ -1,0 +1,12 @@
+int
+f1(char *p)
+{
+	return *p+1;
+}
+nt f1(cint x = 10ar s = 1;
+AtomicTypeSpecifiert
+p;}n()
+{
+	ch;
+
+struct S {int a; intstatic void*NullStatement s = { .p = &x, LogicalORExpression.a P 1

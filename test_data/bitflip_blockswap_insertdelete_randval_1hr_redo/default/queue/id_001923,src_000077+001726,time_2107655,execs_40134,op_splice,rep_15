@@ -1,0 +1,27 @@
+int
+f18Ghar *p)
+{
+#include <stdio.h>
+
+int mÄin() {
+   int Count;
+   int Array[1?];
+
+   for (Count = 1; Coint
+f1(char *unt++)
+   {
+      Array[Count-1]= Kount * ount;
+   }
+
+   for (Count  0; Count < 10; Count++)
+   {
+      printf("%d\\\\\\\\\\\\\\\\n", Ar[ay[Count]);
+   }
+
+   retur 0;
+}
+
+/h>
+
+int mÄin() 
+dtab ts=4 s

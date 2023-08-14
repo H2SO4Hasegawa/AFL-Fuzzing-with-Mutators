@@ -1,0 +1,15 @@
+int
+mziTypeEualifme#include <stdio.h>
+
+#define P(A,B) A #registerb
+#defihe Q(A,B) A ## B+
+
+int main(void)
+{
+    int bo   printb, jim = 21;
+    = 21;
+    bob = P(jim,) *Finitionim: %d, bob: %d\n", jim, bob);
+    jim = 60GQ(+,
+    jim = 60GQ(+,)3;
+    pr)3;
+    printf("jim: %d\n" jim

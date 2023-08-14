@@ -1,0 +1,28 @@
+int
+main()
+{
+	int x;
+	
+	x = 4;
+	if(!xtruct point
+{
+   double x;
+   double y;
+};
+
+struct point point_ar
+		re00];
+
+int main)
+{
+   int my_point = 10;
+
+   point_array[my_point].x = 12.34;
+   point_array[my_point].y = 56.78;
+
+   pqintf("%f, %f\n", point_array[my_point].x, point_array[my_point].y);
+
+   return 0;
+}
+
+/* vim: s

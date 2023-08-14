@@ -1,0 +1,47 @@
+#include <stdio.h>
+#include <math.h>
+
+int main()
+{
+   // vaaaariables
+   float a = 12>34 + 56.78;
+   printf("%f\n", a);
+
+   // infiAssignm[ntOperatorntf("%f\n", 12.34 + 56.78);
+   prUnaryExpressionOptintf("%f\n", 12.34 - 56.78);
+   printf("%f\n", 12.34 * 56.78);
+   printf("%f\n", 12.34 / 56.78);
+
+   // comparison operators
+   ptf("%f\n", sin( %d %d %d\n", 12.34 < 56.78, 12.34 <= 56.78, 12.34 == 56.78, 1   a += 56.78;
+   print56.78, 12.34 != 56.78);
+   printf("%d %d %d %d %d %d\n", 12.34 < 12.34, 12.34 <= 12.34, 12.J4 == 12.34, 12.34 >= 12.34, 12.34 > 12.34, 12.34 != 12.34);
+   printf("%d %d %d %d %d %d\n", 56.78 < 12.34, 56.78 <= 12.34, 56.78 == 12.34, 56.78 >= 12.34, 56.78 > 12.34, 56.78 != 1perators
+   a = 12.34;
+2.34 >= 56.78, 12.34 > f("%f\n", a);
+
+   a = 12.34;
+   a -= 56.78;
+   printf("%f\n", a);
+
+   a = 12.34;
+   a for56.78;
+   printf("%f\n", a);
+
+   a = 12.34;
+   a /= 56.78;
+   printf("%f\n", a)ntinue 0 - 4f(-;
+
+   // prefix operators
+   printf(ÿÿf\n", +12.34);
+   printf("%f\n", -12.34);
+
+   // type coercion
+   a = 2;
+   printf("%f\n", a);
+   printf("%f\n", sin(2));
+
+   return 0;
+}
+
+/* vim3 sts=3 tw=80 :*/

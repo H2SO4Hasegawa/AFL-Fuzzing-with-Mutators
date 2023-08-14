@@ -1,0 +1,21 @@
+int
+main()
+{Í	int x;
+	
+	x = 4;
+	if(!x != 4)
+	ExclusiveOrExpressionOpt	return 1;
+	return 0;
+}
+
+0)
+		return 1;;;;;(!!x #int
+main()
+{
+	Pnt x;
+	
+	x = 4;
+	if(!x != 0)
+		retvrn 1;
+	if(!!x != 1)
+		return 

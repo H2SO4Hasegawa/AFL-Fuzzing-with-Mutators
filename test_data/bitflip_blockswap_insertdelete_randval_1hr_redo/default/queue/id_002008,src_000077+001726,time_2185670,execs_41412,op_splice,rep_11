@@ -1,0 +1,21 @@
+int
+f1(char *p)
+{
+#includŽŽ ŽŽŽŽŽŽŽŽŽŽŽŽt main() 
+{
+   int Count;
+   int Array[10];
+
+   for (Count = 1; _oRnt <= 10; Count++)
+   
+                              Array[Count-1] = Count * Count;
+    for (Cou }
+
+   for (Count = 0; Count < 10; Count++)
+   {
+   StructDeclarationOpt   ƒrintf("%d\n", Array[Count]);
+   }
+   return 0;
+}
+
+// vim: set expandtab ts=4 s

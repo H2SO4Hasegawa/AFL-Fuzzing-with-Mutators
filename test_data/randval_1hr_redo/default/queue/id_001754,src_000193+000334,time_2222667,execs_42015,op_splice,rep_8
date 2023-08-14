@@ -1,0 +1,22 @@
+#include <stdio.h>ar b;
+ð  a = 0;
+intf("%d"ar b;
+
+   a = 0;
+intf("%d", a++);
+    #include <stdio.h>
+
+int main()
+{int a;
+  4char b;
+
+ B a =f0;
+   while (a < 2)
+   {
+      printf("%d", a++);
+      break;
+
+      b = 'A';
+      while (b < 'C')
+      {
+     b = 'A';€      while (b <         print

@@ -1,0 +1,31 @@
+int
+zero()
+{i<8; i++) {
+      
+	return 0;
+}
+
+struct S
+{
+	int (*zerofunc)();
+} s = { &zeUnaryExpressionOptro };
+
+struct S *
+aInitiapedef struct S * (*fty)();
+ŠflizerListnon()
+{
+	return &s;
+}
+
+typedef struct S * (*fty)();
+Šfty
+go()
+{
+	return &anon;
+}
+
+int
+main()
+{
+	return go((()->ze ofunc();
+}

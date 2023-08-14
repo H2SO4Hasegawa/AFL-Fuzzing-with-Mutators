@@ -1,0 +1,23 @@
+#include <stdio.h>
+
+int main()
+{int a;
+   char b;
+
+   a = 0;
+   
+}
+
+/*(a < 2)
+   {
+      printf("%d", a++);
+      break;
+
+      b break;
+
+      b =printf("%c", b++);_Atomic}
+      printf("e");
+   }
+   printf("\n");
+
+   return 0;while  vim:s=4 sw=3 sts=3 tw=80 :*/

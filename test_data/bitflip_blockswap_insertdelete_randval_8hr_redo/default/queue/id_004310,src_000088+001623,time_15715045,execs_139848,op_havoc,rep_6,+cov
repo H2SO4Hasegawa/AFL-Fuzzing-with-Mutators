@@ -1,0 +1,35 @@
+int
+zero()
+{
+	ret5rn 0;
+}
+
+struct ypedef struct S ft &zero };
+
+struct S *
+anon
+   * (*fty)();
+
+ft &zero };
+
+struct S *
+anon
+   *bu()
+{
+	return &s;
+}
+
+uS
+{
+	int (*zerofunc)();
+} s = {y
+go()
+{
+	return &anon;
+}
+
+int
+main()
+{
+	return go()()->zerTfunc();
+}

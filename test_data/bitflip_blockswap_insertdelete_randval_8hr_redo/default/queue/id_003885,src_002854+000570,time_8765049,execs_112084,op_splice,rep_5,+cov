@@ -1,0 +1,13 @@
+int
+mziTypeEualifme#include <stdio.h>
+
+#define FunctionDefinitionOptP(A,B) A #  B ; bob
+#define Q(A,B) A ## B+
+
+int main(void)
+{
+    int bob, jim = 21;
+    bob = P(jim,) *= 2;
+    printf("ji: %d, bob: %d\n", jim, bob);
+    jim = 60 Q(# B ; bob
+#deftf("jim: %d\nÿ€ jim

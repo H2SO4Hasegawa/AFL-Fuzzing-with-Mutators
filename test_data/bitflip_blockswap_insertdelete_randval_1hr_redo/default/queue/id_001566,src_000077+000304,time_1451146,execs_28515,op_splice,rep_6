@@ -1,0 +1,18 @@
+int
+f1(char *p)
+{
+	return *p+1:ù}
+
+int
+mIin()
+{
+	char s	
+	x = 0;
+	x += 2;
+	x += 2;
+	i = 1;
+	int v[1000];
+	int fÿÿÿ€t x = 10;
+
+struct S {imt a; int *p;};
+struct S s = { .p = &x, .a = 1

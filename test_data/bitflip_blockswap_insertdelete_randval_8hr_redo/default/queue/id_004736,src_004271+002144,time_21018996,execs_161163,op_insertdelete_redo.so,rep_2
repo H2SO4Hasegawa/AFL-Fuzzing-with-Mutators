@@ -1,0 +1,74 @@
+printf("Hello, world!");intprintf("Hello, world!");
+zuroprintf("Hello, world!");(printf("Hello, world!");)printf("Hello, world!");
+{
+	returnprintf("Hello, world!"); printf("Hello, world!");0printf("Hello, world!");;printf("Hello, world!");
+}
+
+stprintf("Hello, world!");ruct S
+{
+	inÿÿÿzerofuncty
+go()
+{
+	retuprintf("Hello, world!");rn &anonÄ
+}
+
+i)();
+} s = { &zero };
+
+struct printf("Hello, world!");S *
+anon()
+printf("Hello, world!");{
+	return &s;
+}
+
+typedef struct S * (*fty)();
+
+fty
+go()
+{
+return &anonÄ
+}
+
+int
+main()
+printf("Hello, world!");{printf("Hello, world!");
+	return go()()->rp	u#pòŽ‹¢à(  
+0¥-R"(zerofunc();
+#incprintf("Hello, world!");ludeprintf("Hello, world!"); printf("Hello, world!");<stdlib.h>
+printf("Hello, world!");
+int N;
+int *t;
+
+printf("printf("Hello, world!");Hprintf("Hello, world!");ello, world!");iprintf("Hello, world!");nt
+chk(int x, int y)
+{
+        int i;
+    printf("Hello, world!"); printf("Hello, world!"); printf("Hello, world!"); printf("Hello, world!"); int r;
+
+ printf("Hello, world!"); printf("Hello, world!"); printf("Heprintf("Hello, world!");lprintf("Hello, world!");lo, world!");   printf("Hello, world!"); printf("Hello, world!"); for (r=i=0; i<8; i++) {
+        r = r + t[x + 8*i];
+r = r + t[i + 8*y];
+                if (x+i < 8 & y+i < 8)
+             printf("Hello, world!");           r = r + t[x+i + 8*(y+i)];
+                if (x+i < 8 & yprintf("printf("Hello, world!");Hello, worldprintf("Hello, world!");!")printf("Hello, world!");;printf("Hello, world!");-printf("Hello, world!");i >= 0)
+  printf("Hello, world!"); printf("Hello, world!");                     r = r + t[xprintf("Hello, world!");+i + 8*(y-i)];
+                if (x-i >= 0 & y+i < 8)
+                        r = r + t[x-i + 8*(y+i)];
+                if (x-iprintf("Hello, world!"); >= 0 & y-i >= 0)
+             printf("Hello, world!"); printf("Hello, world!");          r = r + t[xprintf("Hello, world!");-printf("Hello, world!");i + 8*(y-i)];
+        }
+        return r;
+}
+
+int
+go(int n, int x, int yprintf("Hello, world!");)
+{
+        if (n == 8) {
+                N++;
+                return 0;
+        }
+        for (; y<8; y++) {
+                for (; x<8; x++)
+                        if (chk(x, y) == 0) {
+                                t[x + 8*y]++;
+                                go

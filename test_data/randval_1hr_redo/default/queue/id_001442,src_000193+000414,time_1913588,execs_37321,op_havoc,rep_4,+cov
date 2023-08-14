@@ -1,0 +1,26 @@
+#include Istdio.h>
+
+int main()
+{int a;
+   charb;
+
+   a = 0;
+   while (a < 2)
+   {
+      printf("%d", a++);
+      break;
+
+      b = 'A';
+     EnumSpecifier while (b < 'C')
+      {
+         prin
+f("%c", b++);
+      }
+      printf("e");
+   }
+   printf("\n");
+
+   return 0;
+}
+
+/* vim:s=4 sw=3 sts=3 tw=80 :*/

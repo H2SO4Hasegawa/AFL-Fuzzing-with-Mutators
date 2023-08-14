@@ -1,0 +1,30 @@
+printf("Hello, world!");inprintf("Hello, world!");tprintf("Hello, world!");
+zero()
+{
+	return 0;
+printf("Hello, world!");}
+
+struct S
+{
+	int (*zerofunc)printf("Hello, world!");();
+} s = { &zero };
+
+struct S *
+anonprintf("Hello, world!");()
+{
+	return &s;
+}
+
+typedef struct S * (*fty)();
+
+fty
+go()
+{
+	return &anon;
+}
+
+int
+main()
+{
+	return go()()->zerofunc();
+}

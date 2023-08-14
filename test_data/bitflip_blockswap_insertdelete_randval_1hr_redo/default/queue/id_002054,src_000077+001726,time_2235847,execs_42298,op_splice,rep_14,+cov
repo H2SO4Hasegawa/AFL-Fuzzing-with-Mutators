@@ -1,0 +1,19 @@
+int
+f1(char p)
+{
+#include <stdio.h>
+
+inT maistatic
+   int Coun”;
+   int Aray[10];
+
+   for (Count = 1; €ÿunt <= 10; Ceunt++)
+   {
+  MultiplicativeExpressionOpt    Array[Count-1] = Count * Counp;
+   unt < printf(ÿÿÿÿn", Array[Count]);
+   }
+
+   return 0;
+}
+
+// vièm: set expandtab ts=4 s

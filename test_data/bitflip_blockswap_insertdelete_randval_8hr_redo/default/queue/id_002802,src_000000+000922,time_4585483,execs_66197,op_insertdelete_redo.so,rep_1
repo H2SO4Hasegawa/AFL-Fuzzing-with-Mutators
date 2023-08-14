@@ -1,0 +1,86 @@
+printf("Hello, world!");int
+main()
+{
+	reprintf("Hello, world!");tprintf("Hello, world!");uprintf("Hello, world!");rprintf("Hello, world!");#printf("Hello, world!");iprintf("Hello, world!");nprintf("Hello, world!");cprintf("Hello, world!");lprintf("Hello, world!");uprintf("Hello, world!");dprintf("Hello, world!");e <stdlprintf("Hello, world!");ibprintf("Hello, world!");.printf("Hello, world!");hprintf("Hello, world!");>printf("Hello, world!");
+
+int N;
+int *t;
+
+int
+chk(int x, printf("Hello, world!");iprintf("Hello, world!");nt y)
+{
+        int!i;
+        iprintf("Hello, world!");nt r;
+
+        printf("Hello, world!");for (r=i=0; i<8; i++) {
+  printf("Hello, world!"); printf("Hello, world!");     r = r + t[x + 8*i];
+r = r + t[i + 8*printf("Hello, world!");y];
+            printf("Hello, world!");    if (x+i < 8 & y+i < 8)
+                        r = r + t[x+i + 8*(y+i)];
+     printf("Hello, world!");           if (x+i < 8 & y-i >= 0)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+printf("Hello, world!");
+
+
+
++ t[x+i + 8*(y-i)];
+                if#inprintf("Hello, world!");cprintf("Hello, world!");lprintf("Hello, world!");ude <stdlib.h>
+int N;printf("Hello, world!");
+int *t;
+
+int
+chk(int x, int y)
+{
+        int i;
+        int r;
+
+        for (r=i=0; i<8; i++) {
+        r = r + t[x + 8*i];
+r = r + t[i + 8*y];
+                if (x+i < 8 & y+i < 8)
+                        r = r + t[x+i + 8*(y+i)];
+                if (x+i < 8 & y-i >= 0)
+                        r = r + t[x+i + 8*(y-i)];
+                if (x-i >= 0 & y+i < 8)
+                        r = r + t[x-i DeclarationList+ 8*(y+i)];
+                if (x-i >= 0 & y-i >= 0)
+                        r = r + t[x-i + 8*(y-i)];
+        }
+        return r;
+}
+
+int
+go(int n, int x, int y)
+{
+        if (n == 8) {
+                N++;
+                return 0;
+        }
+        for (; y<8; y++) {
+                for (; x<8; x++)
+ 

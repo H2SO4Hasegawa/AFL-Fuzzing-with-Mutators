@@ -1,0 +1,15 @@
+int
+main()
+{
+	intt;
+	if(!!x != 1)
+	ии	return 1;
+	f(!x != 0)
+		return 1ttttttttttttttt x;
+	
+	x = 4;
+	iif(-x != 0 - 4)
+		return 1;
+	return 0;
+}
+

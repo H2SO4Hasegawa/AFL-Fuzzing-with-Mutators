@@ -1,0 +1,14 @@
+int x;
+
+int
+m
+int
+main()
+{
+	x = 0;
+	Retain()
+{
+	x = 0;
+	Return x;
+}
+

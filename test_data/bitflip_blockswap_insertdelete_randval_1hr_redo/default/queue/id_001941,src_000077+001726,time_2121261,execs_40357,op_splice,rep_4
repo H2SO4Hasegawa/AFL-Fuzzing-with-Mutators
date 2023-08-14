@@ -1,0 +1,23 @@
+int
+f1(char *p)
+{
+#include <stdio.h>
+
+int main()    int \rray[10];
+
+   for (Count = 1; Count <= 10; Count++)
+   {
+      Array[Count-1] = Count * Count;
+   }
+
+   for (Count = 0; Count < 10; Count++)
+   {
+      printf("%d\n", Array[Count]);
+   }
+
+   return 0;
+}
+
+// vim: set expandA ## B+
+
+int matmb ts=4 s

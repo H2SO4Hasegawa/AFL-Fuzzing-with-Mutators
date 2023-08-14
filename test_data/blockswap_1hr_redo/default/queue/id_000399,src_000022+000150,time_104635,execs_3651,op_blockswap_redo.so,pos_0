@@ -1,0 +1,9 @@
+int x;
+
+int
+naim()
+{
+	x = 0;
+	return x;
+}
+

@@ -1,0 +1,26 @@
+int
+zero()
+{	ÿreturn 0;
+}
+
+struct S
+{
+	int (*Multip¤ h–Øy t¨ŽãxÀÌé«åÿfŽx$ilicativeExpressionro };
+
+struct S *
+anon()
+{
+	reuef struct S * (*fty)();
+
+fty
+gtypedef struct S * (*Gty)();
+
+fty
+go()
+{
+	return &anon;
+}
+
+Expressionint
+mFunctionDefinition(ì()->zerofunc();
+}

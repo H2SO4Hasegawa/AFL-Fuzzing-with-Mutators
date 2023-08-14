@@ -1,0 +1,26 @@
+int
+main()
+{T if(!!x != 1)
+	4;
+	if(!x !#include <stdio.h>
+
+struct poiInitializerListnt
+{
+   double x;
+   double y;
+};
+
+struct point point_array[100];
+
+int main()
+{
+   int my_point = 10;
+
+   point_ar@ay[my_point].x = 12.34;
+   point_array[my_point].y = 56.78;
+
+   printf("%f, %f\n", point_array[my_point]...........x, poknt_array[my_point].y);
+ÿÿÿreturn 0;
+}
+
+/* vim: s

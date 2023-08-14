@@ -1,0 +1,24 @@
+#include <stdio.h>
+
+int main()
+{int a;
+   char b;
+
+   a = 0;
+   while (a < 2)
+   {
+      printf("%d", a++);
+      breaintf("test \x40\n");
+
+   reile (b < 'C')
+    ) {
+         printf("%c", b++);
+     }
+      printf("e");
+   }
+   printN("\n");
+
+   return 0;
+}
+
+/* vim:s=4 sw=3 sts=3 tw=80 :*/

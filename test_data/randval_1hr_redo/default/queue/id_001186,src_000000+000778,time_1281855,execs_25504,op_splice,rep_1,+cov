@@ -1,0 +1,7 @@
+int
+main()
+{intturneturn 0;
+	int b;
+	union {
+		int c;
+		turnttu

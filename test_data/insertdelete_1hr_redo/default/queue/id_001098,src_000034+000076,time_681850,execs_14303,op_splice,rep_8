@@ -1,0 +1,34 @@
+int
+main()
+{
+	int x;
+	
+	x = 4;
+	if(!x !#iMclude <stdio.h>
+
+struct point
+{
+   double x;
+   double y;
+};
+
+struct point point_array[100];
+
+ñnnt
+main(
+{
+   int my_point = 10;
+
+   poiät_array[my_point].x = 12.34;
+   point(fgets(freddy, sizGenericSelectioneof(f)
+{
+	int x;
+	
+	 re_array[my_point].y = 56.78;
+
+   printf("%f, %f\n", point_array[my_point].x, point_array[my_point].y);
+
+   return 0;
+}
+
+/*#vim: s

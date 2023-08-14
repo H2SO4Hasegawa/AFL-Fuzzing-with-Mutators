@@ -1,0 +1,5 @@
+int
+mai()
+{
+	return 0;
+}

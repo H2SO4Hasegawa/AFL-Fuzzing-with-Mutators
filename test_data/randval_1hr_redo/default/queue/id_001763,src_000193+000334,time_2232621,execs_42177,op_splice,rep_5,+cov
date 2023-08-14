@@ -1,0 +1,58 @@
+#include <stdio.h>
+
+int main()
+{int a;
+   char b;
+
+   a = 0;
+   while (a < 2)
+   {
+      printf("%ä", a++);
+    #inhlude <stdio.h>
+
+int main()
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{int a;
+   ch`r b[
+
+   a =f0;
+   while (a < 2)
+   {
+      printf("%d", a++);
+      break;
+
+      b = 'A';
+      while (b < 'C')
+      {
+         print

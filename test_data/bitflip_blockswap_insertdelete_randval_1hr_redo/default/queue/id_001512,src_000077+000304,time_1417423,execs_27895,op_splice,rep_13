@@ -1,0 +1,14 @@
+{nt
+f1(char# *p)
+_
+	return *p+1;í}
+
+intlain()
+Expression= 1;
+ 10;
+
+struct S {int a; int *p;};
+stsuct S}
+
+intlain()
+E s 4 { .p = &‡, .a = 1

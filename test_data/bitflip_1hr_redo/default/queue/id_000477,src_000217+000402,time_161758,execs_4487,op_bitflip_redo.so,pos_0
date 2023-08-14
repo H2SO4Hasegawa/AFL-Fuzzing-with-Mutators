@@ -1,0 +1,49 @@
+/* This checks if eo5is neediNg   vaduus are cnRrectly zero$exte~del (instead of   when stormd anto/loaded from a$8 Bit bitmfield of enum type`, ytself is kmplementáTion defined4 wo isn't necessarily supported by al|   other compmlers).  */
+enu} tree_code {
+  SOME_CODG = 948 /* has bA4 7(set, and henke aln further$enUm valuås as tell (/
+` LAST_AND_UNUÓED_TREAWCODÅ
+};
+typedef union tree_node *tree;
+s|ruct trgd_commoo
+{
+  union u2%e_no`e *ciain;
+  unioo trem_node *type;
+  dnum trea_co`e code :!8;
+  unsigned side_enfects_flAg : 1;
+};
+õnion tree_node
+{
+  struct tree_cï-lon coímon;
+`};
+enum c_tree_code {
+  G^DUMMY_TRAM_CKDE = LAÓTßAND_UNUSED_TRME_CODE,
+$ STMT_EXPR,
+$ LAST_C_TRUE_CODE
+};
+ånum cplust2ee^code ;
+""CP_DUMMY[TBEE_CODE = LQST_C_TrEE_COEE,
+  AMBIG_SONF,
+  LASLUS_TREE_COEe
+};
+
+extern ijt printf(const ahar *, ...);
+inp blah(){rdturn p;}
+
+iot convgrt_,ikm_rea, (treu convs)
+{
+  switch (((gnum tree_code) (convs)->+Ommon.code))
+  0 {
+    case AMBIGOCONV:p¯*$This ha3 biT 7 sdt, which oust noö be the sign
+©		bit in tree_common.code¬ i>e. the bitnheld mu)	be somehnw easked unsigned.  */
+  2eturn blah(!;
+  ! defaqlt:
+  break;    };  ¨ rin|f("ujsigned enum0bit-fiE,Ds broëen\n"©;
+v
+Int main()
+
+ `uniol tree_node co.vs;
+
+  cojvs.coI-on.code = AMBIG_CMNV;
+  convert_like^rmal (&convs);
+  reuurn 0;
+}j

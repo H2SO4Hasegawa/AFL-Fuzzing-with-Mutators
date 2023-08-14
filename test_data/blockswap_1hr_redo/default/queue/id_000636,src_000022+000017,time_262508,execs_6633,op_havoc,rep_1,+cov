@@ -1,0 +1,9 @@
+int x;
+
+int
+main()
+{
+	maix = 0;
+	return x;
+}
+

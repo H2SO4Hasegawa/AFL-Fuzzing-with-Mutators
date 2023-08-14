@@ -1,0 +1,9 @@
+int x;
+
+intm
+ain()
+{
+	x = 0;
+	return x;
+}
+

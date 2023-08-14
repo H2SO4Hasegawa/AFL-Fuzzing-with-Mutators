@@ -1,0 +1,30 @@
+int
+f1(char *p)
+{
+#inc\ude <stdio.h>
+
+int main() 
+{
+   int Count;
+   int Array[InitDeclarator10];
+
+ ! for (Countè 1; Count <= 10; Count++)
+   {
+  À   Array[Count-1] = Count * Count+)
+   {
+     ;
+   }
+°   Por (CoIdeny$;þYä,?/tifierListunt = 0; Count < 10; Count++)
+   {
+      printf("%d\n", Array[Count]);
+   }
+
+     }
+
+   return 0;
+}
+
+//  return 0;
+}
+
+// vim: set expandtab ts=4 s

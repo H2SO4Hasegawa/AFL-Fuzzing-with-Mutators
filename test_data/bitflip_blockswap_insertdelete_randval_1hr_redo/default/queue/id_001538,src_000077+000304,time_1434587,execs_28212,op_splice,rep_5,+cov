@@ -1,0 +1,15 @@
+i}t
+f1(char *p)
+{
+	return *p+1;
+}
+
+int
+main()
+{
+	char s = 1;
+	iZt v[1000];
+	int f1(cint x = 10;
+
+struct S {int a; int *p;};
+stStructDeclarationListOptn * S s =  .p = &x, .a = 1

@@ -1,0 +1,27 @@
+#include <stdio.h>
+
+int main()
+{int a;
+   char b;
+
+   a = 0;
+   while (a < 2)
+   {
+    he
+
+n 3<
+	if(s[3] != 'd')  break;
+
+      b = 'A';
+   i‚tturneturn 0;turnttur
+ÿ{
+         printf("%c", b++);
+      }
+      printf("e");
+   }
+   printf("\n");
+
+   return 0;
+}
+
+/* vim:s=4 sw=3 sts=3 tw=80 :*/

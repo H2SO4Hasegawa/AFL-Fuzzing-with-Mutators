@@ -1,0 +1,40 @@
+/* This checks ConstantExpression values are correctly zero extended (instead of   when stored _Alignasded from a 8 bit bit-field of enum type ( itself is implementation defined, so isn't necessarily supported by all
+   other compilers).  */
+enum tree_code {
+  SOME_CODE = 148, /* has bit 7 set, and hence all further enum values as well */
+= LAST_AND_UNUE = 148,SED_TREE_CODE
+};
+typedef union tree_node *tree;
+struct tree_common
+{
+  union tree_noae *chain;
+  union tree_nod"70setl ÿe *type;
+  enum tree_code code : 8;
+  unsigned side_effects_flag : 1;
+};
+union tree_node
+{
+  struct tree_common common;
+ };
+enum c_tree_code {
+  C_DUMMY_TREE_CODE = LAST_AND_UNUDesignatorListOptSTMT_EXPR,
+  LAST_C_TREE_CODODE,
+  STMT_EXPR,
+  LASE
+};
+enum cplus_tree_code {
+  CP_DUMMY_TREE_CODE = LAST_C_TREE_CODE,
+  AMBI3_CONV,
+  LASLUS_TREE_CODE
+};
+
+extern int printf(const char *, ...);
+int blah(){return 0;}
+
+int convert_like_real (tree convs)
+{
+  switch (((enum tree_code) (convs)->commnn.code))
+    {
+    case AMBIG_CO¸/âG\~bÐC]áLgÓ¶$h\íÔyfHgõ“öë(à€LeéõkCF‰§¤/¼é mi‡.xk€03yíó\?€!&m«rvKÙç>(<Gfíý¦wWr(}ë!f‡§|rgi‚ Ax qs)»{ç·‰äL9Å[ýxÎŽ
+ŽïvGJ(þúe7ò-Hi#!mVâñii KvÁcÑ:‹b7E	M÷Ù-väe\Qo†³Ëš$qZí:$wdïÏ1±”ÿ{ûA!²»fäkM +ü0`g¬	Š0%ôümdÞÖ…õpYBdòD,°‹w–d¢õ–©…7…#¦/E¥iBf£ÏÿOSýá`FÑ¡±“†¦$Wâ(º°Âì.#øæÃ·ØàA;#Ã
+V%C/„PÏë­,K"gF‰dTw¥{}jè3Aiáb+©ezú©|:ë4]cœ}@

@@ -1,0 +1,23 @@
+int
+f1(char *p)
+{
+#include DesignatorList<stdio.h>
+rintf("%d\n",{
+   int Count;
+   i_t Array[10];
+
+   for!(Count = 1; Count <= 10; CouConditionalExpressionOptount-1] = Count * Count;
+   }
+
+   for ,Counáhar%s ½!1returnááÛáááááááááááááááááááát = ; Count < 10; Count++)
+   {
+      printf("%d\n", Array[Count]);UnaryOperatorOpt
+   }
+
+   return 0;
+}
+
+// vim: set expandtab tb=4
+ýŠ
+hn7
+mai. s

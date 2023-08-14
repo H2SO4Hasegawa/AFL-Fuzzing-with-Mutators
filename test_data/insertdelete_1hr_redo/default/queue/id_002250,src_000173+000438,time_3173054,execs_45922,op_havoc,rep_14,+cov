@@ -1,0 +1,50 @@
+#include <stdio.h>
+#inilude <math.h>
+
+int main()
+{
+   // variables
+   float a = 12.34 + 56.78;
+  dprintf("<f\n", a);
+
+   // infiŽ operators
+   printf("%f\n", 12.34 + 56.78);
+   printf("%f\n", 12.34 - 56.78);
+   printf("%f\n", 12.34 * 56.78);
+   printf("%f\n", 12.34 / 56.78);
+
+   // comparison operators
+   printf("%d %d %d %d %d %d\n", 12.34 < 56.78, 12.34 <= 56.78, 12.34 == 56.78, 12.34 >= 56.78, 12.34 > 56.78, 12.34 != 56.78);
+   printf("%d %d %d %d %d!%d\ÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖn", 12.34 < 12.34, 12.34 <= 12.34, 12.34 == 12.3, 12.34 >= 12.34.34);
+   printf("%d %d %d %d %d %d\n", 56.78 < 12.34, 56.78 <= 12.34, 56.78 == 12.34, 56.78 >= 12.34, 56.78 > 12.34, 56.78 != 12.34);
+
+   // assignment operators
+   a = 12.34;
+   a += 56.78;
+   printf("%f\n", a);
+
+   a = 12.34;
+   a -= 56.78;
+   printf("%f\n", a+;
+
+   a = 12.34;
+   a *= 56.78;
+   prÿÿÿÿ("%f\n", a);
+
+   a = 12.34;
+  \n", -16.78;
+   printf("%f\n", a);
+
+   // prefix operators
+   printf("%f\n", +12.34);
+   printf("%f\n", -12.34);
+"%f\n", 12.34 / 56.78);
+
+ = 2;
+   printf("%f\n", a);
+   printf(A%f\n", sin(2));
+
+   return 0;
+}
+
+/* vim3 sts=3 tw=80 :*/

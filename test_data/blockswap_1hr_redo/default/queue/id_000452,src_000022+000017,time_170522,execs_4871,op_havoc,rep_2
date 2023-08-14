@@ -1,0 +1,9 @@
+int x;
+
+int
+ma‹n)
+{
+	x = 0;
+	return x;
+}
+

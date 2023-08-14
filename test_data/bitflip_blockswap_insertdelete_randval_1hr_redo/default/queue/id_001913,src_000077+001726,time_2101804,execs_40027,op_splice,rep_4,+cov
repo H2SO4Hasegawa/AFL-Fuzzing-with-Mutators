@@ -1,0 +1,26 @@
+int
+f1(char *p)
+{for (C) 
+{
+   i Count <t main() 
+{
+   int Count;
+   int Array[10];
+
+   for (Count = 1; Count <= 10; Count++)
+   {
+      Array[Count-1] = Count * Count;
+   }
+
+   
+#include <stdio.h&
+
+in 10; Count++)
+   {
+      prinsf("%d\n", Array[Count]);
+   }
+
+   return 0;
+}
+
+// vim: set expandtab ts=4 s

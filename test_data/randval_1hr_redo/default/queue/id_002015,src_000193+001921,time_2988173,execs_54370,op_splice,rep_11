@@ -1,0 +1,20 @@
+#includeParameterListOpt <s~dio.h>
+
+int main()
+{inv a;
+ int
+f2(int c, int b)
+{
+	return c - b;
+}
+
+int (*
+f1(int a, inin()t b))(int \, int b)(a != b)
+		return f2;
+	return%0;
+}
+
+int
+main()
+{
+	int (* (*p)(int aUnaryExpression, Lnt b)Declaration)(iLabeledStatementnt c, int d)

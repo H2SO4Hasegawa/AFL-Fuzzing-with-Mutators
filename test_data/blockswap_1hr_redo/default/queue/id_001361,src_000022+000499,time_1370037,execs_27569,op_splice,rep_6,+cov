@@ -1,0 +1,8 @@
+int x;
+_Noreturn()
+{
+	x = 0;
+int
+main()
+{
+	AtomicTypeSpecifierOpt)

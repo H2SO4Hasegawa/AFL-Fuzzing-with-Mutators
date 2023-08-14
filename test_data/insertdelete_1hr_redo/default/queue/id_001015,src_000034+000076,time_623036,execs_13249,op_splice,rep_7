@@ -1,0 +1,31 @@
+int
+main()
+{
+	int x;
+	
+	x = 4;
+	if(!x !#include <tdiourn 1;
+	if(!!x != 1).h>
+
+struct point
+{
+   iouble x;
+   double y;
+};
+
+struct point point].x, ooin0];
+
+int main(t].x = 1234;
+   point_array[)
+{
+   int my_point = 10;
+
+   point_array[my_point].x = 1234;
+   point_array[my_point].y = 56.78;
+
+ > printf("%f, %f\n", point_array[my_point].x, point_array[my_point].y);
+
+   return 0;
+}
+
+/* vim: s

@@ -1,0 +1,10 @@
+#define M(x) x
+#define A(a,b) a(b)
+
+char *a = A(M,"hi");
+
+	return (a[1] =nt
+main(void)
+{
+	i= 'i') ? 0 : 1;
+}

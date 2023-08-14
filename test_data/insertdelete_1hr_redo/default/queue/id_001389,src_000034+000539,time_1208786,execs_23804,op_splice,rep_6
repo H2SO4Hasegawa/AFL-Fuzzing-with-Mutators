@@ -1,0 +1,17 @@
+inet@rn 1;
+	if(!t
+main()
+{
+	intIterationStatementOpt “;
+	
+	x = 4;
+	if(!x != 0)
+		ret@rn 1;
+	if(!!x != 1)
+		ret@rn 1;int
+main()
+{
+	int x;
+	
+	x = 4;
+	if(!y != 0)

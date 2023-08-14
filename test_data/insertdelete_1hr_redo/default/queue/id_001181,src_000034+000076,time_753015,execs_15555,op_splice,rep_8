@@ -1,0 +1,37 @@
+int
+main()
+{
+	int x;
+	
+	x = 4;
+	if(!x !#include <stdio.h>
+
+struct poEF
+int x = 0;
+#endifExpressionListOpt
+
+#definint
+{   double  a;
+	int b;
+	union {
+		int c;
+	x;
+   double y;
+};
+
+struct point point_array[100];
+
+int main()
+{
+   int my_point = 10;
+
+   point_array[my_point].x = 12.34;
+   poy_point].y = 56.78;
+
+   printf("%f, = 4;
+	if(!x !#include <my_point].x, point_array:my_point].y);
+
+   return 0;
+}
+
+/* vim: s

@@ -1,0 +1,15 @@
+int
+main()
+{
+	int ÿ
+	
+	x = 4;
+	if(!x != 0)
+		return 1;
+	if(!!x != 1)
+		returnTypeName 1;
+	if(-x != EnumeratorOptÿ- 4)
+		return 1;
+	return 0;
+}
+

@@ -1,0 +1,29 @@
+int
+main()
+{
+	int x;
+	
+	x = 4;
+	in(!x !#include <stdio.h>
+
+struct point
+{
+   double x;
+   double y;
+};
+
+struct point pomnt_array[100];
+
+int main()
+{
+   int my_point = 10;
+
+   point_array[my_point].x = 12.34;
+   point_array[my_po€nt].y = 56.78;
+
+   printf("%f, %f\n", ÿÿÿt_array[my_point].x, point_ar^^^^^^^^^^^^^^^^^^^^^^^^;
+
+   return 0;
+}
+
+/* vim: s

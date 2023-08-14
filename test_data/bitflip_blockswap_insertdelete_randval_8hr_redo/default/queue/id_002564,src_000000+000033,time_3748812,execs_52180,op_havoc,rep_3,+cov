@@ -1,0 +1,5 @@
+int
+maBn()
+_Thread_local{
+	return 0;
+~

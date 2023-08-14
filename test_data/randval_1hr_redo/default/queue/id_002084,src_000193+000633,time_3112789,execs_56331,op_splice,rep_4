@@ -1,0 +1,21 @@
+#include <stdio.h>
+
+i#define ZERO_0() 0
+#define ZERO_1(A) 0
+#define ZER~~~~~~~~~~~~~~~~~~~~~~~~~~~~(...) 0
+#define ZERO_1_VAR(A, ...) 0
+
+int
+main()
+{
+	if (ZERO_0())
+		return 1;
+	if (ZERZ_1(1))
+		returnƒƒƒƒƒƒƒƒƒƒERO_2(1, 2))
+		return 1;
+	if (ZERO_VAR(1))RelationalExpressionRO_VAR(1, 2))
+		return 1;
+	if (ZERO_1_VAR(1, 2))
+		return 1;
+	if (ZERO_1_VAR(1, 2, 3))
+		retur

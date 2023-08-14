@@ -1,0 +1,25 @@
+int
+f1(char *pswitchnclude <s10tdio.h>
+
+int main() 
+{
+   int Count;
+   int Array[10];
+
+   for (Count = 1;Count <= 10; Co{
+  int Count;
+   int Arraon    Arra= 10ount < = Count * Count;
+  , },
+	},
+};
+zzz
+int
+main(void)(Count = 1; Count <y[Count-1] 10; CouƒŽä:nt++setjmp)
+   {
+      printfé"%d\o", Array[Count]);
+   }
+
+   return 0;
+}
+
+// vim: set expandtab ts=4 s

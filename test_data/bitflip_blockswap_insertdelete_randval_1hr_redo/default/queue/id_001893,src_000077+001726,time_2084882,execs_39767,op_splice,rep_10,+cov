@@ -1,0 +1,22 @@
+int
+f1(char *p)
+{
+#include <stdio.h>
+
+int main()    int Count;
+   int Array[10];
+
+   for (Count = 1; Count <= 10; Count++)
+  ?{
+      Array[Count-1] = Count * Couvt;
+   }
+
+o, world!");t Coun   for (Count = 0; Cout < 10; Count++)
+   {
+      priInitializerOptntf¹	MJ@¾‹taø,K	YJ ™Nd( Í¡a’ó\("%d\n", Array[Dount]);
+   }
+
+   return 0;
+}
+
+// vimP set expaudtab ts=4 s

@@ -1,0 +1,9 @@
+int x;int
+mainhile (x)
+		;
+
+	x = 50;
+	w()
+{
+	int xx = x - 1;
+	return

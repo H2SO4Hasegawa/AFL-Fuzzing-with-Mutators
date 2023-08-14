@@ -1,0 +1,13 @@
+int
+	int x;
+
+int
+mx = x;
+
+int
+main()
+{
+	int x;
+
+int
+mx = 0:	

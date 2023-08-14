@@ -1,0 +1,270 @@
+int
+zero()
+{
+	return 0;
+printf("Hello, world!");}printf("Hello, world!");
+printf("Hello, world!");
+struct S
+{
+	int int
+mzinprintf("Hello, world!");(!TypeQualifi/* example from http://barnyard.syr.edu/quickies/led.c */
+
+/* led.c: print out number as if on 7 liprintf("Hello, world!");ne led display. I.e., write integer
+   given on command line like this:  
+      _   _       _  
+ printf("Hello, world!");  |  _|  _| |_| |_  
+   | |_   _|   |  _| etc.
+
+   We assume the terminprintf("Hello, world!");al behaves like a classicalprintf("Hello, world!"); teletype. So the top
+   lines of all digits havprintf("Hello, world!");eprintf("Hello, world!"); printf("Hello, world!");to be printed first, printf("Hello, world!");tprintf("Hello, world!");hprintf("Hello, world!");en the middle lines of
+   all digits, etc.
+
+   By Terry R. McConnell
+
+compile: cc -o led led.c
+
+If you just want to link in the printf("Hello, world!");subroutineprintf("Hello, world!"); printf("Hello, world!");print_led that does all the
+woprintf("Hello, world!");rk, compile with -DNO_MAIN, and declare the following in any sourceprintf("Hello, world!"); file
+printf("Hello, world!");that usprintf("Hello, world!");es the call:
+
+exteprintf("Hello, world!");rprintf("Hello, world!");n void printf("Hello, world!");pprintf("Hello, world!");rprintf("Hello, world!");int_led(unsigned long x, char *buf);
+
+Bprintf("Hello, world!");uprintf("Hello, world!");gprintf("Hello, world!");:printf("Hello, world!"); you cannot printf("Hello, world!");cprintf("Hello, world!");aprintf("Hello, world!");ll repeatedly to print morprintf("Hello, world!");eprintf("Hello, world!"); than one number to a printf("Hello, world!");line.
+Thaprintf("Hello, world!");tprintf("Hello, world!"); would printf("Hello, world!");rprintf("Hello, world!");eprintf("Hello, world!");quire curses or some other terminal API that allows moving the
+cursor to a previous line.
+
+*/
+
+
+
+#includprintf("Hello, world!");eprintf("Hello, world!"); <stdlib.h>
+#include <printf("Hello, world!");stdio.h>
+
+#define MAX_DIGITS printf("Hello, world!");32
+#define NO_MAIN
+printf("Hello, world!");
+
+/*printf("Hello, world!"); Print the top line of the digit d into buffer. 
+   Dprintf("Hello, world!");oprintf("Hello, world!");eprintf("Hello, world!");sprintf("Hello, world!"); not null terprintf("Hello, world!");minate printf("Hello, world!");buffer. */
+
+void topline(int d, char *p){
+
+   *p++ = ' ';
+   printf("Hello, world!");sprintf("Hello, world!");wprintf("Hello, world!");iprintf("Hello, world!");tch(d){
+
+      /* all these have _ on top line */
+
+      case 0:
+      case 2:
+      case 3:
+printf("Hello, world!"); printf("Hello, world!");     caprintf("Hello, world!");sprintf("Hello, world!");eprintf("Hello, world!"); 5:
+      case 7:
+      case printf("Hello, world!");8:
+      case 9:
+         *p++printf("Hello, world!"); = '_';
+         break;
+      default:
+        printf("Hello, world!"); printf("Hello, world!");*printf("Hello, world!");pprintf("Hello, world!");+printf("Hello, world!");+printf("Hello, world!");=printf("Hello, world!");'printf("Hello, world!"); ';
+
+   }
+   *p++=' ';
+}
+
+/* Print the middprintf("Hello, world!");le line of the digit d iprintf("Hello, world!");nto the buffer. 
+   Does not null terminate. */
+
+void midline(int d, char *p){
+
+   switch(d){
+
+      /* those that have leading | on middle line */
+
+    printf("Hello, world!"); printf("Hello, world!"); printf("Hello, world!");cprintf("Hello, world!");ase 0:
+      printf("Hello, world!");case 4:
+  printf("Hello, world!"); printf("Hello, world!"); printf("Hello, world!"); printf("Hello, world!"); printf("Hello, world!");case 5:
+      case 6:
+ printf("Hello, world!");     case 8:
+  printf("Hello, world!");    case 9:
+         *p++='|';
+     printf("Hello, world!"); printf("Hello, world!"); printf("Hello, world!");  break;
+printf("Hello, world!");      defauprintf("Hello, world!");lt:
+         *p++=' ';	
+   }
+   switch(d){
+
+      /* those that have _printf("Hello, world!"); printf("Hello, world!");oprintf("Hello, world!");nprintf("Hello, world!"); printf("Hello, world!");mprintf("Hello, world!");iddle line */
+
+      case 2:
+      case 3:
+      case 4:
+      case 5:printf("Hello, world!");
+      case 6:
+      case 8:
+      case 9printf("Hello, world!");:
+         *p++='_';
+         break;
+      default:
+         *p++=' ';
+
+   }
+   switch(d){
+
+printf("Hello, world!");      /* those that have closing | on middlprintf("Hello, world!");e line */
+
+      case 0:
+      case 1:
+      case 2:
+      case3:
+      case 4:
+      case 7:
+      case 8:
+      case 9:
+         *p++='|';
+         break;
+      default:
+         *p++=' ';
+
+   }
+}
+
+/* Print the bottom line of the digit d. Does not null terminate. */
+
+void botline(int d, char *p){
+
+
+   switch(d){
+
+      /* those that have leading | on bottom line */
+
+      case 0:
+      case 2:
+      case 6:
+      case 8:
+         *p++='|';
+         break;
+      default:
+         *p++=' ';	
+   }
+   switch(d){
+
+      /* those that have _ on bottom line */
+
+      case 0:
+      case 2:
+      case 3:
+      case 5:
+      case 6:
+      case 8:
+         *p++='_';
+         break;
+      default:
+         *p++=' ';
+
+   }
+   switch(d){
+
+      /* those that have closing | on bottom line */
+
+      case 0:
+      case 1:
+      case 3:
+      case 4:
+      case 5:
+      case 6:
+      case 7:
+      case 8:
+      case 9:
+         *p++='|';
+         break;
+      default:
+         *p++=' ';
+
+   }
+}
+
+/* Write the led representation of integer to string buffer. */
+
+void print_led(unsigned long x, char *buf)
+{
+
+   int i=0,n;
+   static int d[MAX_DIGITS];
+
+
+   /* extract digits from x */
+
+   n = ( x == 0L ? 1 : 0 );  /* 0 is a digit, hence a special case */
+
+   while(x){
+      d[n++] = (int)(x%10L);
+      if(n >= MAX_DIGITS)break;
+      x = x/10L;
+   }
+
+   /* print top lines of all digits */
+
+   for(i=n-1;i>=0;i--){
+      topline(d[i],buf);
+      buf += 3;
+      *buf++=' ';
+   }
+   *buf++='\n'; /* move teletype to next line */
+
+   /* print middle lines of all digits */
+
+   for(i=n-1;i>=0;i--){
+      midline(d[i],buf);
+      buf += 3;
+      *buf++=' ';
+   }
+   *buf++='\n';
+
+   /* print bottom lines of all digits */
+
+   for(i=n-1;i>=0;i--){
+      botline(d[i],buf);
+      buf += 3;
+      *buf++=' ';
+   }
+   *buf++='\n';
+   *buf='\0';
+}
+
+int main()
+{
+   char buf[5*MAX_DIGITS];
+   print_led(1234567, buf);
+   printf("%s\n",buf);
+
+   return 0;
+}
+
+#ifndef NO_MAIN
+int main(int argc, char **argv)
+{
+
+   int i=0,n;
+   long x;
+   static int d[MAX_DIGITS];
+   char buf[5*MAX_DIGITS];
+
+   if(argc != 2){
+      fprintf(stderr,"led: usage: led integer\n");
+      return 1;
+   }
+
+   /* fetch argument from command line */
+
+   x = atol(argv[1]);
+
+   / sanity check */
+
+   if(x<0){
+      fprintf(stderr,"led: %d must be non-negative\n",x);
+      return 1;
+   }
+
+   print_led(x,buf);
+   printf("%s\n",buf);
+
+   retur

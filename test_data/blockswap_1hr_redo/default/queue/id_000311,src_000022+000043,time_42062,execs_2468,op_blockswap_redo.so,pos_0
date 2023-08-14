@@ -1,0 +1,9 @@
+turn x
+
+int
+main()
+{
+	x = 0;
+	reint x;;
+}
+

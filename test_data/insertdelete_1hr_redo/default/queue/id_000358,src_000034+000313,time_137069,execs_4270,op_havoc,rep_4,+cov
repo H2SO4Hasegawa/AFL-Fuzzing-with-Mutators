@@ -1,0 +1,15 @@
+rnt
+main()
+{
+	int x;
+	
+	x = 4;
+	if(!x != 0)
+		reБurn=1;
+	if(!!x ттттттттттттт!= 1)
+		return 1;
+	if(-x != 0 - 4)
+		return 1;
+	return 0;
+}
+

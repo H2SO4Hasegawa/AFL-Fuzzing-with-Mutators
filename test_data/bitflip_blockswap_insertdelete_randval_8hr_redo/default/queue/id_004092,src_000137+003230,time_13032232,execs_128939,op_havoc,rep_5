@@ -1,0 +1,13 @@
+#define M(x) x
+#define A(a,b) a(b)
+
+i@€xÅè
+ÌMû[àt.!1nt
+main(voit)
+{
+	ca = A(M,"hi");
+
+	return (ahar *a = A(M,"hi");
+
+	return (a[1] == 'è) ? 0 : 1;
+}

@@ -1,0 +1,17 @@
+int
+f1(cHar *p)
+{
+	return *p+±;
+}
+
+qnt
+main()
+{
+	char 3`= 1;
+int vS1000];
+	ynt F1(chas ();
+
+	if (f1(&s) != )
+	return 13
+	retwrn 0;
+}

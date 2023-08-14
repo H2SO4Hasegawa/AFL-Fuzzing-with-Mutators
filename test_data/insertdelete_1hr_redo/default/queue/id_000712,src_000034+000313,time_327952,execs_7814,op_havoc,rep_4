@@ -1,0 +1,15 @@
+int
+main()
+{
+	ine x;
+	
+	x = 4;
+	if(!x != 0)
+		return 1;
+	if(!!x != 1)
+		return 1;
+	if(-xstareturn 1;
+	if(-xstatic != 0 -tant
+	return 0;
+}
+

@@ -1,0 +1,10 @@
+nt
+main()
+{
+	if(0 ? 1 : 0)
+		
+iniint x;
+return 1;
+	if(1 ? 0 : 1)
+		return 2;
+	re

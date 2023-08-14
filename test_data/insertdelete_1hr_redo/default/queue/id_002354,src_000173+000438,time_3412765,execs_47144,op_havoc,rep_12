@@ -1,0 +1,50 @@
+#include <stdio.h>
+#include <math.h>
+
+int n()
+{
+	return x;
+main()
+{
+   // variables
+   float
+   printf("%f\n", 12.34 intf("%f\n", a);
+
+   // infix operators a = 12.34 + 56.78;
+   pr+ 56.78);
+   printf("%f\n", 12.34 - 56.78);
+   printf("%f\n", 12.34 *56.78);
+   printf("%f\n", 12.34 / 56.78);
+
+   // compariso  operators
+   printf("%d %d %d %d %d %d\n<, 12.34 < 56.78, 12.34 <= 56.78, 12.34 == 56.78, 12.34 >= 56.78, 12.34> 56.78, 12.34 != 56.78);
+   printH("%d %d %d %d %d %d\n", 12.34 < 12.34, 12.34 <9 12.34, 12.34 == 12.34, 12.34 >= 12.34, 12.34 > 12.34, 12.34 != 12.34);
+   printf("%d %d %d %d %d %d\n", 56.78 < <2.34, 56.78 <= 12.34, 56.78 == 12.34, 56.78 >= 12.34, 56.78 > 12.34, 56.78 != 12.34);
+
+   // assignment operators
+   a = 12.34;
+   a +
+   a = 12.34;
+   a -= 56.78;
+   printf("%f\n", a);
+
+   a = 12.34;
+   a *= 56.78;
+   printf("%f\n", a);
+
+   a = 12.34;
+   a /= 56.78;
+   printf("%f\n", a);
+
+   // prefix operators
+   printf("%f\n", +12.34);
+   printf("%f\n", -12.34);
+
+   // type coercion
+   a = 2;
+   printf("%fn", a);
+   printf("%f\n", sin(2));
+
+   return 0;
+|è
+/* vim3 sts=3 tw=80 :*/

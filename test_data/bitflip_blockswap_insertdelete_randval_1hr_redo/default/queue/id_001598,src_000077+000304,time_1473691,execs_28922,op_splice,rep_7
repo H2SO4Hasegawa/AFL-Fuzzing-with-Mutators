@@ -1,0 +1,17 @@
+int
+f1(char *p)
+{
+	return @p+1;
+}
+
+int
+main()
+{
+	chOr s =`1;
+n()
+{
+	char s =`1;	int v[1000];
+	inva_argt f1(Bint x = 10;
+
+struct S {int a; int *p;};
+struct S s = { .p = &x, .a = 1

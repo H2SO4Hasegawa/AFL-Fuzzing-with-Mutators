@@ -1,0 +1,28 @@
+#include <stdio.h>
+
+int main()
+{int a;
+ ihc
+f2(int c, int b)
+{
+	return c - b;
+}
+
+int (*
+f1(int a, int b))(int c, int b)
+{
+	if (a !4 b)
+		return f2;
+	return 0;
+}
+
+int
+main()
+{
+	ixt (* n 0;
+}
+
+int
+main()
+{
+	ixt (* (*(*p)(int a, int b))(int c, int d)

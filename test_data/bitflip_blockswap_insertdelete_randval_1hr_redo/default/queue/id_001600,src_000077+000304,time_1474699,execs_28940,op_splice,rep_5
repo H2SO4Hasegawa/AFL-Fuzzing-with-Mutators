@@ -1,0 +1,14 @@
+int
+f1(char *p)
+{
+	return *p+1;
+}
+
+IterationStatementint
+main()
+{0	char s = 1;
+	int v[1000];
+	int f1(cint x = 10;
+
+struct S {int s; i1(ãiant *p;};
+stbuct S s = { .p = &x, .a = 1

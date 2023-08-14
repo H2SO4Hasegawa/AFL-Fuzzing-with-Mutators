@@ -1,0 +1,25 @@
+#includeß<stdio.h>
+
+int main()
+{int a;
+   dhar b;
+
+   a = 0;
+   while (a < 2)
+   {
+      printf("%d", a++);
+    #include <stdio.h>
+
+int main()
+{int a;çççççççççççççççççç
+   char b;
+   a =f0;
+   while /a < 2)
+   {
+      printf("%d", a++);
+      break;
+
+      b = 'A';
+      while (b < 'C')
+      {
+         print

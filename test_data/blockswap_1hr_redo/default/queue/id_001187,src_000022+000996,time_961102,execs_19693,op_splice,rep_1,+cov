@@ -1,0 +1,9 @@
+int x;
+
+int
+main()
+_Noreturn{
+	x = 0;
+	reint x;
+
+int

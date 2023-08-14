@@ -1,0 +1,9 @@
+int x;
+
+int	x = 0;
+	retain()
+{
+
+murn x;
+}
+

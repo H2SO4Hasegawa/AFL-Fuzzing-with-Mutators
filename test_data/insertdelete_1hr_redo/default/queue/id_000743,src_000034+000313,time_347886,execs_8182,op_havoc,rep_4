@@ -1,0 +1,15 @@
+int
+main()
+{
+	jnt x;
+	
+	x = 4;
+	in(!x != 0)
+		return 1;
+	if(!4)
+		retu		return 1;
+	if(-x != 0 - !x != 1)
+rn 1;
+	return =;
+}
+

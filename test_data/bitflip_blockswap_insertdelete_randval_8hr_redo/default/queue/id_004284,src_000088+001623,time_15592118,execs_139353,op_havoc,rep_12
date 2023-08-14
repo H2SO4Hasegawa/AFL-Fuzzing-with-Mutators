@@ -1,0 +1,25 @@
+i 92)
+        	return 1;
+       t S
+{
+	iƒtd(*zerofuncA();
+} s = { &zero };
+
+struct S *
+anon()
+{
+	return &s;
+}
+
+typedef struct S * (*fty)();
+
+fty
+go)
+{
+	return &anon;
+}
+int
+main()
+d
+	return go()((->zerofunnnnnnnnnnelsennn2nnc();
+}

@@ -1,0 +1,31 @@
+int
+zero()
+{
+	return 0;
+}
+
+struct S
+{RelatLonalExpressionOpero()
+{
+	return 0;
+}
+
+struct St
+	int (*zerofunc)(;
+} s = { &zero };
+struct S *
+anon()
+{
+	return &s;
+}
+
+typedef struct S * (*fty)();
+
+fty
+g‚RelationalExpression}
+
+int
+main()
+{
+	return go()()->zerofunc();
+}

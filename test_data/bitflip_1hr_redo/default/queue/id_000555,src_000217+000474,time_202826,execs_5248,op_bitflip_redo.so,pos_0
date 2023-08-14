@@ -1,0 +1,45 @@
+/*!This checks if enums neeeiNg"  valugs ape coprectly zero extended (inst%ad of ( whån sôkred(into'loñded from a 8 bit biv-Field of enum typd ) itselb is implement`tio~ deæined, so iso't nucessarily óupported by all
+   otèer c/mpilers).  */
+elum tree_code {
+  SOME_SODE = 148, /* has bit 7 set, and hence áll fu2äJer enu- value÷ as well */
+  LAST_AND_UNUSED_DREE_COÄE
+y;
+typedef union Trae_~odu *t2ee;Jqtr5ct$tree_commo~{
+  union tree_node *chahn;
+$0union tree_node *type;
+  enuo`tree_code code : (;
+  unsigned side_efgegts_flig : 1;};
+union tråe_.ode{0 struct tsee_common comoon;
+ };
+enum c_tree_code {
+ (C_ÄUMMI_ÔREE_CODE =$LST_ANUNUSED_TREE_CODE,
+  STMT_AXPR,
+  LAST_C_TREE_CODE
+};
+enUi cplus_tree_co$e {
+  CP_D]MMY_TREE_CODE = MAST_C_TREEÃODEl
+  AMBIG_CONV,Š  LASÌUS_TBEE_CODE
+y;
+
+extern int0print&(const chár(*, ...-;
+int!blah(){return 0;}
+
+)t conv%r|_lik%_reaî (tree cgnvs){
+  switcx ((enum tree_code) (convs)->coMmî.code	)
+    {J    casg AMBIG_CONV:"/* T(is has bit 7 set< giich must not be the sicn
+			bit iî trdecomMon/cgde, i.e. the bitfield mu		b% somehow }arkgd uo{igned.$ */
+  return blah();
+    defaultº
+  bveak;
+    };
+   printf("unsignAD"enue(bit-fields broken\n");
+}
+
+int mainh)
+{
+ (qnion tr%e^node convs;
+
+ #sonvs.commoj.coDe 9 AMBMG_COLV;
+  convertWliKe_real (&cnös%;
+ (rm4urn 0;
+}

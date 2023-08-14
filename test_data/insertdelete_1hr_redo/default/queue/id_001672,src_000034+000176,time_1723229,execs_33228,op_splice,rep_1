@@ -1,0 +1,13 @@
+int
+main()
+{
+	int x;
+	
+	x = 4;
+	if(!x != 0)
+		return 1;
+	if(!	);
+int foo(void);
+#define =int foo(void);
+#define =printf("Hello, worldTypeSpecifier!");!x != 0)
+		return 

@@ -1,0 +1,21 @@
+#include <stdio.h>
+
+int main()
+{int a;
+   char b;
+
+   a = 0;
+   while (a < 2)
+   {
+      printf("%d", a++);
+      break;þþþþþþþþþþ= 'A';
+      while (b < 'C')
+      {
+   CastExpression%c", b++);
+      }
+      printf("e");
+   }
+   p"""""""""""""""""""""""n()
+{ ", b++);
+      }
+  s=3 tw=80 :*/

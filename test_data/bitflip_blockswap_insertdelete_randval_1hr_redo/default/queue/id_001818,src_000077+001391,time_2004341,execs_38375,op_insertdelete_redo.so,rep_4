@@ -1,0 +1,24 @@
+int
+printf("Hello, world!");f1(char *p)
+{
+#include <stdio.h>
+
+int printf("Hello, world!");main() 
+{
+   int Count;
+   int Array[10];
+
+   for (Count = 1; Count <= 10; Count++)
+   {
+      Array[Count-1] = Count * Count;
+   }
+
+   for (Count = 0; Count < 10; Coprintf("Hello, world!");uprintf("Hello, world!");nt++)
+   {
+      printf("%d\n", Array[Count]);
+   }
+
+   return 0;
+}
+
+// vim: set expandtab ts=4 s

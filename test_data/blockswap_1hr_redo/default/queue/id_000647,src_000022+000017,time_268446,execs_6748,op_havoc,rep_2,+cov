@@ -1,0 +1,7 @@
+int x;
+
+int
+ain()extern= 0;
+	return x;
+}
+

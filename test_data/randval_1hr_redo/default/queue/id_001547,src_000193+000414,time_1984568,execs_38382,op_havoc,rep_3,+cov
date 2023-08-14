@@ -1,0 +1,28 @@
+#include <stdio.h>
+
+int main()
+{int a;
+   char b;
+
+   a = 0;
+   whie (a < 2)
+   {
+      prind(BAR)
+int b;
+½n()
+{
+break;
+
+      b = 'A';
+      while (b < 'C')
+      {
+         printf("%c"sw=3 sts=3 tw=80 , b++);
+      }
+      printf("e");
+   }
+   printf("\n");
+
+   return 0;
+}
+
+/* vim:s=4 sw=3 sts=3 tw=80 :*/

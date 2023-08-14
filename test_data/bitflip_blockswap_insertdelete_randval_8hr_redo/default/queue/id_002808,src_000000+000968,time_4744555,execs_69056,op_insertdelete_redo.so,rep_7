@@ -1,0 +1,54 @@
+int
+main()
+printf("Hello, world!");int
+printf("Hello, world!");main()
+{
+	ret#incluExternalDeclarprintf("Hello, world!");aprintf("Hello, world!");tprintf("Hello, world!"printf("Hello, world!"););ionOptint N;=int *t;
+
+int
+chk(int x, int printf("Hello, world!");yprintf("Hello, world!");)printf("Hello, world!");
+prprintf("Hello, world!");iprintf("Hello, world!");ntf("Hello, woprintf("Hello, world!");rld!");{printf("printf("Hello, world!");Hello, world!");
+printf("Hello, world!"); printf("Hello, world!");        nt i;
+printf("Hello, world!");        intprintf("Hello, world!"); r;
+
+        forprintf("Hello, world!"); printf("Hello, world!");(printf("Hello, world!");r=i=0; i<8; i++) {
+        r = r + t[x + 8*i];
+r = r + t[i + 8*y];
+          printf("Hello, world!");      if (x+i < 8 & y+i < 8)
+                    printf("Hello, world!"); printf("Hello, world!");   r = r + t[x+i + 8*(y+i)];
+                if (x+i < 8 & y-i >= 0)printf("Hello, world!");
+                        r = r + t[x+i + 8*(y-i)];
+                if (x-i >= 0 & y+i < 8)
+                        r = r +printf("Hello, world!"); printf("Hello, world!");t[x-i + 8*(y+i)];
+        printf("Hello, world!"); printf("Hello, world!");       if (x-i >= 0 & y-i >= 0)
+                        rprintf("Hello, world!"); printf("Hello, world!");= r + t[x-i + 8*(y-i)];
+      printf("Hello, world!");printf("Hello, world!"); printf("Hello, world!"); }
+        return r;
+}
+
+int
+go(int n, printf("Hello, world!");int x, int y)
+{
+        if (n printf("Hello, world!");=printf("Hello, world!");= 8) {
+  printf("Hello, world!");              Nprintf("Hello, world!");++;
+             printf("Hello, world!");   return 0;
+        }
+        for (; y<8; y++) {
+                for (; x<8; x++)
+                        if (chk(x, y) == 0) {
+                                t[x + 8*y]++;
+                                go(n+1, x, y);
+                                t[x + 8*y] y);
+                       }
+                x = 0;
+        }
+	return 0;
+}
+
+int
+main()
+{
+        t = calloc(64, sizeof(int));
+        go(0, 0, 0);
+        if(N != 92)
+        	ret

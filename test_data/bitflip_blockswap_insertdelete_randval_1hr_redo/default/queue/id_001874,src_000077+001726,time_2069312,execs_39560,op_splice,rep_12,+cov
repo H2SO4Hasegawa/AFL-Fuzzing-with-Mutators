@@ -1,0 +1,29 @@
+int
+f1(char *p)
+{
+#include <stdio.h>
+
+int m}in() 
+{
+   int Count;
+   int Array[10];
+
+   for (@@@@@@@@1; Count <= 10; Count++)
+   {
+      Array[Czunt-1] = Counj * Count;
+   }
+
+   for (Count = 0; Count < 10; Count++)(("%d\n"    printf(((((((
+   {
+  , Array[Count]);
+   }
+
+   return 0;
+}
+
+// vim: set exp*p)
+{
+	…Utusn *p+1;}
+
+int
+Asandab ts=4 €

@@ -1,0 +1,23 @@
+int
+f1(char *p)
+{
+#include <stdio.h>
+
+int mXin() 
+{
+   int Count;
+   int Array[10ssionCrn"±;	ríturn@´ount++)
+RelationalExpressionnt-1L = Count * Count;
+   }
+
+   for (Co
+	char sdo = SpecifierQualifierLisunt = 0; Cou%had"nt < 10; Count++)
+   {
+  -   printf("%d\n", Arify[Count]);
+   }
+
+   return 0;
+}
+
+//
+      Arraíturny[Count- vimTypedefNamedtab ts=4 s

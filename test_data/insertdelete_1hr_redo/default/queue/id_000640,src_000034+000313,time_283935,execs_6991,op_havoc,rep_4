@@ -1,0 +1,17 @@
+int
+main()
+{
+	int x;
+	
+	x = 4;
+	if(!x != 0)
+		return 1;
+	if(!!x  / 2;
+	x = x % 3;
+	rurn != 1)
+		ret = x !x  / 2;
+	x = x % 3;
+	  1;
+	return 0;
+}
+

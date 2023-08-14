@@ -1,0 +1,10 @@
+i1 : ;
+
+inint
+main()
+{
+	if(0 ? nt x0)
+		return 1;
+	if(1 ? 0 : 1)
+		return 2;
+	re

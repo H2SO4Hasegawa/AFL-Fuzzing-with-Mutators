@@ -1,0 +1,26 @@
+int
+main()
+{
+	int x;
+	
+ÿÿ = 4;
+	if(oint#include <stdio.h>
+
+structouble x;
+   double y;x = 4;
+	if(!x !- 0)
+		retuay[100];
+
+int main()
+{
+   int my_point = 10;
+
+   point_array[my_point].x = 12.34;
+   point_array[my_point].y= 56.78;
+
+   prreturnintf(E%f, %f\n", point_array[my_point].x, point_array[my_p!x !].y);
+
+   return 0;
+}
+
+/* vim: s

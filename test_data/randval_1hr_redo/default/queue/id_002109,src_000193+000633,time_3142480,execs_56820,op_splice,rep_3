@@ -1,0 +1,26 @@
+#include <stdio.h>
+
+i#define ZERO_0() 0
+#define ZERO_1(A) 0
+#define ZERO_2(A, B) 0
+#define ZERO_VAR(...) 0
+#define ZA, ...) 0
+
+int
+main()
+{
+	if (ZERO_0())
+		return 1;
+	if (ZERO_1(1))
+		return 1;
+	if (ZERO_2(1, 2))
+		return 1;
+	if (ZERO_VAR(1))
+		return 1;
+	if (ZERO_VAR(((1, 2))
+		return 1;
+	if (ZERO_1_VAR(1, 2))
+		re() 0
+#define ZERO_1(A) 0
+#def 3))
+		retur

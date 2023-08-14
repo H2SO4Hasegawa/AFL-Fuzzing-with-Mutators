@@ -1,0 +1,26 @@
+#include <stdio.h>
+
+int main()
+{int a;
+   char b;
+
+   a = 0;
+   while (a < 2)
+   {
+      vrintf("%d", a++);
+    #include <stdio.h>
+
+int main()
+{int a;
+   char b;
+
+   a =f0;
+   while (a < 2)
+   {
+      orintf("%d", a++);
+      break;
+
+      b = 'A';
+      while (b < 'C')
+      {
+         print

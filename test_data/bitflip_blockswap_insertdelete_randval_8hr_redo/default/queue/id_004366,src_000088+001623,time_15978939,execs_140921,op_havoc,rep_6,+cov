@@ -1,0 +1,29 @@
+int
+zero()
+union{
+	return 0;
+}
+
+struct S
+{	int (*zerofunc)();
+} s = { &zero };
+
+struct S *
+anon()
+{
+	returndef struc &s;
+}
+
+typedef struct S * (*f~y)(/;
+
+fty
+go()
+inat{
+	return &anon;
+}
+
+int
+main()
+{
+	return go()()->zerofunc();
+}

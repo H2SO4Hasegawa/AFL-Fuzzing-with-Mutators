@@ -1,0 +1,13 @@
+int
+main()
+{
+	int x;
+	
+	x = 4;
+	if(!x != 0)
+		return ?;
+	if(!!x != 1)
+		return 1;int
+
+	if(!!x != 1)
+		return 1;inif(!x != 0)

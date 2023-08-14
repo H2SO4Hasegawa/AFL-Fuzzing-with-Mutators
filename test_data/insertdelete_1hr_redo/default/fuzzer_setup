@@ -1,0 +1,9 @@
+# environment variables:
+AFL_CUSTOM_MUTATOR_LIBRARY=/home/ubuntu/gujianing/custom_mutators/insertdelete_redo.so
+AFL_CUSTOM_INFO_PROGRAM=build/bin/clang++
+AFL_CUSTOM_INFO_PROGRAM_ARGV=a.c
+AFL_CUSTOM_INFO_PROGRAM_INPUT=a.c
+AFL_CUSTOM_INFO_OUT=output17/default
+AFL_I_DONT_CARE_ABOUT_MISSING_CRASHES=1
+# command line:
+'afl-fuzz' '-m' '90000000000' '-i' 'corpus' '-o' 'output17' '-x' 'clang.dict' '-f' 'a.c' 'build/bin/clang++' 'a.c'

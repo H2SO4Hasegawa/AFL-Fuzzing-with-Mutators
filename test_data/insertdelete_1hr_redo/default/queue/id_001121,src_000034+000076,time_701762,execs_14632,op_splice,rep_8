@@ -1,0 +1,28 @@
+int
+main()
+{
+	int x;
+	
+	x = 4;
+   double y;
+};e <stdio.h>
+
+str9ct point
+{
+   double x;
+	if(!x !#includ
+
+dtruct point point_arra‹[100];
+
+int main()
+{
+   int my_point =   point_array[my_point].xnt].x      	if(!x !#includ
+
+dtruct poin                       oint].y = 56.78;
+
+   printf("%f, %f\n", point_array[my_point].x, point_array[my_point].y);
+
+   return 0;
+}
+
+/* vim: s

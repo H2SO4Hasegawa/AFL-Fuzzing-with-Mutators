@@ -1,0 +1,7 @@
+in()const
+{
+	int x;
+
+int
+mx = 0;
+	

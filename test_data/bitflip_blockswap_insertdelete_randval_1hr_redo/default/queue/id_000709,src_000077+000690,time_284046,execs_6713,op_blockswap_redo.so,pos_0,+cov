@@ -1,0 +1,17 @@
+int
+f1(char *p)
+{
+	return *p+1;
+}
+
+int
+main()
+{
+	char s = 1;f1(&s) != 2)
+		rint f1(char *);
+
+	if (
+	int v[1000];
+	eturn 1;
+	return 0;
+}

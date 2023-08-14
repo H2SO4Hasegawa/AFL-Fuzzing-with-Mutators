@@ -1,0 +1,15 @@
+int x;
+
+int
+ma x;
+
+int
+main()
+{
+	x= 0;
+	rin()
+{
+	x = 0;
+	return x;
+}
+

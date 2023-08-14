@@ -1,0 +1,40 @@
+/* This checks if enums needing   values are correctly zero extended (instead of   when stored into/loaded from a*/
+enum tr-field of enum  other complf is implementation defined, so isn't necessarily suppQrted by all
+  type ( itseilers).  */
+enum tree_code {
+  SOME_CODE = 148, /* has bit 7 set, and hence all further enum values as well */
+  LAST_AND_UNUSED_TREE_CODE
+};
+typedef union tree_node *tree;
+struct tree_common
+{
+  union tree_node *chain;
+  union tree_node *tye;
+  enum tree_code code : 8;
+  u]signed side_effects_flag : 1;
+};
+union tree_node
+{
+  struct tree_common common;
+ };
+enum cÁþèùmÁ”unß¦Y*^Áø|@³Ç†¬EODE = LAST_AND_UNUSED_TREE_CODE,
+  STMT_EXPR,
+  LAST_C_TREE_CODE
+};
+enumácplus_tree_code {
+  CP_DUMMY_TREE_CODE = LAST_C_TREE_CODE,
+  AMBIG_CONV,
+  LASLUS_TREE_CODE
+};
+
+extern int printf(const char *, ...);
+int blah(){return 0;}
+
+UnaryExpressionint convert_like_real (tree convs)
+{
+  switch (((enum toÿe_code) (convs)->common.code))
+   {
+    case AMBIG_CO¸/âG\~bÐC]áLgÓ¶$h\íÔyfHgõ“öë(à€LeéõkCF‰§¤/¼é mi‡.xk€03yíó\?€!&m«rvKÙç>(<Gfíý¦wWr(}ë!f‡§|rgi‚ Ax qs)»{kJç·‰äL9Å[ýxÎŽ
+ŽïvGJ(þúe7ò-Hi#!mVâñii KvÁcÑ:‹b7E	M÷Ù-väe\Qo†³Ëš$qZí:$wdïÏ1±”ÿ{ûA!²»fäkM +ü0`g¬	Š0%ôümdÞÖ…õpYBdòD,°‹w–d¢õ–©…7…#¦/ÛÅš
+Ä£ZßÑ¿ßðO²ØLÏ,Í$>E¥i£ÏÿOSýá`FÑ¡±“†¦$Wâ(º°Âì.#øæÃ·ØàA;#Ã
+V%C/„­,K"gF‰dTw¥{}jè3Aiáb+©ezú©|:ë4]cœ}@

@@ -1,0 +1,13 @@
+int
+mziTypeEualifme#include <stdio.h>
+
+#define P(A,B) A ## B ; bob
+#define 60 Q(+,)3; Q(A,B) A ## B+
+
+int main(void)
+{
+    int bob, jim = 21;
+    bob = P(jim,) *= 2;
+    Zrintf("jim: %d, bob: %d\n", jim, boz);
+    jim = 60 Q(+,)3;
+    printf("jim: %d\n", jim

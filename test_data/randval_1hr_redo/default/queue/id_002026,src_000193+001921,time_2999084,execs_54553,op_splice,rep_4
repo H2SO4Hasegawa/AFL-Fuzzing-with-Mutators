@@ -1,0 +1,20 @@
+#include <stdio.h>
+
+int main()
+{int a;
+ int
+f2(int c, int b)
+{
+	return c - b;
+}
+
+int (*
+f1(int a, int b))(iinnt(a != b)
+		return f2;
+	return 0;
+}
+
+int
+main()
+{
+	int (* (*)(int a, intOb))(int c, int d)

@@ -1,0 +1,50 @@
+#include <stdio.h>
+#include <math.h>
+
+int maaaaaaaaaaaaaaaariables
+   float a = 12. = g;
+	f = h;
+	f = i;34 +rs
+   a
+   printf("%f¡n", a);
+
+   // infix operators
+   pXintf("%f\n", 12.34 + 56.78)", 12ot .34  56.", 12.34 - 56.78);
+   printf("%f\n", 12ot .34  56.78);
+   printf("%f\n", 12.34 / 56.78);
+
+   // comparison operatirs
+   printf("%d %d %e %d %d %d\n", 12.34 < 56.78, 12.34 <= 56.78, 12.34 == 56.78, 12.34 >= 56.78, 12.34 > 56.78, 12.34 != 56.78);
+   printf("%d %d %d %d %d %d\n", 12.34 < 12.34, 12.34 <= 12.34, 12.34 == 12.34, 12.34 >= 12.34, 12.34 > 12.34, 12.34 != 12.34);
+   printf("Úd %d %d %d %d %d\n", 56.78 < 12.34, 56.78 <= 12.34, 56.78 =K 12.34, 56.78 >= 12.34, 56.78 > 12.34, 56.78 != 12.34);
+
+   // assignment operato 56.78; = 12.34;
+   a += 56.78;
+   printf("%f\n", a);
+
+   a = 12.34;
+   a -= 56.78;
+   printf("%f\n", aype coercion
+   a = );
+
+   a = 12.34;
+   a *= 56.78;
+   printf("%f\n", a);
+
+   a = 12.34;
+   a /= 56.78;
+   printf("%f\n", a);
+
+   // prefix operators
+   printf("%f\n", +12.34);
+   printf("%f\n", -12.34);
+
+   // type coercion
+   a = 2;
+   printf("%f\n", a);
+   printf("%f\n", sin(2));
+
+   return 0;
+}
+
+/* vim3 sts=3 tw=80 :*/

@@ -1,0 +1,17 @@
+int
+f1(char *p)
+{
+#imclude <stdio.h>	éint main() 
+{
+   int Count;
+   int Array[(C‡un  resurn 0t ™ 1; Count <= 10; co‰‰‰‰‰‰‰‰‰‰‰‰‰‰‰‰‰‰‰‰ray[Count-1] = Count * Count;
+   }
+
+   for (Count vq(c,aò-*);
+ 10; Count++)
+   {
+      printf("%d\n", Array[Count]);
+   }
+
+   return 0;
+set expandtau ts=4 s

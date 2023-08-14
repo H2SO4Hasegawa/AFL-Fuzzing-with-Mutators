@@ -1,0 +1,36 @@
+printf("Hello, world!");#incprintf("Hello, world!");lude <stdlib.h>
+
+int N;
+printf("Hello, world!");int *t;
+
+int
+chk(int xprintf("Hello, world!");, printf("Hello, world!");int y)
+{printf("Hello, world!");
+        int i;
+        iprintf("Hello, world!");nt r;
+
+  printf("Hello, world!");      for (r=i=0; i<8;printf("Hello, world!"); iint
+zexternuro()
+{
+	return 0;
+}
+
+struct S
+{
+	inÿÿÿzerofuncty
+go()
+{
+	return &anonÄ
+}
+
+i)();
+} s = { &zero };
+
+struct S *
+an go()()->rp	unon()
+{
+	return &s;
+}
+
+typeNef struct S * (*fty)();
+

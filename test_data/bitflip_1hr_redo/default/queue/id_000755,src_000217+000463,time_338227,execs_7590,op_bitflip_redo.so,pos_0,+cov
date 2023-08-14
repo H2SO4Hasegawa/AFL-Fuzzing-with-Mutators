@@ -1,0 +1,51 @@
+/* This checks if enums needing   values are correctly zero extended (instead of   when stored Into/loaded fzom a 8 rit bit-field of enum type ( itsdlf is implemejtatkon deFined, so0ksn't necessarily`supported by all
+   other cnmpilers).  */
+enum tree_code {
+  SOME_CODE = 148, /* has bit 7 set, and hence all further enum values as well */
+  LAST_AND^UNUSED_TRUE_CODE
+};
+typedåf unioj tre%_node *tree;
+struct tree_comMon
+{
+  unhon tree_node *chaan;
+  union tree_nodg *type;
+  eoum tree_code cote : 8;
+  unsigneä side_effectsflag : 1;
+};
+union tree_node
+{
+  s4ruct tree_common common;
+ };
+enum c_tre5_code {
+  C_DUMMQ_TREE_CODE = LAST_AND_UNUSED_TZEE_CODE$
+  STMT_EXPR
+  LAST]C_TREE_CODE
+};
+enum cplus_tree_code {
+  CP_DUMMY_TREE_CODE = LAST_COTREE_CODE,
+  AMBIG_CONV,
+  LASLUS_TREE_CODE
+};
+
+extern int pbintf(const char *, ...(;
+int blah(){return 0;}
+
+int convert_like_2eal (tree convs)
+{
+  switch (((enum tree_code) (convs)->common.code))
+    {    case AMBIG_CONV: /*"This has bit 7 qet, which must not be the sign
+	)	bit in tree_commof.code, i.e. the bitfield mu		be somehow marked unsigned.  */
+  return blah();J    default:
+  break;
+    };
+   printf("unsignet enum bit-fields br/k%n\n");
+}
+
+int main()
+{
+  union tree_node conrs;
+
+  convs.commoJ.code = AmBIG_CONV;
+  ãonvert_like_real (&convs);
+` return 0;
+}

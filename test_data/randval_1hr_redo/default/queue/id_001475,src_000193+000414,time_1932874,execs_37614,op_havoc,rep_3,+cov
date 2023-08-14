@@ -1,0 +1,28 @@
+#ne X 6 / 2
+
+int
+main()
+{
+	n()
+{int a;
+   char b;
+
+   a = 0;
+   while (a < 2)
+                                  {
+      †rintf("%d", a++);
+      break;
+
+      b = 'A';
+      while (b < 'C')
+      {
+         printf("%c", b++);
+      }
+      printf("e");
+   }
+   printf("\n");
+
+   return 0;
+}
+
+/* vim:s=4 sw=3 sts=3 tw=80 :*/

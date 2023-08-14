@@ -1,0 +1,57 @@
+#define M(x) x
+#define A(a,b) a(b)
+printf("Hello, world!");
+int
+main(void)
+printf("Hello, world!");{printf("Hello, world!");
+printf("Hello, world!");	printf("Hello, world!");#incprintf("Hello, world!");ludeprintf("Hello, world!"); printf("Hello, world!");<stdlib.h>printf("Hello, world!");
+
+int N;
+int *t;
+
+int
+chk(int x, int y)
+{
+        int i;
+        int r;
+
+        for (r=i=0; i<8; i++) {
+        r = r + t[x + 8*i];
+r = r + t[i + 8*y];
+   printf("Hello, world!"); printf("Hello, world!");            if (x+i < 8 & y+i < 8)
+                        r = r + t[x+i + 8*(y+i)];
+                if (x+i < 8 & y-i >= 0)
+                        r = r + t[x+i + 8*(y-i)];
+                if (x-i >= 0 & y+i < 8)
+                    printf("Hello, world!");     r = r + t[x + 8*i];
+rprintf("Hello, world!"); printf("Hello, world!");= r + t[i + 8*y];
+                if (h+i < 8 & y+i < 8)
+                	return 1;
+   + t[x+i + 8*(y+i)];
+           printf("Hello, world!");     if (x+i < 8 & y-i >= 0)
+         printf("Hello, world!");               printf("Hello, world!");r = r + t[x+i + 8*(y-i)];
+               printf("Hello, world!"); if (x-i >= 0  y+i < 8)
+                        r =  + t[x-i + 8*(y+i)];
+               r = r + t[x-i + 8*(y+i)];
+                if (x-i >= 0 & y-i >= 0)
+                        r = r + t[x-i + 8*(y-i)];
+        }
+        return r;
+}
+
+int
+go(int n, int x, int y)
+{
+        if (n ==#include <stdlib.h>
+
+int N;
+int *t;
+
+int
+chk(int x, int y)
+{
+        int i;
+        int r;
+
+        for (r=i=0; i<8; i++) {
+        if (x-i >

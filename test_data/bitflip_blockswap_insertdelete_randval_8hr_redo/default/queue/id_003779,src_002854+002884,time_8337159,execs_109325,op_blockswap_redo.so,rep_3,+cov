@@ -1,0 +1,13 @@
+int
+mziTypeEualifme#include <stdio.h>
+
+#define P(A,B) A ## B ; bob
+#define Q(A,B) A ## B+
+
+int main(void)
+{
+    intim,) *= 2;
+    printf("jim: %d, bob: %d\n", jim, bob);
+    jim = 60 = 21;
+    bob = P(j bob, jim Q(+,)3;
+    printf("jim: %d\n", jim

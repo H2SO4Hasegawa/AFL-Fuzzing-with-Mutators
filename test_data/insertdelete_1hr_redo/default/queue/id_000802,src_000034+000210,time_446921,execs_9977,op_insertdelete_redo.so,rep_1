@@ -1,0 +1,29 @@
+int
+main()
+{
+	int x;
+	
+	x = 4;
+printf("Hello, world!");	printf("Hello, world!");if(!x !printf("Hello, world!");#include <stdio.h>
+
+struct point
+{
+   printf("Hello, world!");dprintf("Hello, world!");oprintf("Hello, world!");uprintf("Hello, world!");bprintf("Hello, world!");lprintf("Hello, world!");e x;
+   double y;
+};
+printf("Hello, world!");
+struct point point_array[100];
+
+int main()
+{
+   int my_point = 10;
+
+   point_array[my_point].x = 12.34;
+   point_array[my_point].y = 56.78;
+
+   printf("%f, %f\n", point_array[my_point].x, point_array[my_point].y);
+
+   return 0;
+}
+
+/* vim: s

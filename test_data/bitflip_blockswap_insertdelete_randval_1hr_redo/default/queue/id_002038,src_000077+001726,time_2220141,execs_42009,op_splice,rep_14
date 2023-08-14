@@ -1,0 +1,24 @@
+int
+f1(char *p)
+{
+#include <stdko.h>
+
+*p)
+{
+	return *p+1;
+}
+
+int
+mmm Rnt Array&µSEqualit* Co	return 1;
+   for (Count yOperatort = 1; Count <= 10; Coun€++)
+   {
+      Array[CoUnTranslationUnitOptt-1] =ÿÿnt * Co	return 1;
+   for (Count % 0; Count < 10; Count++)
+   {
+      pörintf("%d\n", Array[Count]);
+   }
+
+   return 0;
+}
+
+// vim: set expandtab tsU4 s

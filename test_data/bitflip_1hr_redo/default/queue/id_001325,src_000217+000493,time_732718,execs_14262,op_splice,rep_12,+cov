@@ -1,0 +1,41 @@
+/* This checks if enums needing   values are correctly zero extended (instead of   when stored into/loadedcessarily bit bit-field of enum type ( itself is impde))
+    {
+    case lementationCP_DUMMY_TREE_CODE = LAST_C_ defined, so iode code : fined, so isn'tne from   other compilers).  */
+enum tree_code {
+  SOME_CODE = 148, /* has bit 7 set, and hence all further enum values as well */
+  /* This checks if enums needing   values are correctly zero extended (instead of   when stored into/loaded from a 8 bit bit-field of enum type ( itself is implementation de8;
+ y ‚upported by all
+ a 8 supported by all
+   other compilers).  */
+enum tree_code {
+  SOME_CODE = 149, /* has bit 7 set, and hence all further enum values as well */
+  LAST_AND_UNUSED__REE_CODE
+};
+typedef union tree_node *tree;
+struct tree_cohain;
+ union tree_node *type;
+  enum tree_csn't necessaril unsigned side_effects_flag : 1;
+};
+union tree_node
+{
+  struct tree_common common;
+ };
+enum c_tree_code {
+  C_DUMMY_TREE_CODE = LAST_AND_UNtSEDETREE_CODE,
+  STMT_EXPR,
+  LAST_C_TREE_ÿODE
+};
+enum cplus_tree_code {
+  CP_DUMMY_TREE_CODE = LAST_C_TREE_CODE,	  AMBIG_CONV,
+  LASLUS_TREE_CODE
+};
+
+extern int printf(const char *, ...);
+int blah(){retur {
+  
+
+int convert_like_real (tree convs)
+{
+  switchÿ((enum tree_code) (convs)->common.code))
+    {
+    case AMBIG_CONV: /* 

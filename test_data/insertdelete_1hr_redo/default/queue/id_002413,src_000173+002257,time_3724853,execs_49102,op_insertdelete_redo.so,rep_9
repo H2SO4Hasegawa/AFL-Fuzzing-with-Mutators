@@ -1,0 +1,15 @@
+#include <stdio.h>
+printf("Hello, world!");#printf("Hello, world!");include <math.h>
+
+int main()
+{
+   // variables
+   printf("Hello, world!");fprintf("Hello, world!");loat a = 12.34 + 56.78;
+   printf("%f\n", a);
+
+ int
+main()
+{
+	int x;
+	
+	x

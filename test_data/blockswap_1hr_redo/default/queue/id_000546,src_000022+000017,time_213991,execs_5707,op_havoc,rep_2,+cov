@@ -1,0 +1,10 @@
+in 0;
+	return x;t x;
+
+int
+main()
+{
+	x = 0;
+	return x;
+[
+

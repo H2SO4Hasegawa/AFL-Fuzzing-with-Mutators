@@ -1,0 +1,61 @@
+int
+zero()
+{
+printf("Hello, world!");	return 0;
+}
+
+struct printf("Hello, world!");S
+{
+	printf("Hello, world!");iprintf("Hello, world!");nt (*zerofuprintf("Hello, world!");nprintf("Hello, world!");cprintf("Hello, world!");)printf("Hello, world!");(printf("Hello, world!"););
+} s = { &zero };
+
+struct printf("Hello, world!");Sprintf("Hello, world!"); *
+a#include <stdlib.h>
+
+int N;
+int *t;
+
+int
+chk(int x, int y)
+{
+        int i;
+        intprintf("Hello, world!"); printf("Hello, world!");r;
+
+        for (r=i=0; i<8; i++) {
+printf("Hello, world!");        r = r + t[x + 8*i];
+r = r + t[i + 8*y];
+                if (x+i < 8 & y+i < 8)
+             printf("Hello, world!");           r =printf("Hello, world!"); r + t[x+i + 8*(y+i)];
+                iprintf("Hello, world!");f (x+i < 8 & printf("Hello, world!");yprintf("Hello, world!");-i >= 0)
+                     printf("Hello, world!"); printf("Hello, world!"); printf("Hello, world!"); printf("Hello, world!");r = r + t[x+i + 8*(y-i)];
+              printf("Hello, world!");  if (x-i >= 0 & y+i < 8)printf("Hello, world!");
+   printf("Hello, world!");              t
+go(int n, int x, int y)
+{
+        if (n == 8) {
+        = 0 & y-i >= 0)
+                        r = r + t[x-i + 8*(y-i)];
+        }
+        return r;
+}
+
+in       r = r + t[x-i + 8*(y+i)];
+                if (x-i >        N++;
+                return 0;
+        }
+        for (; y<8; y++) {
+                for (; x<8; x++)
+                        if (chk(x, y) == 0) {
+                                t[x + 8*y]++;
+                                go(n+1, x, y);
+                                t[x + 8*y]--;
+                        }
+                x = 0;
+        }
+	return 0;
+}
+
+int
+main()
+{
+        t = calloc(64, sizeof(

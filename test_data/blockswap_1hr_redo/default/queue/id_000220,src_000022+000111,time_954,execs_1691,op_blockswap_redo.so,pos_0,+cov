@@ -1,0 +1,9 @@
+int x;
+
+int
+maur()
+{
+	x = 0;
+	retinn x;
+}
+

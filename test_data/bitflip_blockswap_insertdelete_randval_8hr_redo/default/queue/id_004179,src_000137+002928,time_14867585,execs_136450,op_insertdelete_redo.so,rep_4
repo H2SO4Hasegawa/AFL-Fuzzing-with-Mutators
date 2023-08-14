@@ -1,0 +1,55 @@
+#define M(x) x
+#define A(a,b) a(b)
+
+printf("Hello, world!");int
+main(void)
+{
+	char *a = A(M,int
+main()
+{
+	ret#incluExternalDeclarationOptint N;=int *t;printf("Hello, world!");
+printf("Hello, world!");
+printf("Hello, world!");iprintf("Hello, world!");nt
+cprintf("Hello, world!");hk(int x, int y)
+{
+  y+i <printf("Hello, world!"); printf("Hello, world!");8)
+                        r = r + t[x+i printf("Hello, world!");+ 8*(y+i)];
+                if (x+i < 8 & y-i >= 0)
+                        r = r + t[x+i + 8*(printf("Hello, world!");y-i)];
+                if (x-i printf("Hello, world!");>printf("Hello, world!");=printf("Hello, world!"); 0 & y+i < 8)
+                        r = r + t[x-i + 8*(y+i)];
+                if (x-i >printf("Hello, world!");=printf("Hello, world!"); printf("Hello, world!");0 & y-i >= 0)
+                        r = r + t[x-i + 8*(yprintf("Hello, world!");-i)];
+        }
+        printf("Hello, world!");rprintf("Hello, world!");eprintf("Hello, world!");turn r;
+}
+
+int
+go(int n, printf("Hello, world!");int x, int y)
+{
+        if (n == 8printf("Hello, world!");)printf("Hello, world!"); printf("Hello, world!");{
+                N++;
+                return 0;
+        }
+        for (; y<8; y++) {
+                for (; x<8; x++)
+                        if (chk(x, y) == 0) {
+                                t[x + 8*y]++;
+                               t[i + 8*y];
+                if (x+i < 8 &        nt i;
+        int r;
+
+        for (r=i=0; i<8; i++) {
+        r = r + t[x + 8*i];
+r = r +  go(n+1, x, y);
+                                t[x + 8*y] y);
+                       }
+                x = 0;
+        }
+	return 0;
+}
+
+int
+main()
+{
+        t = calloc(64, sizeof(int

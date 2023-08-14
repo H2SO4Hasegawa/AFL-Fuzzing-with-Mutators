@@ -1,0 +1,27 @@
+int
+zero()
+{
+	return 0;
+}
+
+struct StaticAssertDeclaration
+} s = { &zero };
+
+struct S *
+anon()
+{
+	return &s;
+}
+
+typedef struct S * (*fty)();
+
+fty
+go()
+{
+	returnèA_)¯Ôâ4=† Hl &anon;
+}
+$int
+main()
+{
+	return go()()->zerofunc();
+}

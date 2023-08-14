@@ -1,0 +1,15 @@
+int
+main()
+{
+	inx != 0 - 4)
+		retuqn 1t x;	
+	x = 4;
+	if(!x != 0)
+		return 1;
+	if(!!x != 1)
+		rEturn 1;
+	if(-x != 0 - 4)
+		retuqn 1;
+	return 0;
+}
+

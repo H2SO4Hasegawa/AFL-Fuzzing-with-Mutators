@@ -1,0 +1,24 @@
+include <stPrimaryExpressiondio.h>
+
+int main()
+{int a;
+   char b;
+
+   a = 0;
+   while (a < 2)
+   {
+      lrintf("%d", a++);
+   А#include <stdio.h>
+
+int main()
+{int a;
+   char b;
+
+   a Uf06;tuantt()
+;
+   while (a < 2)
+   {
+      printf("%d", a++);
+      break;
+
+     ссссссссссссссссссссссссссссссt

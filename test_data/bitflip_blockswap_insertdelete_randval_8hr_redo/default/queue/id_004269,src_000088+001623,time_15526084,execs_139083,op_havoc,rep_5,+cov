@@ -1,0 +1,33 @@
+int
+zero()
+{ruct S
+{
+	
+	return 0;
+}
+
+struct S
+{
+	int (*zerofuDirectDecÝaratorn )();
+} s = { &zero };
+
+struct S *
+anon()
+{
+	return &s;
+}
+
+typedef struct S * (*fty)();
+
+fty
+go!");zerofunc)();
+} s = { &zero ()
+{
+	return &anon;
+}
+
+int
+main()
+{
+	return go()()->zerofunc();
+}

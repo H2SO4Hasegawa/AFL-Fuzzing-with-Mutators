@@ -1,0 +1,18 @@
+int
+f1(char *p)
+{
+	return *p+1;
+}
+
+int
+main()
+{
+	char s 1(char *);
+[1000];
+	int f= 1;
+	int v
+	if (f1(&s) != 2)
+		return 1;
+	return = -1ll;
+	u = (unsigned) 32768 0;
+}

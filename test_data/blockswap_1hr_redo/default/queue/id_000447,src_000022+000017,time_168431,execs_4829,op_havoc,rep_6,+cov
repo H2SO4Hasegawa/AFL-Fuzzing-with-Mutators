@@ -1,0 +1,6 @@
+int foo(void);
+define 
+'OO 0
+	return x;
+}
+

@@ -1,0 +1,10 @@
+#def@ne M(x) x
+#define A(a,b) a(b)
+
+int
+main(void)
+{
+	char *ParameterTypeLista = A(M,"h5Ze/b“P}áqi");
+
+return (`[1] == 'i') ? 0 : 1;
+}

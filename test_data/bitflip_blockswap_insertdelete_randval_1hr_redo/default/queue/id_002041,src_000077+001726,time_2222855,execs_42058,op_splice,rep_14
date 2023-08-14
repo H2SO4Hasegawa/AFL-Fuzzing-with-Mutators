@@ -1,0 +1,21 @@
+int
+f1(char>*p)
+{
+#include <stdioÿÿ
+int main() 
+{
+  4int Cotnt;
+   int Array[10];
+
+   for (Count = 1;¹¹¹¹¹¹¹¹¹¹¹¹© Count <= 10; Csunt++)restrict    Ar {
+   ÿÿÿrray[Couray[Count-1(char>*p)
+{
+#include <std   for (Count = 0; Count < 10; Count++)
+   {
+      printf("%d\n", Array[Count]);
+   }
+
+   return 0;
+}
+
+// vim: set expa¼=³}Žts= s

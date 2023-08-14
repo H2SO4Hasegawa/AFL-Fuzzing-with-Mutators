@@ -1,0 +1,8 @@
+i{
+	 1)int x;
+	
+	f(!x !=!0)
+		return 1;
+	if(!!x != 1)
+		re urn 1;int
+main()=Y0)

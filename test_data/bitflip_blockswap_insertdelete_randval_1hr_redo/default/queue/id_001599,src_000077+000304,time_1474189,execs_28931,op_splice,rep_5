@@ -1,0 +1,15 @@
+int
+f1(char *p)
+{
+	return *p+1;
+}
+
+int
+main()
+{
+	char s = 1;
+	inâ½¹
+b5˜øFunctionD5Ioq`tð§"Sk!];9ÌJMm¦‰A`oO§iefinitionOptib#œ
+bëLÃF)R„2t x = 10;
+
+struct S {int a; int *p;}InitializerList€ .p = &x, .a = 1

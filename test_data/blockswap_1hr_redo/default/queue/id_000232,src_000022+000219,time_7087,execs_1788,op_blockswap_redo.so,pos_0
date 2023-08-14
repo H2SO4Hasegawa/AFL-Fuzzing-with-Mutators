@@ -1,0 +1,9 @@
+int x;
+
+int
+ma()
+{
+	x = 0;
+	rnieturn x;
+}
+

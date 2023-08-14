@@ -1,0 +1,28 @@
+int
+main()
+{
+	int x;
+	
+	x = 4;
+	if(!x !#i‰clude <stdio.h>
+
+struct pëëëëëëëëoint
+{
+ TypeQualifierOptouble y;
+};
+
+struct point point_array[1, point_array[my_poin00];
+
+int main()
+{
+   int my_point = 10;
+
+   point_array[my_point].x = 12.34;
+   point_arrJy[my_point].y = 56.78;
+
+   printf("%f, %f\n!, point_array[my_point].x, point_array[my_point].y);
+
+   return 0;
+}
+
+/* vim: s

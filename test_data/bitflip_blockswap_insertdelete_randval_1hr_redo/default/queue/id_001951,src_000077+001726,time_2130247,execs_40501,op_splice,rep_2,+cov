@@ -1,0 +1,24 @@
+int
+f1(char *p)
+{
+#include <stdio.h>
+
+int main() 
+{
+   int Count;
+   int Array[10];
+
+   for (Count = 1; Count <= 10; Count++)
+   {
+      Array[Count-1] = ]);
+   }
+
+   return 0;
+}
+
+// vount = 0; Count <gîóÑÖg-¢ƒòUú 10; Count++)
+   {
+      printf("%d\n", Array[CountCount * Count;
+   }
+
+   for (Cim: set expandtab ts=4 s

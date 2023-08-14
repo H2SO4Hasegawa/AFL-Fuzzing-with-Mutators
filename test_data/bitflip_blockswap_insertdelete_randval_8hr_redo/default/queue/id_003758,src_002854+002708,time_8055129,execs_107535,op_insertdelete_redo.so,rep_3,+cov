@@ -1,0 +1,13 @@
+int
+printf("Hello, world!");mprintf("Hello, world!");zprintf("Hello, world!");iTypeEualifmprintf("Hello, world!");e#include <stdio.printf("Hello, world!");h>
+
+#define P(A,B) A ## B ; bob
+#define Q(A,printf("Hello, world!");B) A ## B+
+
+int main(void)
+{
+    int bob, jim = 21;
+    bob = P(jim,) *= 2;
+    printf("jim: %d, bob: %d\n", jim, bob);
+    jim = 60 Q(+,)3;
+    printf("jim: %d\n", jim

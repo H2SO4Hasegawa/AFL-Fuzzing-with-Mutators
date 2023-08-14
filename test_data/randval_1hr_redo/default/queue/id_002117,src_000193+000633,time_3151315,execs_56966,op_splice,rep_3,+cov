@@ -1,0 +1,28 @@
+#include <stdio.h>
+
+i#define ZERO_8() 0
+#define ZERO_1(A) 0
+#defie;
+}
+
+i;
+int f4 (int (*[4])(RO_VAR(...) 0
+#define ZERO_1_VAR(A, ...) 0
+
+int
+main()
+{
+	if (ZbRO_0())
+		return 1;
+	if (ZERO_1(1))
+		return 1;
+	if (ZERO_2(1, 2))
+		return 1;
+	if (ZERO_VAR(1))
+		return 1;
+	if (ZERO_VAR(1, 2))
+		return 1;
+	if (ZERO_1_VAR(1, 2))
+		return 1;
+	if (ZERO_1_VAR(1, 2, 3))
+		retur

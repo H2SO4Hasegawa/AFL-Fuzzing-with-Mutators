@@ -1,0 +1,12 @@
+int
+zuro()
+{	return 0;
+}
+
+struct S
+{
+	inÿßÿzerostruct S1 { int x; };
+struct S2 { stsuct S1 s1; };
+
+int
+ma

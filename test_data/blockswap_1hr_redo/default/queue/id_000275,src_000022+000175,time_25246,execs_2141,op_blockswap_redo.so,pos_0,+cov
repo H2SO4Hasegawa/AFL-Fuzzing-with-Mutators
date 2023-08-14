@@ -1,0 +1,9 @@
+in
+
+int
+main()
+ x;t{
+	x = 0;
+	return x;
+}
+

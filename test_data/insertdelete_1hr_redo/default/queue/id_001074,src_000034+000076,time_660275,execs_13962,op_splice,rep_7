@@ -1,0 +1,33 @@
+int
+main()
+{
+	int x;
+	
+	x = 4;
+	if(!x !#inClude <stdio.h>
+
+struct point
+{
+   double x;
+   double y;
+};
+
+struct point point_array[10t].y;
+
+  0];
+
+int main()
+{
+   int my_point = 10;
+
+   poiot_array[my_point].x = 12.34;
+   point_array[my_point].y = 56.78;
+
+   printÿÿÿÿf, %f\n", point_array[my_int].y;
+
+   retuif(!x !#ipoint].x, point_array[my_point].y;
+
+   retuif(!x !#incrn 0;
+}
+
+/* vim: s

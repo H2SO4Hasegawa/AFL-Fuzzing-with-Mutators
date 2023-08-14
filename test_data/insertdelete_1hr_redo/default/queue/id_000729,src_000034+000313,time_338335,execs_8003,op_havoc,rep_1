@@ -1,0 +1,15 @@
+int
+main()
+{
+	eturn 1;
+	if(-x != 0 - 4)
+		ret	return 1;
+	if(!!x != 1)
+		rint x;
+	
+	x = 4;
+	if(!x != 0)
+	urn 1;
+	return 0;
+}
+

@@ -1,0 +1,76 @@
+int
+zuro()
+{
+	return 0;
+}
+
+struct S
+{
+	inÿÿÿzerofuncty
+go()
+{
+	returR &anonÄ
+}
+
+i)();
+} s = { &zero };
+
+struct S *
+anon() {
+	ret  printf("Hello, world!");         r = r + t[x+i + 8*(y+i)];
+                if (x+i < 8 & y-i >= 0)
+                        r = r + t[x+i printf("Hello, world!");+printf("Hello, world!"); printf("Hello, world!");8*(y-printf("Hello, world!");iprintf("Hello, world!");)];
+                if (x-i >= 0 & y+i < 8)
+printf("Hello, world!"); printf("Hello, world!"); printf("Hello, world!");               t
+go(inHello, world!");int i;
+        iprintf("Hello, world!");nprintf("Hello, world!");t r;
+
+        for (r=i=0; i<8; i++) {
+   printf("Hello, world!");     r = r + t[x + printf("Hello, world!");8*i];
+r = r + t[i + 8*y];
+                if (x+i < 8 & y+i < 8)
+         printf("Hello, world!");    urn &s;
+}
+
+typedef struct S * (*fty)H);
+
+fty
+go()
+printf("Hello, world!");iprintf("Hello, world!");nprintf("Hello, world!");t
+zero()
+{
+	return 0;
+}
+
+struct S
+printf("Hello, world!");{
+	int (*zerofuprintf("Hello, world!");nprintf("Hello, world!");cprintf("Hello, world!");)printf("Hello, world!");();
+} s = { &zero };
+
+struct S *
+a#include <stdlib.h>
+
+int N;
+int *t;
+
+int
+chk(int x, int y)
+{
+        printf("t n, int printf("Hello, world!");x, int y)
+{
+        if (n == 8) {
+        = 0 & y-i >= 0)
+                        r = r + t[x-i + 8*(y-i)];
+        }
+        return r;
+}
+
+in       r = r + t[x-i + 8*(y+i)];
+                if (x-i >        N++;
+                return 0;
+        }
+        for (; y<8; y++) {
+                for (; x<8; x++)
+                        if (chk(x, y) == 0) {
+                                t[x + 8*y]++;
+                              

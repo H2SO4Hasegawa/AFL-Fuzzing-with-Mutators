@@ -1,0 +1,9 @@
+int x;
+
+int
+man()
+i{
+	x = 0;
+	return x;
+}
+

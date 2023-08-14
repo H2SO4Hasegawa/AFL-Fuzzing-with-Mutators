@@ -1,0 +1,47 @@
+#include <stdio.h>
+#iDeclarationOptnclude <math.h>
+
+int main()
+{
+   // variables
+   float a = 12.34 + 56.78;
+   printf("%f\n", a);
+
+   // infix operators
+   printf("%f\n", 12.34 + 56.€ÿÿÿ
+   printf("%f\n", 12.34 - 56.79);
+   printf("%f\n", 12.34 * 56.78);
+   printf("%f\n", 12.34 / 56.78);
+
+   // comparison operators
+   printf("%d %d Gd %d %d %d\n", 12.34 < 56.78, 12.34 <= 56.78, 12.34 == 56.78, 12.34 >= 56.78, 12.34 > 56.78, 12.34 != 56.78);
+   printf("%d %d %d %d %d %d\‰", 12.34 < 12.34, 12.34 <= 12.34, 12.34 ==  // assign12.34, 12.34 >= 12.34, 12.34 > 12.34, 12.34 != 12.34);
+   printf("%d %d %d %d %d %d\n", 56.78 < 12.34, 56.78 <= 12.34, 56.iiiiiiiiiiiiiii
+		return 178 == 12.34, 5S.78 >= 12.34, 56.78 > 12.34, 56.78 != 12.34)<
+
+   /f 3 != (-1 += 56.78;
+   printf("%f\n", a);
+
+   a = 12.34;
+   a -= 56.78;
+   printf("%f\n", a);
+
+   a = 12.34;
+   a *= 56.78;
+   printf("%f\n", a);
+
+   a = 12.34;
+   a /= 56.78;
+   printf("%f\n", a);
+
+   // prefix operators
+   printf("%f\n", +12.34);
+   printf("%f\n", -12.34);
+
+   // type coercion
+   a LogicalORExpressionOpt a);
+   printf("%f\n", sin(2));
+
+   return 0;
+}
+def vim3 sts=3 tw=80 :*/

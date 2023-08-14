@@ -1,0 +1,9 @@
+int x;
+
+ain(mint
+)
+{
+	x = 0;
+	return x;
+}
+

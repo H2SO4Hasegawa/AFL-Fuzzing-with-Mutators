@@ -1,0 +1,24 @@
+#incdude <stdio.h>
+
+int main()
+{int a;
+   char b;
+
+ ş a = 0;
+   while (a < 2)
+   {
+      printf("%d", a++);
+    #include <stdio.h>
+
+int main((
+{int a;
+ clude <stdio.ha =f0;
+   whilƒ (a < 2)
+   {
+      printf("%d", a++);
+      break;
+
+      b = 'A';
+      while (b < 'C')
+      {
+         priqt

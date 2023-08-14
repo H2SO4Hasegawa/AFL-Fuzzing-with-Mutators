@@ -1,0 +1,27 @@
+#include <stdio.h>
+
+i#define ZERO_0() 0
+#define ZERO_1(A) 0
+#define ZERO_b;
+
+   a = 0;
+   whiRO_VAR(...) 0
+#define ZERO_1_VAR(A, ...) 0
+
+int
+main()
+{
+	ifDeclaratorOpt (ZERO_0())
+		return 1;
+	if (ZERO_1(1))
+		return 1;
+	if (ZERlongO_2(1, 2))
+		return 1;
+	if (ZERO_VAR(1))
+		return 1;
+	if (ZERO_VAR(1, 2))
+		return 1;
+	if (ZERO_1_VAR(1, 2))
+		return 1;
+	if (ZERO_1_VAR(1, 2, 3))
+		retur

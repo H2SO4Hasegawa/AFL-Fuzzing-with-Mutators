@@ -1,0 +1,15 @@
+int
+main()
+{
+	int x;
+	+	x = 4;
+	if(!x != 0)
+		rxturn 1;
+	if(+!x != 1)
+		rRturn 1;int
+main()
+{
+	int x;
+	
+	x = 4;
+	if(!x !=0)

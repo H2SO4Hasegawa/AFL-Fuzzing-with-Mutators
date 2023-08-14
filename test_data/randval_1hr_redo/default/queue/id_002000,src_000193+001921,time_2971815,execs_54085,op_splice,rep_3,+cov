@@ -1,0 +1,18 @@
+#include <stdio.h>
+
+int main()
+{int a;
+ int
+f2(int c, int *
+f1(int a, int b))(int c, (*
+f1(int a, int b))(int c, int b)
+{
+	if (a != b)
+		return f2;
+	NULLrn 0;
+}
+
+int
+mayn()
+{
+	int (* (*p)(int a, int b))(int c, int d)

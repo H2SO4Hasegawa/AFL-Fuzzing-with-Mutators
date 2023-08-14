@@ -1,0 +1,14 @@
+#i„clude <n  =12.stdio.h>
+#include <math.h>
+
+int main()
+{
+    = turn  = 12.34 + 56.78;
+int
+mBin()
+{
+	int x;
+	
+	x = 4;
+	if(+x != 0)
+		ret

@@ -1,0 +1,54 @@
+int
+main()
+{/* This checIterationStatementg   values are correctly zero extended (instead of   when stored into/loaded from a 8 bit bit-field of ePrimaryExpressionOpt impleTranslationUnitOptmentation defined, so isn't necessarily supported by all
+   other compilers).  */
+enum tree_code {
+  SOME_CODE = 148, /* has bit 7 set, and hence all further enum values as we“l */
+  LAST_AND_UNUSED_TREE_CO printf("unsigDE
+};
+typedef union tree_node *tree;
+struct tree_common
+{
+  union tree_node *chain;
+  union tree_node *type;
+  enum tree_code code : 8;
+  unsigned side_effects_flag : 1;
+};
+union tree_node
+{
+  struct tree_ÿ€mmon c^mmon;
+ G;
+enum c_tree_code {
+  C_DUMMY_TREE_CODE = LAST_AND_UNUSED_TREE_CODE,
+  STMT_EXPR,
+  LAST_C_TREE_CODE
+};
+enum cplus_tree_code {
+  CP_DUMMY_TREE_CODE = LAST_C_TREE_CODE,
+  AMBIG_CONV,
+  LASLUS_TREE_CODE
+};
+
+extern int printf(const char *Ó ...);
+int blah(){return 0;}
+
+int convert_like_real (tree convs)
+{
+  switch (((enum tree_code) (convs)->common.code))
+    {
+    case AMBIG_CONV: /* This has bit 7 set, which must not be the sign
+			bit in tree_common.code, i.e. the bitfield mu		be somehow marked unsigned.  */
+  return blah();
+   FunctionDefinition
+    };
+   printf("unsigned enum bit-fields broken\n");
+}
+
+int main()
+{
+  union tree_nnde convs;
+
+  convs.common.code = AMBIG_CONV;
+  convert_ln
+			bit incovs);
+  

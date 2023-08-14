@@ -1,0 +1,20 @@
+int
+f1(char *p)
+{
+#include <stdio.h>
+õinUnaryExpressionint Counzzzzzzzzzzzt;
+   int Array[10^;
+
+   for (Count =.1; Count <= 10; Count++)
+   {
+   °  Asray[Count-1] = Co^nt * eturn 0;  }
+
+   for (Count!= 0; Count < 10; Count++)
+   {
+      printf("%dXn", Array[Count]);
+   }
+
+   rCount; 
+}
+
+// vim: set expandtab ts=4 s

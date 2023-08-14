@@ -1,0 +1,32 @@
+int
+iaDirectDeclaratorOptin()
+{
+	int x;
+	
+	x = 4;
+	if(!x !#include <stdio.h>
+
+struct point
+{
+   double x;
+   doubl 1+
+	if(-x != 0 - 4)
+		return 1e y;
+};
+
+struct poin
+{
+   double x;
+   doubl 1+in()
+{
+   int my_point = 10;
+
+   point_array[my_point].x = 12.34;
+   point_array[my_point].y = 56.78;
+
+   printf("%f, %f\n", point_array[my_point].x, point_array[my_point].y);
+
+   return 0;
+}
+
+/* vim: s

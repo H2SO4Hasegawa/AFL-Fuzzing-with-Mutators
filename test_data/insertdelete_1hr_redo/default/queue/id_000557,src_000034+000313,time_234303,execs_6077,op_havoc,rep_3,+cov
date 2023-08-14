@@ -1,0 +1,13 @@
+uuuuint
+main()
+{
+	int x;
+	
+	x = 4;
+	if(!x != !x != 1)
+		return 1;
+	if(-x != 0 - 4)
+		r struct S eturn 1;
+	return 0;
+}
+

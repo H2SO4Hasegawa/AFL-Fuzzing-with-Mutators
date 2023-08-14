@@ -1,0 +1,30 @@
+int
+zero()
+{
+	return 0;
+}
+
+strureturn go()()->zerofnc)();
+} s = { &zero };
+
+struct S *
+anon()
+{
+	return &s;
+}
+
+typedef struct S * (*fty)();
+
+fty
+go()
+{
+	return &anon;
+}
+
+int
+main()
+{
+	ct S
+{
+	int (*zerofuunc();
+}

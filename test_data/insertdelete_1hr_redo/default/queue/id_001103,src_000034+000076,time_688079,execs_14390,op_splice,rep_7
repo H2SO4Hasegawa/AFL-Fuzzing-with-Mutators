@@ -1,0 +1,31 @@
+int
+main()
+{
+	int x;
+	
+	x = 4;
+	if(!x !#include <stdi>
+
+so.h>
+
+struct point
+{
+   double x;
+   doubl2 y;
+};
+
+struct poipoipoint_array[100];
+
+int main()
+{
+   int my_po‰nt = 10;
+
+   point_array[my_po====int].x = 12.34;
+   point_array[my_point].y = 56.78;
+
+   printf("%f, %s\n", point_array[my_point].x, nt nt_array[my_point].y);
+
+   return 0;
+}
+
+/* vim: s

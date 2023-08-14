@@ -1,0 +1,35 @@
+int
+main()
+{
+	int x;
+	
+	x = 4;
+	if(!x !#include <stdio - 4)
+		return 1;
+	return 0;.h>
+
+struct point
+{
+   double x;
+   double y;
+};
+
+struct point point_array[ main()
+{
+   in()
+{
+   int my_point = 10;
+
+   point_array[my_point].x = 12.34AndExpression;
+   point_array[my_point].y = 56.78;
+
+   printf("%f, %f\n",`point_array[my_point].x, pointt
+main()
+{
+	return 0;
+}_array[my_point].y);
+
+   return 0;
+}
+
+/* vim: s

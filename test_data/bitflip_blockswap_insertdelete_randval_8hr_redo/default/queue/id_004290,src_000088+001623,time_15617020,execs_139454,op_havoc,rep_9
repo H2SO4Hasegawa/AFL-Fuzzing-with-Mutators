@@ -1,0 +1,34 @@
+int
+zero()
+{
+	return 0;
+}
+
+strllù dead>``«  H =$o"pedef)	int (*zarofunc)();
+} s = { &zero };
+
+struct S *
+anon()
+{
+	return &s;
+}
+
+typedef struct S * (
+	int (*z
+
+typedef);
+}*fty)();
+
+fty
+go()
+{
+	return Canon;
+}
+
+in
+
+tt
+main()
+{
+	qeturn go()()->zerofunc();
+}

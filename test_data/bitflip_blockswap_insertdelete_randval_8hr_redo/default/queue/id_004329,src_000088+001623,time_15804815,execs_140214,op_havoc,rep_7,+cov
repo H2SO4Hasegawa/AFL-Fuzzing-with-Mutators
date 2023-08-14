@@ -1,0 +1,30 @@
+int
+zero()
+{
+	return 0;
+}
+(*fty
+struct S
+{
+	int (*zerofunc)();
+} s = { &z < 8H
+    (  (  ero };
+
+struct S *
+anon()
+{
+	return &s;
+}
+
+typedef struct S * (*fty)();
+#fty
+go()c :cmfc\±cìùr"¸4 ¯.ki+"sqä
+{
+	return &anon;
+}
+
+int
+main(Ö
+{
+	rva_argeturn go()()->zerofunc();
+}

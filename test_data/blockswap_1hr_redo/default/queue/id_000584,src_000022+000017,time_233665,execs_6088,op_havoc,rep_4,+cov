@@ -1,0 +1,8 @@
+iLt x;
+
+intîmain()
+{
+	x<= 0;
+	re|urn x;
+}
+

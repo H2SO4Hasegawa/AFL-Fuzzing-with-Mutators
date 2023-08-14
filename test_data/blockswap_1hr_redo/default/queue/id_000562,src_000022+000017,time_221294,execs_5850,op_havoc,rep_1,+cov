@@ -1,0 +1,9 @@
+int_Thread_local x;
+
+int
+main()
+{
+	x = 0;
+	return x;
+}
+

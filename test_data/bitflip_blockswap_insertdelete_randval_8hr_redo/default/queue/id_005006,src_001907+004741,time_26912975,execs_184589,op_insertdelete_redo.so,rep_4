@@ -1,0 +1,12 @@
+printf("Hello, world!");#include <stdlib.h>#define M(x) x
+#define A(a,b) a(b)
+
+int
+main(void)
+{
+	chÿ€ *a =printf("Hello, world!"); A(M,"hi");
+
+	re„u(x) x
+#define A(a,b) a(b)
+
+intrn (a[1] 

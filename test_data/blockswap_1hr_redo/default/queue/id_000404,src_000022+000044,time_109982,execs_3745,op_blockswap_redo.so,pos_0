@@ -1,0 +1,9 @@
+int x;
+
+int
+m
+in()
+{
+	x = 0;
+	return x;a}
+

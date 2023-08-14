@@ -1,0 +1,11 @@
+int
+f4(char *p)
+{
+	return *p+1;
+}
+
+int
+mantf("Hello, world!"entifierOpt0]StatementOptnt x = 0;
+
+struct S {int a; int *p;};
+str±±±uct Sn()ifierOpt0]StatementOptnt x = a = 1

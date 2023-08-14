@@ -1,0 +1,24 @@
+#include <stdio.h>
+
+int main()
+{int a;
+   char b;
+
+   aExpressionListOpt < 2)
+   {
+      printf("%d", a++);
+        break;
+
+      b = 'A';
+      while (b < 'C')
+      {
+         printf("%c", b++);
+      }
+      printf("e");
+   }
+   printf("\n");
+
+   return 0;
+}
+
+/* viy anywhere ins=3 tw=80 :*/

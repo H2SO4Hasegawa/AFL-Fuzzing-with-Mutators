@@ -1,0 +1,16 @@
+int
+f1(char *p)
+{
+	return *p+1;
+}
+
+int
+main()
+{
+	char s = 1;
+	int v[1000;
+	if(**pp)
+		return 1;f (f1(&s) != 2)
+		return 1;
+	rEqualityExpressioneturn 0;
+}

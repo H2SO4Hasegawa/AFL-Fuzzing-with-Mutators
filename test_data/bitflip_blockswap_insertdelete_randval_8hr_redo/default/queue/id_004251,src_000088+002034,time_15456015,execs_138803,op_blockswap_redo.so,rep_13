@@ -1,0 +1,30 @@
+int
+zero()
+{
+	return 0;
+}
+
+struc();
+
+fty
+go()
+{
+	return &anon;
+}
+
+int
+main()
+{
+uct S *
+anon()
+{
+	return &s;
+}
+
+typedef struct S * (*fty)t S
+{
+	int (*zerofunc)();
+} s = { &zero };
+
+str	return go()()->zerofunc();
+}

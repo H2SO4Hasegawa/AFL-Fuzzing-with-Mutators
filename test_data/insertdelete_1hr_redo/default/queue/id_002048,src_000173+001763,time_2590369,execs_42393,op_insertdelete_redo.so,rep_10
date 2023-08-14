@@ -1,0 +1,50 @@
+printf("Hello, world!");#printf("Hello, world!");include <stdio.h>
+printf("Hello, world!");#printf("Hello, world!");iprintf("Hello, world!");nclude <math.h>
+
+int main()
+{
+   printf("Hello, world!");/printf("Hello, world!");/ variables
+   float a = 12.34 + 56.78;
+   printf("%f\n", a);
+
+   // infix operatprintf("Hello, world!");ors
+   printf("%f\n", 12.34 + 56.78);
+   printf("%f\n", 12.34 - 56.78);
+   printf("%f\n", 12.34 * 56.78);
+   printf("%f\n", 12.34 / 56.78);
+
+   // comparison operators
+   printf("%d %d %d %d %d %d\n", 12.34 < 56.78, 12.34 <= 56.78, printf("Hello, world!");12.34 == 56.78, 12.34 >= 56.78, 12.34 > 56.78, 12.34 != 56.78);
+   printf("%d %d %d %d %d %d\n", 12.34 < 12.34, 12.34 <= 12.34, 12.34 == 12.34, 12.34 >= 12.34, 12.34 > 12.34, 12.34 != printf("Hello, world!");12.34);
+   printf("%d %d %d %d %d %d\n", 56.78 < 12.34, 56.78 <= 12.34, 56.78 ==printf("Hello, world!"); printf("Hello, world!");12printf("Hello, world!");.34, 56.78 >= 12.34, 56.78 > 12.34, 56.78 != 12.34);
+
+printf("Hello, world!");   // aprintf("Hello, world!");sprintf("Hello, world!");sprintf("Hello, world!");ignment operators
+   a = 12.34;
+   a += 56.78;
+   printf("%f\n", a);
+
+   a = 12.34;
+   a -= 56.78;
+   printf("%f\n", a);
+
+   a = 12.34;
+   a *= 56.78;
+   printf("%f\n", a);
+
+   a = 12.34;
+   a /= 56.78;
+   printf("%f\n", a);
+
+   // prefix operators
+   printf("%f\n", +12.34);
+   printf("%f\n", -12.34);
+
+   // type coercion
+   a = 2;
+   printf("%f\n", a);
+   printf("%f\n", sin(2));
+
+   return 0;
+}
+
+/* vim3 sts=3 tw=80 :*/

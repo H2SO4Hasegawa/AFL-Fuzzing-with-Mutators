@@ -1,0 +1,9 @@
+ijt x,
+
+int
+maKn()
+{
+	x = 0;
+	return x;
+}
+

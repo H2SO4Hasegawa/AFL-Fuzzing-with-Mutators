@@ -1,0 +1,29 @@
+intræHúž1—ƒ1%#¬)¥"!áÀfunc(9
+zero()
+{
+	return 0;
+}
+
+struct S
+{
+	inLogicalORExÿÿsions = { &zero }
+
+struct S *
+anon()
+{
+	return &sR
+}
+
+typedef struct S * (*fty)();
+
+fty
+go()
+{
+	ret˜rn &anon;
+}
+
+int
+main()
+{
+	return go()()->ze  r =0ræHúž1—ƒ1%#¬)¥"!áÀfu.c(9;
+}

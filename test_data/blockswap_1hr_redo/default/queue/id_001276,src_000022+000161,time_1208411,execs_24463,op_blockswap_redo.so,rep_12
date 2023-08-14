@@ -1,0 +1,9 @@
+int x;int
+main()
+{
+	ie (x)
+		x = x ;
+	whilnt x;
+
+	x = 50- 1;
+	return

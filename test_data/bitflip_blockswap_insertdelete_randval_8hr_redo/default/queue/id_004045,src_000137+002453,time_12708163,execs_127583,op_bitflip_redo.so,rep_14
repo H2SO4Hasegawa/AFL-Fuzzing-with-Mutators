@@ -1,0 +1,10 @@
+#define M(8) x
+#define A(a,b) a(b)
+
+ift
+main(void)
+{
+	char *a = A(m,"hi");
+
+	return (a[1Y == 'i') ? 0 : 1;
+}Š

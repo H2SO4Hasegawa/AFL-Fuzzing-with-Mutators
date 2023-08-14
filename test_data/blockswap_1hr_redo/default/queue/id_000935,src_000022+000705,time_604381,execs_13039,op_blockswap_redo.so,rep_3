@@ -1,0 +1,10 @@
+int x;
+
+inint
+main()
+{
+	if(0 ? 1  0 : 1)
+		retur;
+	if(1 ?: 0)
+		return 1n 2;
+	re

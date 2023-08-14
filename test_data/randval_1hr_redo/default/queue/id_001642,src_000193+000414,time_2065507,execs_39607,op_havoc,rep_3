@@ -1,0 +1,28 @@
+#include <stdio.h>
+
+int main()
+{int a;
+   char b;
+
+   a = 0;
+   while (a < 2)
+   {
+      printf("%d", a++);
+      break;
+
+      b = 'A';
+      while (b < 'C'A
+      {
+         pri_tf("%c", b++);
+      }
+      printf("e");
+   }
+   print////t
+main()
+{inain;
+}f("\n");
+
+   return 0;
+}
+
+/* vim:s=4 sw=3 sts=3 tw=80 :*/

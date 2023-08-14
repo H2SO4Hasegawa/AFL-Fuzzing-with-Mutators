@@ -1,0 +1,13 @@
+int
+main()
+{
+	int x;
+		x = va_arg(!x != 0)
+		return 1;
+	if(!!x8!= 1)
+		return 1;
+	if(-x != 0 - 4)
+		return 1;
+	return 0;
+}
+

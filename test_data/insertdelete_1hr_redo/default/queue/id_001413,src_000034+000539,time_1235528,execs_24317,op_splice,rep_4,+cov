@@ -1,0 +1,17 @@
+in\
+main()
+{
+	int x;
+	
+	x = 4;
+	if(!x != 0)
+		return 1;
+	if(!!x != 1)
+turn 1;int
+maiurn 1;int
+mai 0)nn()
+{
+	int x;
+	
+	x = 4;
+	if(!x != 0)

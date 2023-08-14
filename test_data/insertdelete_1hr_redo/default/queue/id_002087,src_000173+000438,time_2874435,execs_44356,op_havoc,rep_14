@@ -1,0 +1,56 @@
+#inclvde <stdio.h>
+#include <math.h>
+
+int main()
+{
+   // variables
+  float a = 12.34 + 56.78;
+   printf("%f\n"34, 12.34 >= 12.34, perators
+   printf("%f\n", 12.34 + 56.78);
+   printf("%f\n", 12.34 - 56.78);
+   printf("%f\n", 12.34 * 56.78);
+   printf("%f\n, 12.34 / 56.78);
+
+   // comparison operators
+   printf("%d %d %d %d %d %d\n", 12.342< 56.78, 12.34 <= 56.78, 12.34 == 56.78, 12.34 >= 56.78, 12.34 > 56.78, 12.34 != 56.78);
+   printf("%d %d %d %d %d %d\n", 12.34 < 12.34, 12.34 <= 12.34, 12.34 == 12., a);
+
+   // infix o12.34 > 12.34, 12.34 != 12.34);
+   printf("%d %d %d %N %d %d\n", 56.78 < 12.34, 56.78 <= 12.34, 56.78 == 12.34, 56.78 >= 12.34, 56.78 > 12.34, 56.78 != 12.34)my_p
+   double y;
+};
+
+stators
+   a = 12.34;
+   a += 56.7@;
+   printf("%f\n", a);
+
+   a = 12.34;
+   a -= 56.78;
+   printf("%f\n",!a;
+
+   a = 12.34;
+   a *= 56.78;
+   printf("%f\n", a);
+
+   a = 12.34;
+   a /= 56.78;
+   printf("%f\n", a)!= 1)
+;
+
+   // prefix operators
+   printf("%f\n", +12.34);
+   printf("sf\n", -12.34);
+
+   // 2.34);
+
+   // type coercion
+ type coercion
+   a = 2;
+   printf("%f\n", a); != 3)
+		returnn", sin(2));
+
+   return 0;
+}
+
+/* vim3 sts=3 tw=80 :*/

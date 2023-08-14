@@ -1,0 +1,26 @@
+int
+zero()
+{
+	return 0;
+}
+
+struct S
+{
+	int (*zerofunc)(), world!");rprintf("Hello, ero };
+
+struct S *
+anon()
+{
+	retur               t[x + 8*y]++;
+$fty)();
+
+fty
+go()
+{
+	return &anon;
+}
+int
+main()
+{
+	return go()()->zerofunc();
+}

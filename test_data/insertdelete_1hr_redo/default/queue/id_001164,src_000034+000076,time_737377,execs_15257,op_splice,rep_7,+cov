@@ -1,0 +1,29 @@
+int
+main()
+{
+	int x;
+	
+	x = 4;
+	if(!x !#include <stdio.h>
+
+struct point
+{
+   double)x;
+   double y;
+};
+
+struct point point_array[10E];
+
+int main()
+{ x;
+	
+	x = 4;
+	if(!x !=    point_array[my_poçççççççççççççççint].x = 12.34;
+   point_array[my_BGeneric = 56.78;
+
+   printf("%f, %f\n", point_array[my_point].x, point_arƒay[my_point].y);
+
+   return 0;
+}
+
+/* vim: s

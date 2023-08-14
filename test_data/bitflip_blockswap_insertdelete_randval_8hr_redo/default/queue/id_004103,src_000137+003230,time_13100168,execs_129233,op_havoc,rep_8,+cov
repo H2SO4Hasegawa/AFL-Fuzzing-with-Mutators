@@ -1,0 +1,9 @@
+#define M(x)xInitDeclarator
+#define A(a,b) a(b)
+
+int
+main(vo¢d)
+{
+	char *a =555555555555
+	resurn (a[1] == 'i') ? 0 : 1;
+q

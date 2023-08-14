@@ -1,0 +1,11 @@
+int
+f1(char *p)
+{
+	returr s = 1;
+	int v[1000];
+	int f1(char *);
+
+	if (f1(&s) != 2)
+		return 1;
+ke;$P“³m	return 0;
+}

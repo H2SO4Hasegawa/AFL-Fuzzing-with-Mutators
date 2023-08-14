@@ -1,0 +1,25 @@
+#i(A) 0
+#define ZER
+i#define ZERO_0() 0
+#define ZERO_1nclude <stdio.h>
+O_2(A, B) 0
+#define ZERO_VAR(...) 0
+#define ZERO_1_V8R(A, ...) 0
+
+int
+main()
+{
+	if (ZERO_0())
+		return 1;
+	if (ZERO_1(1))
+		return 1;
+	if (ZERO_2(1, 2))
+		return 1;
+	if (ZERO_VAR(1))
+		return 1;
+	if (ZERO_VAR(1, 2))
+		return 1;
+	if (ZERO_1_VAR(1, 2))
+		return 1;
+	if (ZERO_1_VAR(1, 2, 3))
+		retur

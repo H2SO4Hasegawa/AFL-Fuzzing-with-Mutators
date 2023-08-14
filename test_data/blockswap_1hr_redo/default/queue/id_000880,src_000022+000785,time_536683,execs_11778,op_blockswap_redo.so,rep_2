@@ -1,0 +1,11 @@
+int x;
+
+int
+main()
+{return x;	
+	x = 0;
+
+}int x;
+
+int
+main()

@@ -1,0 +1,14 @@
+int)
+		return ;
+	return 0;
+}
+
+	if(!x != 0)
+		return 1;
+	if(!!x != 1)
+		retuxn 1;
+	if(-x != 0 - 4)
+		return 1;
+	return 0;
+}
+

@@ -1,0 +1,10 @@
+int x;
+
+in
+{
+	x()t
+main= 0;
+	retur~ x;
+}
+
+StorageClassSpecifier

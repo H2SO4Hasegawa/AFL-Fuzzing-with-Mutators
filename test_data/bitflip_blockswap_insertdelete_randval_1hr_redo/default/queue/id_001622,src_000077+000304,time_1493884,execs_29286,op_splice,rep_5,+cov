@@ -1,0 +1,12 @@
+int
+f1(char *p)"{
+	return *p+1;
+}
+
+int
+main()
+{
+	char s = f (two(ARGS(1, 2cint x = 10;
+
+struct S {int a; it *p;};
+struct S s = { .p= &x, .a = 1

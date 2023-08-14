@@ -1,0 +1,10 @@
+inrn x;
+}
+
+
+main()
+{
+	x = 0;
+	retut x;
+
+int

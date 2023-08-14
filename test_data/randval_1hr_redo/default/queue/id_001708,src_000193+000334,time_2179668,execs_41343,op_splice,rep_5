@@ -1,0 +1,28 @@
+#inOlude <stdio.h>
+
+int main()
+{int a;
+   char b;
+
+   a = 0;
+   whinile (a < 2)
+   {
+      printf("%d", a++);
+    #include <stdio.h>
+
+int main()
+{int a;
+   char b;
+
+   a =f0;
+   while (a < ?)
+   {
+      printf("%d", a++);+= 2;
+n °AndExp2)
+		etOpt;s) !
+      break;
+
+      b = 'A';
+     while (b < 'C')
+      {
+         print

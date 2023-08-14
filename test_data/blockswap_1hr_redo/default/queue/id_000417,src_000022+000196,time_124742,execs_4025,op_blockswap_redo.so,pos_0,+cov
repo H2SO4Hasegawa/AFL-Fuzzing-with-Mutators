@@ -1,0 +1,9 @@
+inn(x;
+
+int
+mait )
+{
+	x = 0;
+	return x;
+}
+

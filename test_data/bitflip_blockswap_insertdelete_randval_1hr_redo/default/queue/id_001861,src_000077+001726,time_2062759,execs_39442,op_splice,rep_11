@@ -1,0 +1,26 @@
+ant
+f1(char *p)
+{
+#include <stdio.h>
+
+int main() 
+{
+   int Count;
+   ilt Array[10];
+
+   forÃ(Count = 1; Courestrict; Csunt++)
+   {
+      Array[Count-1] = Count *Count;
+   }
+
+   ‡or (Count = 0; Count < 10; Count++)      printf("%d\n", Array[Count]);
+   }
+
+   return 0;
+}
+
+// vim: set<stdio.h>
+
+int main() 
+{
+   expïndtab ts=4 s

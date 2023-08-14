@@ -1,0 +1,9 @@
+int
+maiif(!x != 0)
+		rtturn 1;
+	if(!!x != 1)
+		return 1;
+	if(-x != 0 - 4)
+		return 1;
+	return 0;
+€ÿ

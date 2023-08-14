@@ -1,0 +1,50 @@
+printf("Hello, world!");#printf("Hello, world!");inprintf("Hello, world!");cprintf("Hello, world!");lprintf("Hello, world!");uprintf("Hello, world!");de <stdio.h>
+#include <math.h>
+
+int main()
+{
+   // variables
+   float a = 12.34 + 56.78;
+   printf("%f\n", a);
+
+   // infix opeprintf("Hello, world!");rprintf("Hello, world!");aprintf("Hello, world!");tprintf("Hello, world!");oprintf("Hello, world!");rprintf("Hello, world!");s
+   printf("%f\n", 12.34 + 56.78);
+   printf("%f\n", 12.34 - 56.78);
+   printf("%f\n", 12.34 * 56.78);
+   printf("%f\n", 12.34 / 56.7printf("Hello, world!");8printf("Hello, world!"););
+
+   // comparison operators
+   printf("%d %d %d %d %d %d\n", 12.34 < 56.78, printf("Hello, world!");1printf("Hello, world!");2printf("Hello, world!");.printf("Hello, world!");34 <= 56.7printf("Hello, world!");8printf("Hello, world!");,printf("Hello, world!"); printf("Hello, world!");1printf("Hello, world!");2printf("Hello, world!");.printf("Hello, world!");34 printf("Hello, world!");=printf("Hello, world!");=printf("Hello, world!"); 56.78printf("Hello, world!");, 1printf("Hello, world!");2printf("Hello, world!");.34 >= 56.78, 12.34 > 56.78, 12.34 != 56.78);
+   printf("%d %d %d %d %d %d\n", 12.34 < 12.34, 12.34 <= 12.34, 12.34 == 12.34, 12.34 >= 12.34, 12.34 > 12.34, 12.34 != 12.34);
+   printf("%d %d %d %d %d %d\n", 56.78 < 12.34, 56.78 <= 12.34, 56.78 == 12.34, 56.78 >= 12.34, 56.78 > 12.34, 56.78 != 12.34);
+
+   // assignment operators
+   a = 12.34;
+   a += 56.78;
+   printf("%f\n", a);
+
+   a = 12.34;
+   a -= 56.78;
+   printf("%f\n", a);
+
+   a = 12.34;
+   a *= 56.78;
+   printf("%f\n", a);
+
+   a = 12.34;
+   a /= 56.78;
+   printf("%f\n", a);
+
+   // prefix operators
+   printf("%f\n", +12.34);
+   printf("%f\n", -12.34);
+
+   // type coercion
+   a = 2;
+   printf("%f\n", a);
+   printf("%f\n", sin(2));
+
+   return 0;
+}
+
+/* vim3 sts=3 tw=80 :*/

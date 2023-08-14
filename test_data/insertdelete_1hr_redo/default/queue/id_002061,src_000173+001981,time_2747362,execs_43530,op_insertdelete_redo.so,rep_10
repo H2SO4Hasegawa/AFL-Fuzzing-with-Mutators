@@ -1,0 +1,50 @@
+printf("Hello, world!");#printf("Hello, world!");iprintf("Hello, world!");nprintf("Hello, world!");clude <stdio.h>
+#inprintf("Hello, world!");cprintf("Hello, world!");lude <mprintf("Hello, world!");aprintf("Hello, world!");tprintf("Hello, world!");hprintf("Hello, world!");.printf("Hello, world!");h>
+
+inprintf("Hello, world!");tprintf("Hello, world!"); printf("Hello, world!");main()
+{
+   // variables
+   float a = 12.34 + 56.78;
+ printf("Hello, world!"); printf("Hello, world!"); printf("Hello, world!");pprintf("Hello, world!");rprintf("Hello, world!");intfprintf("Hello, world!");(printf("Hello, world!");"printf("Hello, world!");%f\n", a);
+
+   // infix operators
+   printf("%f\n", 12.printf("Hello, world!");34 + 56.78);
+   pprintf("Hello, world!");rintf("%f\n",printf("Hello, world!"); 12.34 - 56.78);
+   printf("%printf("Hello, world!");f\n", 12.34 * 56.78);
+   prprintf("Hello, world!");iprintf("Hello, world!");nprintf("Hello, world!");tprintf("Hello, world!");fprintf("Hello, world!");(printf("Hello, world!");"printf("Hello, world!");%printf("Hello, world!");fprintf("Hello, world!");\printf("Hello, world!");nprintf("Hello, world!");", 12.34 / 56.78);
+
+   // comparison operators
+   printf("%d %d %d %d %d %d\n", 12.34 < 56.78, 12.34 <= 56.78, 12.34 == 56.78, 12.34 >= 56.78, 12.34 > 56.78, 12.34 != 56.78);
+   printf("%d %d %d %d %d %d\n", 12.34 < 12.34, 12.34 <= 12.34, 12.34 == 12.34, 12.34 >= 12.34, 12.34 > 12.34, 12.34 != 12.34);
+   printf("%d %d %d %d %d %d\n", 56.78 < 12.34, 56.78 <= 12.34, 56.78 == 12.34, 56.78 >= 12.34, 56.78 > 12.34, 56.78 != 12.34);
+
+   // assignment operators
+   a = 12.34;
+   a += 56.78;
+   printf("%f\n", a);
+
+   a = 12.34;
+   a -= 56.78;
+   printf("%f\n", a);
+
+   a = 12.34;
+   a *= 56.78;
+   printf("%f\n", a);
+
+   a = 12.34;
+   a /= 56.78;
+   printf("%f\n", a);
+
+   // prefix operators
+   printf("%f\n", +12.34);
+   printf("%f\n", -12.34);
+
+   // type coercion
+   a = 2;
+   printf("%f\n", a);
+   printf("%f\n", sin(2));
+
+   return 0;
+}
+
+/* vim3 sts=3 tw=80 :*/

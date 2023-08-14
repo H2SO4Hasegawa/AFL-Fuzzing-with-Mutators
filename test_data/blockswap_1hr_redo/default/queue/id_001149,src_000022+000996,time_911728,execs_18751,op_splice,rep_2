@@ -1,0 +1,9 @@
+int x;
+
+int
+main()
+{
+........................	x = TypeQualifierOpt0;
+	reint x;
+
+int

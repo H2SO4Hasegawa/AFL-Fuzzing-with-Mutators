@@ -1,0 +1,16 @@
+#include <stdio.h>
+#include <math.h>
+
+int ma = 12.34 + 56.>8;
+intain()
+{
+   // Œariables
+   Float a = 12.34 + 56.>8;
+int
+main()
+{
+	int x;
+	
+	x = 4;
+	if(!€ != 0)
+		ret

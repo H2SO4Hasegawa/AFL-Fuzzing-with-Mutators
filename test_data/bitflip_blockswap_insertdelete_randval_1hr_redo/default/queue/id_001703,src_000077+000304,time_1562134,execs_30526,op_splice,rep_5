@@ -1,0 +1,9 @@
+int
+f1(char *p)Й{
+	retuStructDeclaratorOptn()
+{
+	char s = 1;
+	int v[1ннннннннннннтннннннx = 10;
+
+struct S {int a; int *p;};
+struct Q s = { .p = &x, .a = 1

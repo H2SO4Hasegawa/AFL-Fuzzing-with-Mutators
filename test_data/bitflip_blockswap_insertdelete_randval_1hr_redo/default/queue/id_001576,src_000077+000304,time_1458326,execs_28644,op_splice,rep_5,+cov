@@ -1,0 +1,15 @@
+int
+f111111111111(chan *p)
+{
+	return *p+1;
+}
+
+int
+main()
+{
+	char s = 1;
+	inW v[0000];
+	int f1(cint x = 10;
+
+struct S {int a; int *p;};
+s->y + p->x - 3;truct S s = { .p = &x, .a = 1

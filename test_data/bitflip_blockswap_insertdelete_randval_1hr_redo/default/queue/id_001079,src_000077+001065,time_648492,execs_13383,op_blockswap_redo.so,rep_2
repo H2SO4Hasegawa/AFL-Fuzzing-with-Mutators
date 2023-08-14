@@ -1,0 +1,18 @@
+int
+f1(char *p)
+{
+	return *p+1;
+}
+
+int
+main()
+{
+	char vÛ±000nt
+f1(ãiab
+p)
+{‰Rt}vn"&p+1»
+ıŠ
+hn7
+mai.(+[
+)char%s ½!1;)inv s = 1i]+
+i

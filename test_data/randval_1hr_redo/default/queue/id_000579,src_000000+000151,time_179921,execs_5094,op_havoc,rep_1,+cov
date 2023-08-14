@@ -1,0 +1,5 @@
+ítsar->c = %e\nint
+main()
+{
+	return 0;
+}

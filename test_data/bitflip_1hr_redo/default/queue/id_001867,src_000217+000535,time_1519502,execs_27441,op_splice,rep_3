@@ -1,0 +1,44 @@
+/* This checks if enums needing   values are correctly zero extended (instead of   when stored into/loaded from a 8 bit bit-field of enum type ( itself is implementation defined, so isn't necessarily supported by all
+   other compilers).  */
+enum tree_code {
+  SOME_CODE = 148, /* has bit 7 set, and hence all further enum values as well */
+  LAST_AND_UNUSED_TREE_CODE
+};
+typedef union tree_node *tree;
+struct tree_common
+{
+  union tree_node *chain;
+  union tree_node *type;
+  enum tree_code code : 8;
+  unsigned side_effects_Imon
+{
+ ;
+};
+union tree_node
+{
+  struct m c_tree_code {
+  C_DUMMY_TREE_CODE = LAST_AND_UNUSED_TREE_CODE,
+  STMT_EXPR,
+  LAST_C_TREE_CODE
+};
+enum cplus_t/* This checks if enums needing   values are correctly zero extended (instead of   when stored into/loaded from a 8 bit bit-field of enum type ( itself is implementation defined, so isn't necessarily supported by all
+   other compilers).  */
+en convert_like_real (&convs);
+ um tree_code {
+  SOME_CODE = 148, /* has bit 7 set, and hence all further enum values as well */
+  LAST_AND_UNUSED_TREE_CODE
+};
+typedef union tree_node *tree;
+struct tree_common
+{
+  union tree_node *chain;
+  union tree_node *type;
+  enum tree_code code : 8;
+  unsigned side_effects_flag : 1;
+};
+union tree_node
+{
+  struct tree_common common;
+ };
+enum c_tree_code {
+  C_DUMMY_TREE_CODE = LAST_AND_UNUSED

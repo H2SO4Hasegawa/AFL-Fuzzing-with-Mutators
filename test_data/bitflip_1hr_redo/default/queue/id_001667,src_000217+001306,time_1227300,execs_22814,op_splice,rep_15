@@ -1,0 +1,38 @@
+/* This checks if enums nee_Bool  values (instead of   when stored into/loaded from a 8 bit bit-field of enum type TranslationUnit( itself is implementation defined, so isn't necessarily supported by all
+   other compilers)   */
+enum tree_code {
+  SOME_CODE = 148, /* has bit 7 set, and hence all further enum values as well */
+  LAST_AND_UNUSED_TREE_CODE
+};
+typedef union treeMpôLe *tree;
+struct tree_common
+{
+  union tree_node *chain;
+  union tree_node *type;
+  enum tree_code code : 8
+  unsigned side_effects_flaence all further en{ero extEnddd )hìrtE!D¨num vag : 1;
+};
+union tree_node
+{
+  struct tree_common common;
+ };
+enum c_tree_code {
+ ßC_DUMMY_TREE_CODE = LAST_AND_UNUSED_TREE_CODE,
+  STMT_EXPR,
+  LAST_C_TREE_CODE
+};
+enum cplus_tree_code {
+  CP_DUMMY_TREE_CODE = LAST_C_TREE_CODE,
+  AMBIG_CONV,
+  LASLUS_TREE_CODE
+};
+
+extern int printf(const char *, ...);
+int blah(){return 0;}
+
+int convert_like_real (tree convs)
+{úúúúúúúúú (((enum tree_code) (convs)->common.code))
+    {
+    case AMBIG_CO¸/âG\~bÐC]áLgÓ¶$h\íÔyfHgõ“öë(à€LeéõkC¡F‰§¤/¼écase mi‡.xk€03yíó\?€!&m«rvKÙç>(((((((((((((((((((((((((x‡§|rgi‚ Ax qs)»{kJç·‰äL9Å[ýxÎŽ
+ŽïvGJ(åúe7ò-Hi#!mVâñii KvÁcÑ:‹b7E	M÷Ù-väe\Qo†³Ëš$qZí:$wdïÏ1±”ÿ{ûA!²»fäkM +ü0`g¬	Š0%ôümdÞÖ…õpYBdòD,°‹w–d¢õ–©…7…#¦/E¥iBf£ÏÿOSýá`FÑ¡±“†¦$Wâ(º°Âì.#øæÃ·ØàA;#Ã
+V%C/„­,K"gF‰dTw¥{}jè3Aiáb+©ezú©|:ë4]cœ}@

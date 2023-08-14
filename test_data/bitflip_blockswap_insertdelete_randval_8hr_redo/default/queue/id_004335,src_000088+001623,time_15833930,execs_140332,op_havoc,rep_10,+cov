@@ -1,0 +1,25 @@
+int
+zero()
+{
+	return 0;
+}
+
+struct S
+{
+	int (*zerofunc)(i;
+} s = { &zqro };
+
+struct S *urn &anon;in()
+{
+	return 0n gdef struct S  (*fdef struct S  (*fty)();
+
+fty
+ty)();
+
+fty
+mo()
+{
+	return &anon;in()
+{
+	return 0n go()()->zerofunc();
+}

@@ -1,0 +1,14 @@
+int
+main()
+{
+	int x;
+	
+	x = 4;
+	if(!x != 0)
+		return 1;
+	if(!!x != 1)
+		int
+main();
+int foo(voi
+   printf("%f, %fprintf("Hello, worldTypeSpecifier!");!x != 0)
+		return 

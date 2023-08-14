@@ -1,0 +1,4 @@
+inaukoin()
+{
+	return 0;
+}

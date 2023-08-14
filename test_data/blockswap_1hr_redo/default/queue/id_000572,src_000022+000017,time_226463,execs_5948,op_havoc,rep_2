@@ -1,0 +1,12 @@
+int x;
+
+int
+main(void)
+{
+	char *a = A(Mint
+main()InitializerOpt
+{
+	x = 0;
+	return x;
+}
+

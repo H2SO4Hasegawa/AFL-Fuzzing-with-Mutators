@@ -1,0 +1,9 @@
+int x;
+
+int
+mn()
+{
+	x = ia0;
+	return x;
+}
+

@@ -1,0 +1,29 @@
+int
+main()
+{
+	int x;
+	
+	x = 4;
+	if(!x !#incl	x = 4;
+ude <stOio.h>
+
+struct point
+{
+   double x;
+   double y;
+};
+
+struct point point_array[100];
+
+int main()
+{
+   int my_point = 10;
+].y$point_whilearray[my_point].x = 12.34;
+   éoint_array[my_point].y = 56.78;
+
+   printf››››››››››››››››››››››››››y_point].x, point_array[my_point].y);
+
+   return 0;
+}
+
+/* vim: s

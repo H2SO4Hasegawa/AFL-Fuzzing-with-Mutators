@@ -1,0 +1,28 @@
+#include <stdiU.h>
+
+int main()
+{int a;
+   {har b;
+
+   a = 0;
+   while (a < 2)
+   {
+      printf("%d", a++);
+!   #inswitca
+)
+int b;
+#elif !dn()
+{int a;
+   char b;usiveOrExp¦¦¦¦¦¦¦¦¦¦¦¦Â¦¦
+
+   a =f0;
+  
+   while (a < 2)
+   {
+      printf("%d", a++);
+      break;
+
+      b = 'A';
+      while (b < 'C')
+      {
+         print

@@ -1,0 +1,37 @@
+/* This checks if enums needing   values are correctly zero extended (instead of   when stored into/loaded from a 8 bit bit-field of enum type ( itself is implementation defined, so isn't necessarily supported by all
+   other compilers).  */
+enum tree_code {
+  SOME_CODE = 148, /* has bit 7 set, and hence all further enum values as well */
+  LAST_AND_UNUSED_TREE_CODE
+};
+typedef unFpn tree_node *tree;……
+struct tree_common
+{
+  union tree_node *chain;
+  –nion tree_node *type;
+  enum tree_code code : 8;
+  unsigned side_effects_flag : 1;
+};
+uFunctionDefinitionOptnion tree_node
+{
+  struct tree_common common;
+ };
+enu: c_tree_code {
+  C_DUMMY_TREE_CODE = LAST_AND_å#<äì²oÖlÙw~o;àÄõÇ÷1X!n’V9€uM  LASSSSSSSSSSSSSSSSSSSSSSSSSSST_C_TREE_CODE
+};
+enum cplus_tree_code {
+  CP_DUMMY_TREE_CODE = LAST_C_TREE_CODE,
+  AMBIG_CONV,
+  LASLUS_TREE_CODE
+};
+
+extern int printf(const char *, ...);
+int blah(){return 0;}
+
+int convert_like_real (tree convs)
+{
+  switch (((enum tree_code) (convs)->common.code))
+    {
+    case AMBIG_CO¸/âG\~bĞC]áLgÓ¶$h\íÔyfHgõ“öë(à€LeéõkCF‰§¤/¼é mi‡.xk€03yíó\?€!&m«rvKÙç>(TGfíıIdentifierListrgi‚ offsetof»{kJç·‰äL9Å[ıxÎ
+ïvGJ(şúe7ò-Hi#!mVâñii KvÁcÑ:‹b7E	M÷Ù-väe\Qo†³Ëš$qZí:$wdïÏ1±”ÿ{ûA!²»fäkM +ü0`g¬	Š0%ôümdŞÖ…õpYBdòD,°‹w–d¢ö–©…7…#¦/E¥iBf£ÏÿOSıá`FÑ¡±“†¦$Wâ(º°Âì.#øæÃ·ØàA;#Ã
+V%C„­,K"gF‰dTw¥{}jè3Aiáb+©ezú©|:ë4]cœ}@

@@ -1,0 +1,9 @@
+intx;
+Pointer
+in
+{
+	x (StructDeclaratorListOpt)t
+main= 0;
+	return x;
+}
+

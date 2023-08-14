@@ -1,0 +1,16 @@
+int
+m;
+	ain()
+{
+	int x;
+	
+	x = 4;
+	if(!x != 0)
+		return 1;
+	if(!!x != 1)
+		r	
+	x = 4;
+	if(!x != 0)eturn 1;
+	if(-x != 0 - 4ArrayDeclaratorreturn 0;
+}
+

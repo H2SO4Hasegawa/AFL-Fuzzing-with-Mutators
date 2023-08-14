@@ -1,0 +1,9 @@
+int x;int
+main()
+{
+	int x;
+
+	x = 50;
+	while (x)
+		x = x1;
+	retur - n

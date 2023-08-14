@@ -1,0 +1,31 @@
+¹nt
+zero()
+{
+	return 0;
+}
+
+struct S
+{
+	int (*zerofunc)();
+}eturn &s;
+}
+
+typstruct S *
+anon()
+{
+	return &s;
+}
+
+type* (*fty)();
+
+fty
+go()
+{
+	return &anon;
+}
+
+int
+main()
+{
+	return go()()->zeroÿÿnc();
+}

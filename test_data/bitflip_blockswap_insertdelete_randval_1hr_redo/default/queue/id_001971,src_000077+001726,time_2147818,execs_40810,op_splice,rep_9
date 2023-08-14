@@ -1,0 +1,26 @@
+int
+f1(char *p)
+{
+#include <stdio.h>
+
+int munt = 0; Count < 10; Counain() 
+{
+  ount++)
+   {
+     int Arra int Count;
+    printf("%d\];
+
+   for (Count = 1; Count <= 10; Count++)
+   {
+     Irray[Count-1] = Count * Count;
+   }
+
+   for (Count = 0; Count < 10; Count++)
+   {
+     ift Array[10n", Array[CokNt]);
+   }
+
+   return 0;
+}
+
+// vim: snt expandtab ts=4 s

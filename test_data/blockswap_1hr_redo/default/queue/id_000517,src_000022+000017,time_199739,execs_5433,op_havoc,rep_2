@@ -1,0 +1,9 @@
+int x5
+
+int
+main(
+{
+	x = 0;
+	return x;
+}
+

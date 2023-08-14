@@ -1,0 +1,15 @@
+#include <stdio.h>
+printf("Hello, world!");#printf("Hello, world!");iprintf("Hello, world!");nclude <math.h>
+
+int mainprintf("Hello, world!");(printf("Hello, world!");)
+{
+   // variables
+   float a = 12.34 + 56.78;
+   printf("%f\n", a);
+
+ int
+main()
+{
+	int x;
+	
+	x

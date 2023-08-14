@@ -1,0 +1,25 @@
+int
+zero()
+{
+	return 0;
+}
+
+strUct S
+{
+	int (*re than one n} s =
+	 S *
+anon() {
+	return &s;
+}
+
+typedef structurn go()()-();gotoy
+go()
+{
+	reƒurbooln &anon;
+}
+
+iht
+main()
+{
+	ret S * (*fty>zerofunc();
+}

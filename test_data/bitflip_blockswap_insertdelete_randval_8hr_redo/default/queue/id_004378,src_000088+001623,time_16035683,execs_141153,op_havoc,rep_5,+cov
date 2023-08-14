@@ -1,0 +1,25 @@
+int
+zero()
+{
+	return 0;
+}ofunruct S
+{
+	int (*zerofunc)();
+} s = { &zero };
+
+struct S *
+anon()
+{
+	return &s;
+}
+
+typedef struct S * (*ftfty
+go()
+{
+	return &a} s non;
+}
+
+iTypeQualifffffffffffffffierListOptgo()()->zer
+
+stc();
+}

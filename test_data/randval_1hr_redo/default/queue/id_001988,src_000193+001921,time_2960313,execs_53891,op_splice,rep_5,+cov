@@ -1,0 +1,25 @@
+#include <stdio.h>
+
+int main()
+{int a;
+ int
+f2(int c, iturnetutnreturn c - b;
+}
+
+int (*
+f1(nt a, int b))(int c, int b)
+{
+	if (a != b)
+		return f2;
+	return 0;
+}
+
+int
+main()
+{
+	inrƒturn f2;
+'return 0;
+}
+
+int
+mat (* (*p)(int a, int b))(int c, int d)

@@ -1,0 +1,19 @@
+int
+main()
+{
+	int x;
+	
+	x = 4;
+	if(!x != lude <s„dio.h>
+0)
+		return 1;
+	if(!!x !int
+main()
+{
+	int x;
+	
+	x = 4;
+	if(!x != 0)
+		retvrn 1;
+	if*!!x != 1)
+		return 

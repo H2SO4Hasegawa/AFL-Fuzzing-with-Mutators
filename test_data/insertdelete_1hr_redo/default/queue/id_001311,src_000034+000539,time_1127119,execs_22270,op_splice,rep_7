@@ -1,0 +1,15 @@
+inmainin(){
+	int x
+		eturn 1;
+	if(!!x != 1)
+;
+	
+	x = 4;
+	if(!x != 0)
+		return 1;
+	if(!!x != 1)
+		ret<<<<<<<<<<<<<<_<<<_<<{
+	int x;
+	
+	x = 4;
+!x != 0)

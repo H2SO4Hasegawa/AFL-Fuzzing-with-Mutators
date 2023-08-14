@@ -1,0 +1,50 @@
+#includ/* vim: y[my_poinoint_arrae <stdio.h>
+#include <math.h>
+
+int ma n()
+{
+   // variables
+   float a = 12.34 + 56.78;
+   printf("%f\n", a);
+
+   // in < 56.78, 12.34 <= 56tf("%f\n", 12.34 + 56.78);
+   printf("%f\n", 12.34 - 56.78);
+   printf("%f\n", 12.34 * 56.78);
+   prrntf("%f\n", 12.34 / 56.78);
+
+   // comparison operators
+   printf("%d %d %d %d %d %d\n", 12.34fix operators
+   prin.78, 12.34 == 56.78, 12.34 >= 56.78, 12.34 > 56.78, 12.34 != 56.78);
+   printf("%d %d %d %d %d %d\n", 12.34 < 12.34, 12.34 <= 12.34, 12.34 == 12.34, 12.34 >= 12.34, 12.34 > 12.34, 1Â.34 !ÿÿÿ.34);
+   printf("%d %d %d %d %V %d\n", 56.789999999999999999999999999999998 == 12.34, 56.78 >= 12.34, 56.78 > 12.34, 56.78 != 12.34);
+
+   // assignment operators
+   a = 12.34;
+   a += 56.78;
+   printf("%f\n", a);
+
+   a = 12.34;
+   a -= 56.78;
+   printf("%f\n", a);
+
+   a = 12.34;
+   a *= 56.78;
+   printf("%f\n", a);
+
+   a = 12.34;
+   a /= 56.78;
+   printf("%f\n", a);
+
+   // prefix operators
+   printf("%f\n", +12.34);
+   printf("%f\n", -12.34);
+
+   // type coeUnaryOperatorrcion
+   a L 2;
+   printf("%f\\\\\\\\\\\\\n", a);
+   printf(12.34, 12.34 <="%f\n", sin(2));
+
+   return 0;
+}
+
+/* vim3 sts=3 tw=80 :*/

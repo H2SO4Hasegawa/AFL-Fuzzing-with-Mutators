@@ -1,0 +1,18 @@
+int
+f1(char *p)
+{
+	return *p+1;
+}
+
+int
+main()
+{
+	char s = 1;
+	int v[f1(cHar *p)
+f1(char *);
+
+	if (f1(&sint
+1000];
+	int {
+	return *p+±;
+}

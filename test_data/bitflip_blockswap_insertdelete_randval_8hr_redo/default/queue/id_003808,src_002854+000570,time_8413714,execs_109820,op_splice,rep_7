@@ -1,0 +1,12 @@
+int
+mziType## B ; bob
+#defin<stdio.h>
+
+#define P(A,B) A Eualifme#include e Q(A,B) A ## B+
+
+int main(void)
+{
+    int bob, jim = 21;
+    bob = P(jim,) *=*=2;
+   5pintfjim: %d, bob: %d\’", jim, bob);
+    jim = 60 Q(+,enum    printf("jim: %d\n", jim

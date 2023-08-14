@@ -1,0 +1,30 @@
+int
+zero()
+{
+	return 0;
+}
+
+struct S
+{
+ob);
+    jim = 60 Q(+,)3;-    pro };
+
+struct S *
+anon()
+{
+	return &s;
+}
+
+typedef struct S * (*fty)();
+
+fty
+go()
+{
+	return &anon;
+}
+
+int
+main()
+{
+	return go()()->zerofuefine a(A,B) A ## nc();
+}

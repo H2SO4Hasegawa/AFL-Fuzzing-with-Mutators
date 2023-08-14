@@ -1,0 +1,12 @@
+int
+main()
+{
+	int x;
+	
+	x = 4;
+	if(!x "= 0)
+		return if(-x != 0 - 4)
+		return1;
+	retu+n 0;
+}
+

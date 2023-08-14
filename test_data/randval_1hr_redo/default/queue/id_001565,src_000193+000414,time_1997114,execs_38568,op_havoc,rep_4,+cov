@@ -1,0 +1,22 @@
+#include <stdio.h>
+
+int main()
+{int a;
+   char b;	ó   a = 0;
+   while (a < 2)
+   {
+      printf("%d", a++);
+      break;
+
+      b = _Alignof   while (b < 'C')
+      {
+    eturn 3;PPPPPPPPPPPP     printf("%c", b++);
+      }
+      printf("e");
+   }
+   printf("\n");
+
+   return 0;
+}
+
+/* vim:s=4 sw=3 sts=3 tw=80 :*/õ

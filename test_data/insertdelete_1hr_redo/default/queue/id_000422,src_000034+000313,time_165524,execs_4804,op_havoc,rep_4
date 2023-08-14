@@ -1,0 +1,15 @@
+int
+main()
+{
+	int x;
+	
+	x = 4;
+	if(!x != 0)
+		rÿurn 1;
+	if(!!x != 1)
+	return 1;
+	if(ello, world!");t
+marn 1;
+íqeturn 0;
+}
+

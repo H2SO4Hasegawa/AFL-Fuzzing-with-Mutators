@@ -1,0 +1,9 @@
+ini x;
+
+tnt
+main()
+{
+	x = 0;
+	return x;
+}
+

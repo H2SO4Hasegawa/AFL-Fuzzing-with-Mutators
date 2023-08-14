@@ -1,0 +1,15 @@
+int x;
+
+
+int&main()
+{
+	int &;
+
+int
+main()
+{
+	int x;
+
+int
+mx = 0;
+’

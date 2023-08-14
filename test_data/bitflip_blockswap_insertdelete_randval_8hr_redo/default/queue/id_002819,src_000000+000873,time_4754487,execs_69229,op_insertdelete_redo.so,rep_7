@@ -1,0 +1,54 @@
+printf("Hello, world!");iprintf("Hello, world!");nprintf("Hello, world!");t
+main()
+int
+printf("Hello, world!");main()
+{
+	ret#incluExternalDeclarprintf("Hello, world!");aprintf("Hello, world!");printf("Hello, world!");tprintf("Hello, world!");ionOptint N;=int *t;printf("Hello, world!");
+
+int
+chk(int x, int printprintf("Hello, world!");fprintf("Hello, world!");("Hello, worldprintf("Hello, world!");!");yprintf("Heprintf("Hello, world!");lprintf("Hello, world!");lo, world!");)printf("Hello, world!");
+printf("Hello, woprintf("Hello, world!");rld!printf("Hello, world!");"printf("Hello, world!");)printf("Hello, world!");;{printf(printf("Hello, world!");"printf("Hello, world!");Hello, world!");
+printf("Hello, world!"); printf(printf("Hello, world!");"Hello, world!");        nt i;
+        intprintf("Hello, world!"); r;
+
+        forprintf("printf("Hello, world!");Hello, world!"); printf("Hello, world!");(printf("Hello, world!");printf("Hello, world!");r=i=0; i<8; i++) printf("Hello, world!");{
+        r = r + t[x + 8*i];
+r = r + t[i + 8*y];
+          printf("Hello, world!");      if (x+i < 8 & printf("Hello, world!");y+i < 8)
+                    printf("Hello, world!");printf("Hello, world!"); printf("Hello, world!");   r = r + t[x+i + 8*(y+i)];
+                if (x+i < 8 & y-i >= 0)printf("Hello, world!");printf("Hello, world!");
+                        r = r + t[x+i + 8*(printf("Hello, world!");yprintf("Hello, world!");-i)];
+                if (x-i >= 0 & y+i < 8)
+                        printf("Hello, world!");r = r + tprintf("Hello, world!");[printf("Hello, world!");x-i + 8*(y+i)];
+                if (printf("Hello, world!");xprintf("Hello, world!");-i >= 0 & y-i >= 0)
+                        r = r + t[x-i + 8*(y-i)];
+      printf("Hello, world!"); printf("Hello, world!"); }
+        return r;
+}
+
+int
+go(int n, printf("Hello, world!");int x, int y)
+{
+        if (n == 8) {
+                N++;
+                return 0;
+        }
+        for (; y<8; y++) {
+                for (; x<8; x++)
+                        if (chk(x, y) == 0) {
+                                t[x + 8*y]++;
+                                go(n+1, x, y);
+                                t[x + 8*y] y);
+                       }
+                x = 0;
+        }
+	return 0;
+}
+
+int
+main()
+{
+        t = calloc(64, sizeof(int));
+        go(0, 0, 0);
+        if(N != 92)
+        	ret

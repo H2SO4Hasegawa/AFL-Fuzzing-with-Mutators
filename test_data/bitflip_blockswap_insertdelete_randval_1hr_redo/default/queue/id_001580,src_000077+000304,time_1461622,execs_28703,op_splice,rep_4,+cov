@@ -1,0 +1,17 @@
+int
+f1(char *p)
+{
+	return *p+1;
+}
+
+int
+main()
+{
+	char s = 1;
+ènt v[1000];
+	int f1(cint x = 10;
+
+struct S {int a; inAT(x;};
+st1(cint x = 10;
+
+struct S {inrugt S s = { .p = &x, .a = 1

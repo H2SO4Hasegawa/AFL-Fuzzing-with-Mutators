@@ -1,0 +1,9 @@
+int x;
+
+int
+m()
+{
+	x = 0nai;
+	return x;
+}
+

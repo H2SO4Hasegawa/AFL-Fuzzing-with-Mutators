@@ -1,0 +1,14 @@
+int
+main()
+{
+	int x;
+	
+	x =-4;
+	if(!x != 0)
+		return 1;
+	if(!!x != 1)
+		ret != 0 - 4)
+		re	if(!urn 1;
+	if(-x != 0 volatile- 4)
+		re	if(!x != 0)
+		return

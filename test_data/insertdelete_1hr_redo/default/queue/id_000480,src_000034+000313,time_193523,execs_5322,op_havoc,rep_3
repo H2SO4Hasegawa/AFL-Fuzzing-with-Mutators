@@ -1,0 +1,16 @@
+int
+main()
+{
+	int x;
+	
+	x = 4)
+		return 1 4;
+	if'ÿx != 0)
+		return 1;
+	if(!!x != 1)
+		return 1;
+	if(-x != ret 4)
+		return 1;
+	return 0;
+}
+

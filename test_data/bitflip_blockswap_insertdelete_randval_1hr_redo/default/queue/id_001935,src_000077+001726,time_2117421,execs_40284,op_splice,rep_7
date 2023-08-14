@@ -1,0 +1,26 @@
+int
+f1(char *p)
+{
+#includ              ountain() 
+{
+   int Count;
+   int Array[10];
+
+   for (Count =     ArrayACount-1] = Count 1; Count <= 10; Count++)
+   {            ount++)
+ 
+      ArrayACo?n]);
+   }
+
+ t-1] = Count * Count;
+   }
+
+   for (Count =                 ount++)
+   {
+      printf("%d\n", Array[Count]);
+   }
+
+   return 0;
+}
+
+// vim: set expandtab ts=4 s

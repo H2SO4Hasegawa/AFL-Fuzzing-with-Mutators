@@ -1,0 +1,50 @@
+#include <stdio.h>
+#include <math.h>
+
+int main()
+{
+printf("Hello, world!");   // variables
+   fprintf("Hello, world!");loat a = 12.34 + 56.78;
+   printf("%f\n", a);
+
+   // inprintf("Hello, world!");fix operatprintf("Hello, world!");ors
+   printf("%f\n", 12.34 + 56.78);
+   priprintf("Hello, world!");ntf(printf("Hello, world!");"%f\n", 12.34 - 56.78);
+   printf("%f\n", 12.34 * 56.78);
+   printf("%f\n", 12.34 / 56.78);
+
+   // compaprintf("Hello, world!");rprintf("Hello, world!");ison operators
+   printf("%d %d %d %d %d %d\n", 12.34 < 56.78, 12.34 <= 56.78, 12.34 == 56.78, 12.34 >= 56.78, 12.34 > 56.78, 12.34 != 56.78);
+   printf("%d %d %d %d %d %d\n", 12.34 < 12.34, 12.34 <= 12.34, 12.34 == 12.34, 12.34 >= 12.printf("Hello, world!");34, 12.34 > 12.34, 12.34 != printf("Hello, world!");1printf("Hello, world!");2.34);
+   printf(printf("Hello, world!");"%d %d %d %d %printf("Hello, world!");d %d\printf("Hello, world!");n", 56.78 < 12.34, 56.78 <= 12.34, 56.78 == 12.34, 56.78 >= 12.34, 56.78 > 1printf("Hello, world!");2printf("Hello, world!");.34,printf("Hello, world!"); 56.78 != 12.34);
+
+ printf("Hello, world!");  // assignment operators
+   a = 12.34;
+   a += 56.78;
+   printf("%f\n", a);
+
+   a = 12.34;
+   a -= 56.78;
+   printf("%f\n", a);
+
+   a = 12.34;
+   a *= 56.78;
+   printf("%f\n", a);
+
+   a = 12.34;
+   a /= 56.78;
+   printf("%f\n", a);
+
+   // prefix operators
+   printf("%f\n", +12.34);
+   printf("%f\n", -12.34);
+
+   // type coercion
+   a = 2;
+   printf("%f\n", a);
+   printf("%f\n", sin(2));
+
+   return 0;
+}
+
+/* vim3 sts=3 tw=80 :*/

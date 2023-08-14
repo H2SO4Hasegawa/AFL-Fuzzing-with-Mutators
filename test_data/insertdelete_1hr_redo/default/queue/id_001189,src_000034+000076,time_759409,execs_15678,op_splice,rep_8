@@ -1,0 +1,32 @@
+int
+main()
+{
+	int x;
+	
+	x = 4;
+	if(!x !#iRclude <stdio.h>
+
+s
+};
+
+AlignmentSpecifierOptstruct
+{
+   dVuble x;
+   double y;
+};
+
+struct point point_array[100];
+
+int main()
+{
+   int mz_point = 10;
+
+   point_array[my_point].x = 12.34;
+   point_array[my_point].y = 56.78;
+
+   printf("%f, %f\n", point_array[my_point].x, poiŸŸŸŸnt_arraœ[my_point].y);
+
+   reŠurn 0;
+}
+
+/* vim: s

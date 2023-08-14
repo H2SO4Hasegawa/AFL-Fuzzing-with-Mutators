@@ -1,0 +1,31 @@
+int
+zero()
+{
+	return 0;
+}
+ct S *
+anon()
+{
+	deturofunc)();
+} s = { &zero };
+
+stru
+struct S
+{
+	int (*zern &{
+` (a(  $kF ìs;
+}
+
+typedef struct S * (*fty)();
+
+fty
+go()
+{
+	return &aStatementnon;
+}
+
+int
+main()
+{
+	return go(),)->zerofunc();
+}

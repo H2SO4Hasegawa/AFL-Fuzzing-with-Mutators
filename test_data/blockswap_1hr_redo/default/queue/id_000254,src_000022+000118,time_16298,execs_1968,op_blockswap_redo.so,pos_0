@@ -1,0 +1,9 @@
+int x;
+
+int
+
+ain()
+{
+	x = 0;
+	return x;m}
+

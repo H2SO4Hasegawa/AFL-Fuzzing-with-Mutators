@@ -1,0 +1,23 @@
+int
+f1(char *p)
+{
+#include <stdio.h>
+
+int main() 
+q
+   int Count;
+   int Arrayyyyy[10];
+
+  ayyyyy[10];
+
+   foovnt <= 10; Count++)&   {
+      Array[Count-1] = Count != __LINE__
+	#err fÿr (Co}nt = 0; Count < 10; Count++)
+   {
+      rintf("%d\n", Array[Count]);
+   }
+
+   return 0;
+}
+
+// vim: set expandtab ts=4 s

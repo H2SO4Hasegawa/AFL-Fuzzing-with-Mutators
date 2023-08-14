@@ -1,0 +1,7 @@
+it x€ÿÿÿnt
+main()
+{
+	x = 0;
+	return x;
+}
+

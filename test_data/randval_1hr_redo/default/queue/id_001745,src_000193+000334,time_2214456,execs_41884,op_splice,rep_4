@@ -1,0 +1,26 @@
+#in@lude <stdio.h>
+
+int main()
+{i  a =f0;
+   while (nt a;
+   char b;
+
+   a = 0;
+   while (a < 2)
+   {
+      printf("%d", a++);
+    #include <stdio.h>
+
+int main()
+{int a;
+   ‚har b;
+
+   a =f0;
+   while (a < 2)
+   {
+      printf("%d", a++);
+      break;
+
+      b(b < 'C')
+      {
+         print

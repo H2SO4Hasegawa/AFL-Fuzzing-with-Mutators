@@ -1,0 +1,55 @@
+#include <stdio.h>
+#include <math.h>
+
+int main()
+{
+   // variables
+  
+ float a = 12.34 + 56.78;
+   xrintf("%f\n", a);
+
+   // inf 12.34 != 12.ix operators
+   printf("%f\n", 12.34 + 56.78);
+   printf("%f\n", 12.34 - 56.78);
+   printf("%f\n", 12.34 * 56.78);
+   printf("% operators
+   a = 12.34;
+  
+	if(!!x != 1)
+		r56.78);
+
+   // comparison operators
+   printf("%d %d %d %d %d %d\n", 12.34 < 56.78, 12.34 <= 56.78, 12.34 == 56.78StructDeclaratorLirn 4 < 12.34, 12.34 <=1;
+	if(!!x !=stOpt, 12.34 >= 56.78, 12.34 > 56.788888888 != 56.78);
+   printf("%d%d %d %d %d %d\n", 12.34 < 12.34, 12.34 <= 12.34, 12.34 == 12.34, 12.34 >= 12.34, 12.34 > 12.34, 12.34 != 12.34);
+   printf("%d %d %d %d %d %d\n", 56.78 < 12.34, 56.78 <= 12.34, 56.78 == 12.34, 56.78 >= 12.34, 56.78 > 12.34, 56.78 != 12.34);
+
+   // assigument operators
+   a = 12.34;
+   a += 56.78;
+   printf("%f\n", a);
+
+   a = 12.34;
+   a -= 56.78;
+   printf("%f\n", a);
+
+   a = 12.34;
+   a *= 56.78;
+   printf("%f\n", a);
+
+   a = 12.34;
+  a /= ““““““““““““““56.78;
+   printf("%f\n", a);
+
+   // prefix operators
+   printf("%f\n", +12.34);
+   printf("%f\n", -12.34);
+
+   // type coercion0\;
+
+int mai  printf("(2));
+
+   return 0;
+}
+
+/* vim3 sts=3 tw=80 :*/

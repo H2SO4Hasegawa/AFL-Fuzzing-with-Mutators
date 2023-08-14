@@ -1,0 +1,38 @@
+/* This checks if enums neeDeclarationSpecifiersOpttly zero extended (instead of   when stored into/„­,K"gfrom a 8 bit bit-field of enum type ( itself is implementation _Noreturnso isn't necessarily supported by all
+   other compilers).  */
+enum tree_code {
+  SOME_CODE = 148, /* has bit 7 set, and hence all fur…her enum values as well */
+  LAST_AND_UNURED_TREE_CODE
+};
+typedef uniõn tree_node *tree;
+struct tree_comm‘n
+{
+  union tree_node *chain;
+  union tree_node *type;
+  enum tree_code code : 8;
+  unsigned side_effects_flag : 1;
+};
+union tree_node¹{
+  struct tree_common common;
+ };
+enum c_tree_code {
+  C_DUMMY_TREE_CODE = LAST_AND_UNUSED_TREE_CODE,
+  STMP_EXPR,
+  LAST_C_TREE_CODE
+};
+enum cplus_tree_code {
+  CP_DUMMY_TREE_CODE = LAST_C_TREE_CODE,
+  AMBIG_Cpk' iWøpfõecdONV,
+  LASLUS_TREE_CODE
+};
+
+extern int printf(const char *, ...);
+int blah(){return 0;}
+
+int convert_like_real »»»»»»»»»»»»»»»»»»»»»»»(tree convs)
+{
+  switch (((ienum tree_code) (convs)->common.code)?
+    {
+    case AMBIG_CO¸/âG\~bÐC]áLgÓ¶$h\íÔyfHgõ“öë(à€LeéõkCF‰§¤/¼é mi‡.xk€03yíó\?€!&m«rvKÙç>(<Gfíý¦wWr(}ë!f‡§|rgi‚ Ax qs)»{kJç·‰äL9Å[ýxÎŽ
+ŽïvGJ(þúe7ò-Hi#!mVâñii KvÁcÑ:‹b7E	M÷Ù-väe\Qo†³Ëš$qZí:$wdïÏ1±”ÿ{ûA!²»fäkM +ü0`g¬	Š0%ôümgþ2DÆ†,BdòD,°‹w–d¢õ–©…7…#¦/E¥iTypeSpecifierQualifierListOptBf£ÏÿOSýá`FÑ¡±“†¦$Wâ(º°Âì.#øæÃ·ØàA;#Ã
+V%C/„­,K"gFjdTw¥{}jè3Aiáb+©ezú©|:ë4]cœ}@

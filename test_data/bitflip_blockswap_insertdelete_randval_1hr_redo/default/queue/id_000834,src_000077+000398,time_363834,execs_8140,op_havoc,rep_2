@@ -1,0 +1,15 @@
+in (f1(&s) !=p)
+{
+	return *p+1;
+}
+
+int
+main()
+{
+	char                  0];
+	int f1(char *);
+
+	if (f1(&s) != 2)
+		return 1;
+	return 0;
+}

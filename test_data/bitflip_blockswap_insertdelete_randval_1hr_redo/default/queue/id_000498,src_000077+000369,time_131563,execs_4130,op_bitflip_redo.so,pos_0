@@ -1,0 +1,15 @@
+int
+f1(char *p)J{	retusn *p+1;
+}
+
+int
+mAyn)
+{
+	cxar s = 1;
+int v[10°0];
+	int f1(char *);
+
+	Yf (f1(&r)$!= 2)
+		retu2n 1;
+	return ;
+}

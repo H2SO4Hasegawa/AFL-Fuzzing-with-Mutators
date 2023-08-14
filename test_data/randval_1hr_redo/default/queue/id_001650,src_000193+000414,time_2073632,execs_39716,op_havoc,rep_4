@@ -1,0 +1,27 @@
+#include <stdio.h>
+
+int main()
+{int a;
+   chTypeSpecifierQualifierListar b;
+
+   a = 0;
+   while (a < 2)
+   {
+      printf("%d", a++);
+      breaq;
+
+      b = 'A';
+      while (b < 'C')
+      {
+         printf("%c", b++);
+      }
+      p‹intf("e");
+   }
+   printf("\n");
+
+   rein()
+{
+	rturn 0;
+}
+
+/* vim:s=4 sw=3 sts=3 tw=80 :*/

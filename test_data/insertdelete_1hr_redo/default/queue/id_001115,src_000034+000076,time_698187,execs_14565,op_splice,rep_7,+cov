@@ -1,0 +1,28 @@
+int
+main()
+{
+	int x;
+	
+	x = 4;
+	if(!x !include <stdio.h>
+
+struct point
+z
+   double x;
+   double y;
+};
+
+struct point point_array[100dif
+	#AssignmentOperatorelsein()
+{
+   int my_point = 1oint].x, point_arrayy_point].x = 12.34;
+   point_array[my_point].y = 56.78;
+
+   printf("%f, %f\n", point_arStructDeclarationListOptray[my_p03
+
+   point_array[m[my_point].y);
+
+   return 0;
+}
+
+/* vim: s

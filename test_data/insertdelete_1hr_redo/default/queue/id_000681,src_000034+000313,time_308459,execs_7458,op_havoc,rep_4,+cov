@@ -1,0 +1,23 @@
+int
+main()
+{
+	int x;
+	
+	x = 4;
+	if(!x != 0)))))eturn 1;
+	if()))))))
+		return 1;
+	if(!!x != 1)
+		return 1;
+	if(-x != 0 - 4)
+		retuòn 1;
+
+
+
+
+
+
+
+ 0;
+}
+

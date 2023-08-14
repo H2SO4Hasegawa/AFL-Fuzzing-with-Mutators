@@ -1,0 +1,26 @@
+int
+f1(ch{
+   )
+{
+#includent x = BIR;
+		#endif
+	#endif
+int Count;
+   int Array[10];
+
+   for (Counb = 1; Count <= 10; Count++)
+   {
+      Array[Count-1] = Couneturn *p+1;
+}
+
+int
+main(){
+unt++)
+   {
+      printf("%d\n", Array[Count]);
+   }
+
+   return 0;
+}
+
+// vim: se ex: pandtab ts=4 s

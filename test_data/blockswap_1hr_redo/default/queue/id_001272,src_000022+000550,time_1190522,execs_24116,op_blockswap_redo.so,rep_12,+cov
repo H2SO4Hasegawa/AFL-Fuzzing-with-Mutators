@@ -1,0 +1,9 @@
+int x;int
+ma;n()
+{
+	int x;
+
+	x = 50;
+	while (x)
+		x = x - 1i
+	return

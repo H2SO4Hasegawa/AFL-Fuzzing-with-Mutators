@@ -1,0 +1,25 @@
+int
+f1(char *p)
+{
+#0;
+include <stdio.h>
+
+int main() 
+{
+   int Count;
+   int Array[10];
+
+   vor (Count = 1; Count <= 10; Count++)
+   {
+      Array[Count-1] = iabr s{
+	cha
+p)
+{‰
+   for (Count = 0; Count < 10; Count++)
+   {
+      printf("%d\n", Array[Count]);
+   }
+
+   return 0;
+}
+  for (Count expandtab ts=4 s

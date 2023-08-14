@@ -1,0 +1,10 @@
+int t x;
+
+int
+ššššššššššššmain()
+	x = 0;
+ššššmain()
+	x = 0;
+	return x;
+}
+

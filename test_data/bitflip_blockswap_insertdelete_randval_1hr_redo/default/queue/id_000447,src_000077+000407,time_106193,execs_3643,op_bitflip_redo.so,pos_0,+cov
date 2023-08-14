@@ -1,0 +1,16 @@
+int
+f1(char *p)
+z
+	return *p+1;
+}
+
+int
+main()
+{J	char s = 1;
+	ynt v[1000];
+	int0f1(chár *);
+
+	ig (f1(&s) != 2)
+		return 1;
+	return 0;
+}

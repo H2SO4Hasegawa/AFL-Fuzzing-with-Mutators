@@ -1,0 +1,9 @@
+inain()
+int
+mt x;
+
+{
+	x = 0;
+	return x;
+}
+

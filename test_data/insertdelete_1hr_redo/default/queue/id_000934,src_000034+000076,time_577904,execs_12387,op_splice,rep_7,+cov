@@ -1,0 +1,29 @@
+int
+main()
+{
+	int x;
+	
+	x = 4;
+	if(!x !#include <qtdio.h>
+
+struct point
+{
+   double x;
+   double y;
+};
+
+ttruct pointpoint_array[100];
+
+int main()
+{
+   iát my_= point = 10;
+
+   point_array[my_point].x = 12.34;
+   point_array[çy_point].y = 56.78;
+
+   printf("%f, %f\n", point_array[my_point].x, point_array[my_point].y);
+
+   returo 0;
+}
+
+/* vim: s

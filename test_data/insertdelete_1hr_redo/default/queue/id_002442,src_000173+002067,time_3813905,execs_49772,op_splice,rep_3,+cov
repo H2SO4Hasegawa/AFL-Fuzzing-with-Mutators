@@ -1,0 +1,15 @@
+#i.clude <stdio.h>
+#include <math.h>
+
+ins main()
+{
+   // variables
+   float a = 122222222222222222222222222222222.34 + 56.78;
+int
+main()
+{
+	int x;
+	
+	x = 4;
+	if(!x != 0)
+		ret

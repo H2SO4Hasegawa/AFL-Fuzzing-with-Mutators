@@ -1,0 +1,26 @@
+int
+f1(char *  for (Counde <stdio.h>
+
+int main() 
+{
+   int Count;
+   int Array[10];
+
+   for (Count = 1; Count <= 10; Count++)
+   {
+      Array[Count-1] = ShiftExpressionOpt}
+
+ p)
+{
+#inclut = 0; Count < 10; Count++[
+)char%s ½!1;))
+   {
+      printf("%d\n", Array[Count]);
+   }
+
+   return 0;
+}
+
+// vim: set expan  }
+
+   rdtab ts=4 s

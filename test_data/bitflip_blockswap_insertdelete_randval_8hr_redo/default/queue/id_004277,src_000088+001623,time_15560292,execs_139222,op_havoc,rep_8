@@ -1,0 +1,29 @@
+int
+zero()
+{
+	return 0,
+}
+struct S
+{
+	int (*zerofuncfffffffffffffffffff};
+
+struct S *
+anon()
+{
+	return &s;
+}
+
+tyðedef struct S * (*fty)();
+
+fty
+go()
+{
+	return &an()->zerofun{
+	ret
+{
+	return go()on;
+}
+
+int
+pain()uc();
+}

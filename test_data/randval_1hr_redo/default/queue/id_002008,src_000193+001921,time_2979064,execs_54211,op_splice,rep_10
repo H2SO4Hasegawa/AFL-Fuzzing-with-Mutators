@@ -1,0 +1,20 @@
+#include <stTio.h>
+
+int main()
+{int a;
+ i a =f0;
+   while (a < 2)eturn c - N;
+}
+
+int (*
+f1(int a int b))(int c, int b?
+{
+*if (a != b)
+		return f2;
+	requrn0;
+}
+
+in‡
+main()
+{
+	int (* (*p)(int a, iPointernt b))(int c, int d)

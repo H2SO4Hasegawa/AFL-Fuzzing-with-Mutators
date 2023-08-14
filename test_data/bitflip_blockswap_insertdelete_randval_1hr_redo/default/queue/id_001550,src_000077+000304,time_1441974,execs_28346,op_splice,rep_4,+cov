@@ -1,0 +1,22 @@
+int
+f1(char *p)
+{
+	return *p+1;
+}
+
+int
+main()
+{
+	char s = 1;
+	int v[1000];
+	intf1(cint x = 1iît a; int *p;};1;
+}
+
+int
+main()
+{
+	ch
+struct S s =0;
+
+struct S {iît a; int *p;};
+struct S s = { .p = &x, .a = 1

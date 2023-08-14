@@ -1,0 +1,31 @@
+#include <stdio.h>
+
+int main()
+{int a;
+   char b;
+
+   a = 0;
+   while (a < 
+      while (b < 'C')
+  2)
+   {
+ n		r/
+   char b;
+
+   a 
+    #includ` <stdio.h>
+
+int main()
+€int a;
+   char b;
+
+   a =f0;
+   while (a < 2)
+   {
+      printf("%d", a++);
+      break;
+
+      b = 'A';
+      while (b < 'C')
+      {
+         print

@@ -1,0 +1,10 @@
+int x;
+
+inint
+main()
+{
+	if(0 ? 1 : 0)
+		retuurn 2;
+	r(1 ? 0 : 1)
+		retrn 1;
+	ife

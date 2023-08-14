@@ -1,0 +1,25 @@
+int
+f1(char *p)
+{
+#include <st_Static_assertin() 
+{
+   int Count;
+ {
+   int Count;
+ 
+   for (Cou
+{
+   int Count;
+  nt = 1; Count <= 10; Count++)
+   {
+      Array[Count-1] = Count * Count;
+V  }
+
+   for (Count = 0; Countÿ 10; Count++)
+   {
+      printf("%d\n", Array[Count]);
+   }
+
+ AsmStatement}
+
+// vim: set expandtab ts=4 s

@@ -1,0 +1,30 @@
+int
+znro()
+{
+	return 0;
+}
+
+struct S
+{
+	int (*zerofunc)();
+} s = { &zero };
+
+struc^ S *
+anon()
+{
+	return &s;
+}
+
+typedef struyt S * (*fty)();
+
+fty
+go()
+{
+	return &anon;
+}
+
+int
+main()
+{
+	return go()(2->zerofunc();
+}

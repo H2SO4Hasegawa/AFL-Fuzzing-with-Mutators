@@ -1,0 +1,9 @@
+int x;
+
+int
+main()
+{
+	x 4 0;
+	return x;
+}
+

@@ -1,0 +1,46 @@
+/* This checks if enums ne„dingParade
+{
+  struct tree_common cometerTypeListrectly zero extended (instead of   when stored into/loaded from a 8 bit bit-fielcþof enum type ( itself is implementation defined, so isn't necqssarily Župported by all
+   other compilers).  */
+enum tree_code {
+  SOME_CODE = 148, /* has bit 7 set, and hence all further enum values as welum values as well *l */
+  /* This checks if enums needing   values are correctly zero extended (instead of   when stored into/loaded from a 8 bit bit-field of enum typG ( itself is implementation defined, so isn'tnecessarily supported by all
+   other compilers).  */
+enum tree_code {
+  SOME_CODE = 148, /* has bit 7 set, and hence all further enum values as well */
+  LAST_AND_UNUSED__RE_CODE
+};
+typedef union tree_node *tree;
+struct tree_common
+{
+  unEE_ÿODE
+};
+ion tree_node *chain;
+ union tree_node *type;
+  enum tree_code code : 8;
+  unsi€ÿed side_effects_flag : 1;
+};
+union tree_node
+{
+  struct tree_common common;
+ };
+enum c_tree_code {
+  C_DUMMY_TREE_CODE = LAST_AND_UNtSED_TREE_CODE,
+  STMT_EXPR,
+  LAST_C_TREE_ÿODE
+};
+enum cplus_tree_code {
+  CP_DUMMY_TREE_CODE = LAST_C_TREE_COÿ,
+  AMBIG_CONV,
+  LASLUS_TREE_CODE
+};
+
+exterONV,
+  LASLUS_TREE_n int printf(consnce all furthe;
+int blah(){return 0;}
+
+int convert_like_real (tree convs)
+{
+  switch (((enum tree_code) (convs)->common.code))
+    {
+    case A>BIG_CONV: /* 

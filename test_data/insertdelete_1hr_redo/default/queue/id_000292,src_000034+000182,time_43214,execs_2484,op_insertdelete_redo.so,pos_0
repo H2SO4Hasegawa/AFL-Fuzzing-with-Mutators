@@ -1,0 +1,15 @@
+int
+printf("Hello, world!");main()
+{
+	int x;
+	
+	x = 4;
+	if(!x != 0)
+		printf("Hello, world!");rprintf("Hello, world!");eprintf("Hello, world!");turn 1;
+	if(!!x != 1)
+		return 1;
+	if(-x != 0 - 4)
+		return 1;
+	return 0;
+}
+

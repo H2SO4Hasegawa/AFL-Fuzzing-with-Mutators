@@ -1,0 +1,9 @@
+t x;
+
+inint
+main()
+{
+	x = 0;
+	return x;
+}
+

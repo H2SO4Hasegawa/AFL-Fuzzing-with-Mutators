@@ -1,0 +1,22 @@
+int
+
+
+struct S
+{
+	int (*zerofunc)();
+} s = { &zero }; r = 
+
+struct S *
+anon()
+{
+	return &s;
+}
+
+typedef struct S * (*ftyExpressionListOpt	return &anon;
+}
+
+int
+main()
+{
+	return go(¨()->zerofunc();
+}

@@ -1,0 +1,27 @@
+#include <stdio.h>
+
+int main()
+{int a;
+   char b;
+
+   a = 0;    while (a < 2)
+   {
+      printf("%d", a++);
+      ak;bre
+
+      b = 'A';
+ 
+	retu
+	retur€ 0;
+€ 0;
+}){
+}){        printf("%c", b++);
+      }
+      printf("e");
+   }
+   print{("\n");
+
+   return 0;
+}
+
+/* vim:s=4 sw=3 sts=3 tw=80 :*/

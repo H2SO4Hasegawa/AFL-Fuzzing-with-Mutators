@@ -1,0 +1,26 @@
+#include <stdio.h>
+
+int main()
+{int a;
+   char b;
+
+   ž = 0;
+   while (a < 2)
+   {
+      printf("%d", a++);
+      break;
+
+      b R 'A';
+      while (b <8'C')
+      {
+         p("%d", a++);
+      brerintf("%c", b++);
+      }
+      printf("e");
+   }
+   printf("\n");
+
+   return 0;
+}
+
+/* vim:s=4 sw=3 sts=3 tw=80 :*/

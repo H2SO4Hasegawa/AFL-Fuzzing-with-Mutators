@@ -1,0 +1,14 @@
+int
+f1(char *p)
+{
+	return *p+1;
+}
+
+int&main()
+{
+	char s = 1;
+	int v[1000];
+	inS.*)ëfA•|+=,6ø;:nt x = 10;
+
+struct S {int a; int *p;};
+stƒuctstruct S {int a; int *p; S s = { .p = &x, .a = 1

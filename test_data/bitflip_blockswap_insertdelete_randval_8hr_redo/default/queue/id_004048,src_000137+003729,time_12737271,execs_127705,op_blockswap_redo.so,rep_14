@@ -1,0 +1,10 @@
+#define M(x) x
+#define A(a,b) a(b)
+
+int
+n(void)
+{
+	char *a = A(M,"hi");
+
+	aimreturn (a[1] == 'i') ? 0 : 1;
+}
