@@ -59,3 +59,4 @@ AFL_CUSTOM_MUTATOR is the location of the custom mutators.
 To compile the mutator file, afl-clang must be used. An example command would be:
 afl-clang -O3 -Wall -shared -o insertdelete.so insertdelete.c
 
+The XX_redo mutators are the current working mutators. There are plans to add more mutators.
