@@ -46,6 +46,8 @@ The project can be set up by going through the following steps:
 5.	Run 0-install-afl_plusplus_from_src.sh.
 6.	Run 1-instrument-llvm.sh.
 
+Please check the CMake version when executing the build script. The CMake version have to be updated in order for the build to work
+
 To run AFL++ with desired custom mutator, an example command is shown below:
 AFL_CUSTOM_MUTATOR_LIBRARY="/home/ubuntu/gujianing/custom_mutators/example.so;" afl-fuzz -m 90000000000 -i corpus -o output13 -f a.c -x clang.dict build/bin/clang++ a.c
 
