@@ -48,6 +48,8 @@ The project can be set up by going through the following steps:
 
 Please check the CMake version when executing the build script. The CMake version have to be updated in order for the build to work
 
+If theres an error regarding core pattern, export AFL_I_DONT_CARE_ABOUT_MISSING_CRASHES=1
+
 To run AFL++ with desired custom mutator, an example command is shown below:
 AFL_CUSTOM_MUTATOR_LIBRARY="/home/ubuntu/gujianing/custom_mutators/example.so;" afl-fuzz -m 90000000000 -i corpus -o output13 -f a.c -x clang.dict build/bin/clang++ a.c
 
@@ -60,5 +62,7 @@ AFL_CUSTOM_MUTATOR is the location of the custom mutators.
 
 To compile the mutator file, afl-clang must be used. An example command would be:
 afl-clang -O3 -Wall -shared -o insertdelete.so insertdelete.c
+
+When compiling the mutators, please change the path of "/home/ubuntu/gujianing/AFLplusplus/include/afl-fuzz.h" in the custom mutator .c file to the location on your machine. It should be in somewhere_in_your_system/AFLplusplus/include/
 
 The XX_redo mutators are the current working mutators. There are plans to add more mutators.
